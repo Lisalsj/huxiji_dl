@@ -1,0 +1,36 @@
+=== SET_SIMVRR ===
+Accuracy: 0.8053
+Recall:   0.3273
+F1 Score: 0.3225
+AUC:      0.4902
+
+=== SET_VENTMODE ===
+Accuracy: 0.9054
+Recall:   0.4954
+F1 Score: 0.4752
+AUC:      0.4954
+
+=== SET_TRIGGERFLOW ===
+Accuracy: 0.9889
+Recall:   0.5000
+F1 Score: 0.4972
+AUC:      nan
+
+=== SET_OXYGEN ===
+Accuracy: 0.7691
+Recall:   0.3306
+F1 Score: 0.2995
+AUC:      0.4969
+
+=== SET_PEEP ===
+Accuracy: 0.8484
+Recall:   0.3259
+F1 Score: 0.3067
+AUC:      0.4972
+
+=== SET_PSUPP ===
+Accuracy: 0.4771
+Recall:   0.3462
+F1 Score: 0.3453
+AUC:      0.5077
+

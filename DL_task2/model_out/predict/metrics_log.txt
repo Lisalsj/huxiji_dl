@@ -1,0 +1,10 @@
+     SET_SIMVRR  norm_MSE: 9.134975  | norm_MAE: 17.866695  | n=719
+   SET_VENTMODE  norm_MSE: 31.581363  | norm_MAE: 41.515994  | n=719
+SET_TRIGGERFLOW  norm_MSE: 2.539090  | norm_MAE: 8.871364  | n=719
+     SET_OXYGEN  norm_MSE: 4.074248  | norm_MAE: 16.056923  | n=719
+       SET_PEEP  norm_MSE: 4.362850  | norm_MAE: 15.707000  | n=719
+      SET_PSUPP  norm_MSE: 4.164896  | norm_MAE: 16.445063  | n=719
+----------------------------------------------------------------------
+Total norm_MSE (sum over fields): 55.857422
+Total norm_MAE (sum over fields): 116.463039
+Field count included: 6

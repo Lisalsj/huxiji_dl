@@ -1,0 +1,2878 @@
+[
+  {
+    "id": 0,
+    "task2_output": "{\"SET_SIMVRR\": \"2\", \"SET_VENTMODE\": \"5120\", \"SET_TRIGGERFLOW\": \"2.0942087\", \"SET_OXYGEN\": \"54\", \"SET_PEEP\": \"5\", \"SET_PSUPP\": \"13\"}"
+  },
+  {
+    "id": 1,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"5120\", \"SET_TRIGGERFLOW\": \"2.0968175\", \"SET_OXYGEN\": \"49\", \"SET_PEEP\": \"6\", \"SET_PSUPP\": \"14\"}"
+  },
+  {
+    "id": 2,
+    "task2_output": "{\"SET_SIMVRR\": \"19\", \"SET_VENTMODE\": \"5119\", \"SET_TRIGGERFLOW\": \"2.1082032\", \"SET_OXYGEN\": \"55\", \"SET_PEEP\": \"7\", \"SET_PSUPP\": \"12\"}"
+  },
+  {
+    "id": 3,
+    "task2_output": "{\"SET_SIMVRR\": \"16\", \"SET_VENTMODE\": \"5119\", \"SET_TRIGGERFLOW\": \"2.089951\", \"SET_OXYGEN\": \"59\", \"SET_PEEP\": \"13\", \"SET_PSUPP\": \"12\"}"
+  },
+  {
+    "id": 4,
+    "task2_output": "{\"SET_SIMVRR\": \"17\", \"SET_VENTMODE\": \"5119\", \"SET_TRIGGERFLOW\": \"2.0875647\", \"SET_OXYGEN\": \"58\", \"SET_PEEP\": \"12\", \"SET_PSUPP\": \"12\"}"
+  },
+  {
+    "id": 5,
+    "task2_output": "{\"SET_SIMVRR\": \"17\", \"SET_VENTMODE\": \"5119\", \"SET_TRIGGERFLOW\": \"2.0837467\", \"SET_OXYGEN\": \"57\", \"SET_PEEP\": \"11\", \"SET_PSUPP\": \"12\"}"
+  },
+  {
+    "id": 6,
+    "task2_output": "{\"SET_SIMVRR\": \"18\", \"SET_VENTMODE\": \"5119\", \"SET_TRIGGERFLOW\": \"2.0803075\", \"SET_OXYGEN\": \"56\", \"SET_PEEP\": \"9\", \"SET_PSUPP\": \"12\"}"
+  },
+  {
+    "id": 7,
+    "task2_output": "{\"SET_SIMVRR\": \"18\", \"SET_VENTMODE\": \"5119\", \"SET_TRIGGERFLOW\": \"2.0872793\", \"SET_OXYGEN\": \"55\", \"SET_PEEP\": \"7\", \"SET_PSUPP\": \"12\"}"
+  },
+  {
+    "id": 8,
+    "task2_output": "{\"SET_SIMVRR\": \"14\", \"SET_VENTMODE\": \"5119\", \"SET_TRIGGERFLOW\": \"2.1095073\", \"SET_OXYGEN\": \"50\", \"SET_PEEP\": \"4\", \"SET_PSUPP\": \"12\"}"
+  },
+  {
+    "id": 9,
+    "task2_output": "{\"SET_SIMVRR\": \"5\", \"SET_VENTMODE\": \"5120\", \"SET_TRIGGERFLOW\": \"2.07634\", \"SET_OXYGEN\": \"51\", \"SET_PEEP\": \"4\", \"SET_PSUPP\": \"12\"}"
+  },
+  {
+    "id": 10,
+    "task2_output": "{\"SET_SIMVRR\": \"2\", \"SET_VENTMODE\": \"5120\", \"SET_TRIGGERFLOW\": \"2.0942087\", \"SET_OXYGEN\": \"54\", \"SET_PEEP\": \"5\", \"SET_PSUPP\": \"13\"}"
+  },
+  {
+    "id": 11,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"5120\", \"SET_TRIGGERFLOW\": \"2.0968175\", \"SET_OXYGEN\": \"49\", \"SET_PEEP\": \"6\", \"SET_PSUPP\": \"14\"}"
+  },
+  {
+    "id": 12,
+    "task2_output": "{\"SET_SIMVRR\": \"1\", \"SET_VENTMODE\": \"5120\", \"SET_TRIGGERFLOW\": \"1.9698398\", \"SET_OXYGEN\": \"57\", \"SET_PEEP\": \"5\", \"SET_PSUPP\": \"13\"}"
+  },
+  {
+    "id": 13,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"5120\", \"SET_TRIGGERFLOW\": \"2.0998366\", \"SET_OXYGEN\": \"35\", \"SET_PEEP\": \"6\", \"SET_PSUPP\": \"7\"}"
+  },
+  {
+    "id": 14,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"5120\", \"SET_TRIGGERFLOW\": \"1.0821105\", \"SET_OXYGEN\": \"35\", \"SET_PEEP\": \"5\", \"SET_PSUPP\": \"5\"}"
+  },
+  {
+    "id": 15,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"5120\", \"SET_TRIGGERFLOW\": \"1.046107\", \"SET_OXYGEN\": \"33\", \"SET_PEEP\": \"5\", \"SET_PSUPP\": \"5\"}"
+  },
+  {
+    "id": 16,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"5120\", \"SET_TRIGGERFLOW\": \"1.9730195\", \"SET_OXYGEN\": \"41\", \"SET_PEEP\": \"5\", \"SET_PSUPP\": \"12\"}"
+  },
+  {
+    "id": 17,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"5120\", \"SET_TRIGGERFLOW\": \"2.0217743\", \"SET_OXYGEN\": \"39\", \"SET_PEEP\": \"6\", \"SET_PSUPP\": \"11\"}"
+  },
+  {
+    "id": 18,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"5120\", \"SET_TRIGGERFLOW\": \"1.0762225\", \"SET_OXYGEN\": \"43\", \"SET_PEEP\": \"5\", \"SET_PSUPP\": \"10\"}"
+  },
+  {
+    "id": 19,
+    "task2_output": "{\"SET_SIMVRR\": \"8\", \"SET_VENTMODE\": \"5119\", \"SET_TRIGGERFLOW\": \"1.1093339\", \"SET_OXYGEN\": \"42\", \"SET_PEEP\": \"5\", \"SET_PSUPP\": \"10\"}"
+  },
+  {
+    "id": 20,
+    "task2_output": "{\"SET_SIMVRR\": \"3\", \"SET_VENTMODE\": \"5120\", \"SET_TRIGGERFLOW\": \"0.9280021\", \"SET_OXYGEN\": \"42\", \"SET_PEEP\": \"5\", \"SET_PSUPP\": \"10\"}"
+  },
+  {
+    "id": 21,
+    "task2_output": "{\"SET_SIMVRR\": \"4\", \"SET_VENTMODE\": \"5119\", \"SET_TRIGGERFLOW\": \"0.9186976\", \"SET_OXYGEN\": \"37\", \"SET_PEEP\": \"5\", \"SET_PSUPP\": \"10\"}"
+  },
+  {
+    "id": 22,
+    "task2_output": "{\"SET_SIMVRR\": \"4\", \"SET_VENTMODE\": \"5119\", \"SET_TRIGGERFLOW\": \"0.88200164\", \"SET_OXYGEN\": \"34\", \"SET_PEEP\": \"5\", \"SET_PSUPP\": \"10\"}"
+  },
+  {
+    "id": 23,
+    "task2_output": "{\"SET_SIMVRR\": \"4\", \"SET_VENTMODE\": \"5119\", \"SET_TRIGGERFLOW\": \"0.88795567\", \"SET_OXYGEN\": \"30\", \"SET_PEEP\": \"5\", \"SET_PSUPP\": \"10\"}"
+  },
+  {
+    "id": 24,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"50021^MNDRY_VENT_MODE_CPAP_PLUS_PS^99MNDRY\", \"SET_TRIGGERFLOW\": \"1.9621729\", \"SET_OXYGEN\": \"29\", \"SET_PEEP\": \"5\", \"SET_PSUPP\": \"11\"}"
+  },
+  {
+    "id": 25,
+    "task2_output": "{\"SET_SIMVRR\": \"17\", \"SET_VENTMODE\": \"5119\", \"SET_TRIGGERFLOW\": \"2.0114086\", \"SET_OXYGEN\": \"40\", \"SET_PEEP\": \"8\", \"SET_PSUPP\": \"16\"}"
+  },
+  {
+    "id": 26,
+    "task2_output": "{\"SET_SIMVRR\": \"17\", \"SET_VENTMODE\": \"5119\", \"SET_TRIGGERFLOW\": \"2.0047805\", \"SET_OXYGEN\": \"37\", \"SET_PEEP\": \"7\", \"SET_PSUPP\": \"17\"}"
+  },
+  {
+    "id": 27,
+    "task2_output": "{\"SET_SIMVRR\": \"13\", \"SET_VENTMODE\": \"5119\", \"SET_TRIGGERFLOW\": \"1.9843237\", \"SET_OXYGEN\": \"42\", \"SET_PEEP\": \"8\", \"SET_PSUPP\": \"17\"}"
+  },
+  {
+    "id": 28,
+    "task2_output": "{\"SET_SIMVRR\": \"17\", \"SET_VENTMODE\": \"5119\", \"SET_TRIGGERFLOW\": \"2.0054712\", \"SET_OXYGEN\": \"38\", \"SET_PEEP\": \"7\", \"SET_PSUPP\": \"17\"}"
+  },
+  {
+    "id": 29,
+    "task2_output": "{\"SET_SIMVRR\": \"17\", \"SET_VENTMODE\": \"5119\", \"SET_TRIGGERFLOW\": \"2.0077014\", \"SET_OXYGEN\": \"37\", \"SET_PEEP\": \"8\", \"SET_PSUPP\": \"16\"}"
+  },
+  {
+    "id": 30,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"50009^MNDRY_VENT_MODE_SIMVPC^99MNDRY\", \"SET_TRIGGERFLOW\": \"2.0134525\", \"SET_OXYGEN\": \"42\", \"SET_PEEP\": \"8\", \"SET_PSUPP\": \"10\"}"
+  },
+  {
+    "id": 31,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"50021^MNDRY_VENT_MODE_CPAP_PLUS_PS^99MNDRY\", \"SET_TRIGGERFLOW\": \"1.9684024\", \"SET_OXYGEN\": \"44\", \"SET_PEEP\": \"7\", \"SET_PSUPP\": \"10\"}"
+  },
+  {
+    "id": 32,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"50009^MNDRY_VENT_MODE_SIMVPC^99MNDRY\", \"SET_TRIGGERFLOW\": \"2.0268147\", \"SET_OXYGEN\": \"45\", \"SET_PEEP\": \"9\", \"SET_PSUPP\": \"12\"}"
+  },
+  {
+    "id": 33,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"50009^MNDRY_VENT_MODE_SIMVPC^99MNDRY\", \"SET_TRIGGERFLOW\": \"2.0072017\", \"SET_OXYGEN\": \"46\", \"SET_PEEP\": \"11\", \"SET_PSUPP\": \"12\"}"
+  },
+  {
+    "id": 34,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"50009^MNDRY_VENT_MODE_SIMVPC^99MNDRY\", \"SET_TRIGGERFLOW\": \"2.0238392\", \"SET_OXYGEN\": \"46\", \"SET_PEEP\": \"10\", \"SET_PSUPP\": \"12\"}"
+  },
+  {
+    "id": 35,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"50009^MNDRY_VENT_MODE_SIMVPC^99MNDRY\", \"SET_TRIGGERFLOW\": \"2.0354633\", \"SET_OXYGEN\": \"45\", \"SET_PEEP\": \"10\", \"SET_PSUPP\": \"12\"}"
+  },
+  {
+    "id": 36,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"50009^MNDRY_VENT_MODE_SIMVPC^99MNDRY\", \"SET_TRIGGERFLOW\": \"2.0381672\", \"SET_OXYGEN\": \"45\", \"SET_PEEP\": \"9\", \"SET_PSUPP\": \"11\"}"
+  },
+  {
+    "id": 37,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"50009^MNDRY_VENT_MODE_SIMVPC^99MNDRY\", \"SET_TRIGGERFLOW\": \"2.0221205\", \"SET_OXYGEN\": \"47\", \"SET_PEEP\": \"10\", \"SET_PSUPP\": \"11\"}"
+  },
+  {
+    "id": 38,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"50009^MNDRY_VENT_MODE_SIMVPC^99MNDRY\", \"SET_TRIGGERFLOW\": \"2.0204954\", \"SET_OXYGEN\": \"46\", \"SET_PEEP\": \"10\", \"SET_PSUPP\": \"12\"}"
+  },
+  {
+    "id": 39,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"50021^MNDRY_VENT_MODE_CPAP_PLUS_PS^99MNDRY\", \"SET_TRIGGERFLOW\": \"1.9793668\", \"SET_OXYGEN\": \"47\", \"SET_PEEP\": \"10\", \"SET_PSUPP\": \"11\"}"
+  },
+  {
+    "id": 40,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"50021^MNDRY_VENT_MODE_CPAP_PLUS_PS^99MNDRY\", \"SET_TRIGGERFLOW\": \"1.9663368\", \"SET_OXYGEN\": \"46\", \"SET_PEEP\": \"10\", \"SET_PSUPP\": \"13\"}"
+  },
+  {
+    "id": 41,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"50021^MNDRY_VENT_MODE_CPAP_PLUS_PS^99MNDRY\", \"SET_TRIGGERFLOW\": \"1.9934175\", \"SET_OXYGEN\": \"42\", \"SET_PEEP\": \"7\", \"SET_PSUPP\": \"5\"}"
+  },
+  {
+    "id": 42,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"50021^MNDRY_VENT_MODE_CPAP_PLUS_PS^99MNDRY\", \"SET_TRIGGERFLOW\": \"1.988601\", \"SET_OXYGEN\": \"42\", \"SET_PEEP\": \"7\", \"SET_PSUPP\": \"4\"}"
+  },
+  {
+    "id": 43,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"50021^MNDRY_VENT_MODE_CPAP_PLUS_PS^99MNDRY\", \"SET_TRIGGERFLOW\": \"1.9746516\", \"SET_OXYGEN\": \"30\", \"SET_PEEP\": \"5\", \"SET_PSUPP\": \"11\"}"
+  },
+  {
+    "id": 44,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"50021^MNDRY_VENT_MODE_CPAP_PLUS_PS^99MNDRY\", \"SET_TRIGGERFLOW\": \"1.9715592\", \"SET_OXYGEN\": \"31\", \"SET_PEEP\": \"5\", \"SET_PSUPP\": \"13\"}"
+  },
+  {
+    "id": 45,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"50021^MNDRY_VENT_MODE_CPAP_PLUS_PS^99MNDRY\", \"SET_TRIGGERFLOW\": \"1.9509342\", \"SET_OXYGEN\": \"32\", \"SET_PEEP\": \"5\", \"SET_PSUPP\": \"9\"}"
+  },
+  {
+    "id": 46,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"50021^MNDRY_VENT_MODE_CPAP_PLUS_PS^99MNDRY\", \"SET_TRIGGERFLOW\": \"1.9594467\", \"SET_OXYGEN\": \"33\", \"SET_PEEP\": \"5\", \"SET_PSUPP\": \"8\"}"
+  },
+  {
+    "id": 47,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"50021^MNDRY_VENT_MODE_CPAP_PLUS_PS^99MNDRY\", \"SET_TRIGGERFLOW\": \"1.9587708\", \"SET_OXYGEN\": \"33\", \"SET_PEEP\": \"5\", \"SET_PSUPP\": \"7\"}"
+  },
+  {
+    "id": 48,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"50021^MNDRY_VENT_MODE_CPAP_PLUS_PS^99MNDRY\", \"SET_TRIGGERFLOW\": \"1.9594704\", \"SET_OXYGEN\": \"33\", \"SET_PEEP\": \"5\", \"SET_PSUPP\": \"9\"}"
+  },
+  {
+    "id": 49,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"50021^MNDRY_VENT_MODE_CPAP_PLUS_PS^99MNDRY\", \"SET_TRIGGERFLOW\": \"1.9420903\", \"SET_OXYGEN\": \"34\", \"SET_PEEP\": \"5\", \"SET_PSUPP\": \"6\"}"
+  },
+  {
+    "id": 50,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"50021^MNDRY_VENT_MODE_CPAP_PLUS_PS^99MNDRY\", \"SET_TRIGGERFLOW\": \"1.9365494\", \"SET_OXYGEN\": \"34\", \"SET_PEEP\": \"5\", \"SET_PSUPP\": \"7\"}"
+  },
+  {
+    "id": 51,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"50021^MNDRY_VENT_MODE_CPAP_PLUS_PS^99MNDRY\", \"SET_TRIGGERFLOW\": \"1.9534009\", \"SET_OXYGEN\": \"33\", \"SET_PEEP\": \"5\", \"SET_PSUPP\": \"8\"}"
+  },
+  {
+    "id": 52,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"50021^MNDRY_VENT_MODE_CPAP_PLUS_PS^99MNDRY\", \"SET_TRIGGERFLOW\": \"1.9649066\", \"SET_OXYGEN\": \"33\", \"SET_PEEP\": \"5\", \"SET_PSUPP\": \"9\"}"
+  },
+  {
+    "id": 53,
+    "task2_output": "{\"SET_SIMVRR\": \"6\", \"SET_VENTMODE\": \"5119\", \"SET_TRIGGERFLOW\": \"1.995466\", \"SET_OXYGEN\": \"34\", \"SET_PEEP\": \"6\", \"SET_PSUPP\": \"12\"}"
+  },
+  {
+    "id": 54,
+    "task2_output": "{\"SET_SIMVRR\": \"11\", \"SET_VENTMODE\": \"5119\", \"SET_TRIGGERFLOW\": \"1.9779478\", \"SET_OXYGEN\": \"35\", \"SET_PEEP\": \"5\", \"SET_PSUPP\": \"12\"}"
+  },
+  {
+    "id": 55,
+    "task2_output": "{\"SET_SIMVRR\": \"13\", \"SET_VENTMODE\": \"5119\", \"SET_TRIGGERFLOW\": \"2.0261793\", \"SET_OXYGEN\": \"55\", \"SET_PEEP\": \"9\", \"SET_PSUPP\": \"17\"}"
+  },
+  {
+    "id": 56,
+    "task2_output": "{\"SET_SIMVRR\": \"17\", \"SET_VENTMODE\": \"5119\", \"SET_TRIGGERFLOW\": \"2.0267918\", \"SET_OXYGEN\": \"58\", \"SET_PEEP\": \"10\", \"SET_PSUPP\": \"17\"}"
+  },
+  {
+    "id": 57,
+    "task2_output": "{\"SET_SIMVRR\": \"19\", \"SET_VENTMODE\": \"5119\", \"SET_TRIGGERFLOW\": \"2.0339904\", \"SET_OXYGEN\": \"57\", \"SET_PEEP\": \"12\", \"SET_PSUPP\": \"16\"}"
+  },
+  {
+    "id": 58,
+    "task2_output": "{\"SET_SIMVRR\": \"19\", \"SET_VENTMODE\": \"5119\", \"SET_TRIGGERFLOW\": \"2.0223892\", \"SET_OXYGEN\": \"54\", \"SET_PEEP\": \"13\", \"SET_PSUPP\": \"16\"}"
+  },
+  {
+    "id": 59,
+    "task2_output": "{\"SET_SIMVRR\": \"19\", \"SET_VENTMODE\": \"5119\", \"SET_TRIGGERFLOW\": \"2.0289848\", \"SET_OXYGEN\": \"54\", \"SET_PEEP\": \"12\", \"SET_PSUPP\": \"16\"}"
+  },
+  {
+    "id": 60,
+    "task2_output": "{\"SET_SIMVRR\": \"19\", \"SET_VENTMODE\": \"5119\", \"SET_TRIGGERFLOW\": \"2.0263665\", \"SET_OXYGEN\": \"54\", \"SET_PEEP\": \"11\", \"SET_PSUPP\": \"16\"}"
+  },
+  {
+    "id": 61,
+    "task2_output": "{\"SET_SIMVRR\": \"18\", \"SET_VENTMODE\": \"5119\", \"SET_TRIGGERFLOW\": \"2.0193064\", \"SET_OXYGEN\": \"55\", \"SET_PEEP\": \"10\", \"SET_PSUPP\": \"16\"}"
+  },
+  {
+    "id": 62,
+    "task2_output": "{\"SET_SIMVRR\": \"18\", \"SET_VENTMODE\": \"5119\", \"SET_TRIGGERFLOW\": \"2.013099\", \"SET_OXYGEN\": \"53\", \"SET_PEEP\": \"9\", \"SET_PSUPP\": \"17\"}"
+  },
+  {
+    "id": 63,
+    "task2_output": "{\"SET_SIMVRR\": \"19\", \"SET_VENTMODE\": \"5119\", \"SET_TRIGGERFLOW\": \"2.0291793\", \"SET_OXYGEN\": \"57\", \"SET_PEEP\": \"11\", \"SET_PSUPP\": \"14\"}"
+  },
+  {
+    "id": 64,
+    "task2_output": "{\"SET_SIMVRR\": \"19\", \"SET_VENTMODE\": \"5119\", \"SET_TRIGGERFLOW\": \"2.02361\", \"SET_OXYGEN\": \"57\", \"SET_PEEP\": \"10\", \"SET_PSUPP\": \"14\"}"
+  },
+  {
+    "id": 65,
+    "task2_output": "{\"SET_SIMVRR\": \"18\", \"SET_VENTMODE\": \"5119\", \"SET_TRIGGERFLOW\": \"2.0110798\", \"SET_OXYGEN\": \"53\", \"SET_PEEP\": \"6\", \"SET_PSUPP\": \"14\"}"
+  },
+  {
+    "id": 66,
+    "task2_output": "{\"SET_SIMVRR\": \"18\", \"SET_VENTMODE\": \"5119\", \"SET_TRIGGERFLOW\": \"2.0289998\", \"SET_OXYGEN\": \"54\", \"SET_PEEP\": \"6\", \"SET_PSUPP\": \"12\"}"
+  },
+  {
+    "id": 67,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"50021^MNDRY_VENT_MODE_CPAP_PLUS_PS^99MNDRY\", \"SET_TRIGGERFLOW\": \"1.95997\", \"SET_OXYGEN\": \"30\", \"SET_PEEP\": \"6\", \"SET_PSUPP\": \"15\"}"
+  },
+  {
+    "id": 68,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"50021^MNDRY_VENT_MODE_CPAP_PLUS_PS^99MNDRY\", \"SET_TRIGGERFLOW\": \"2.0063717\", \"SET_OXYGEN\": \"32\", \"SET_PEEP\": \"6\", \"SET_PSUPP\": \"12\"}"
+  },
+  {
+    "id": 69,
+    "task2_output": "{\"SET_SIMVRR\": \"15\", \"SET_VENTMODE\": \"5119\", \"SET_TRIGGERFLOW\": \"1.1229582\", \"SET_OXYGEN\": \"36\", \"SET_PEEP\": \"5\", \"SET_PSUPP\": \"10\"}"
+  },
+  {
+    "id": 70,
+    "task2_output": "{\"SET_SIMVRR\": \"15\", \"SET_VENTMODE\": \"5119\", \"SET_TRIGGERFLOW\": \"1.0990803\", \"SET_OXYGEN\": \"33\", \"SET_PEEP\": \"5\", \"SET_PSUPP\": \"8\"}"
+  },
+  {
+    "id": 71,
+    "task2_output": "{\"SET_SIMVRR\": \"9\", \"SET_VENTMODE\": \"5119\", \"SET_TRIGGERFLOW\": \"1.0536497\", \"SET_OXYGEN\": \"33\", \"SET_PEEP\": \"4\", \"SET_PSUPP\": \"7\"}"
+  },
+  {
+    "id": 72,
+    "task2_output": "{\"SET_SIMVRR\": \"1\", \"SET_VENTMODE\": \"5120\", \"SET_TRIGGERFLOW\": \"1.0952723\", \"SET_OXYGEN\": \"32\", \"SET_PEEP\": \"5\", \"SET_PSUPP\": \"7\"}"
+  },
+  {
+    "id": 73,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"5120\", \"SET_TRIGGERFLOW\": \"0.9799312\", \"SET_OXYGEN\": \"31\", \"SET_PEEP\": \"5\", \"SET_PSUPP\": \"8\"}"
+  },
+  {
+    "id": 74,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"5120\", \"SET_TRIGGERFLOW\": \"0.9435979\", \"SET_OXYGEN\": \"31\", \"SET_PEEP\": \"5\", \"SET_PSUPP\": \"7\"}"
+  },
+  {
+    "id": 75,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"50009^MNDRY_VENT_MODE_SIMVPC^99MNDRY\", \"SET_TRIGGERFLOW\": \"1.9690734\", \"SET_OXYGEN\": \"33\", \"SET_PEEP\": \"5\", \"SET_PSUPP\": \"10\"}"
+  },
+  {
+    "id": 76,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"50009^MNDRY_VENT_MODE_SIMVPC^99MNDRY\", \"SET_TRIGGERFLOW\": \"1.9912348\", \"SET_OXYGEN\": \"33\", \"SET_PEEP\": \"5\", \"SET_PSUPP\": \"10\"}"
+  },
+  {
+    "id": 77,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"50009^MNDRY_VENT_MODE_SIMVPC^99MNDRY\", \"SET_TRIGGERFLOW\": \"1.9806037\", \"SET_OXYGEN\": \"32\", \"SET_PEEP\": \"5\", \"SET_PSUPP\": \"9\"}"
+  },
+  {
+    "id": 78,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"50021^MNDRY_VENT_MODE_CPAP_PLUS_PS^99MNDRY\", \"SET_TRIGGERFLOW\": \"1.9758052\", \"SET_OXYGEN\": \"35\", \"SET_PEEP\": \"6\", \"SET_PSUPP\": \"8\"}"
+  },
+  {
+    "id": 79,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"50021^MNDRY_VENT_MODE_CPAP_PLUS_PS^99MNDRY\", \"SET_TRIGGERFLOW\": \"1.9502177\", \"SET_OXYGEN\": \"33\", \"SET_PEEP\": \"5\", \"SET_PSUPP\": \"7\"}"
+  },
+  {
+    "id": 80,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"50021^MNDRY_VENT_MODE_CPAP_PLUS_PS^99MNDRY\", \"SET_TRIGGERFLOW\": \"1.944893\", \"SET_OXYGEN\": \"33\", \"SET_PEEP\": \"5\", \"SET_PSUPP\": \"6\"}"
+  },
+  {
+    "id": 81,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"50021^MNDRY_VENT_MODE_CPAP_PLUS_PS^99MNDRY\", \"SET_TRIGGERFLOW\": \"1.9498922\", \"SET_OXYGEN\": \"34\", \"SET_PEEP\": \"5\", \"SET_PSUPP\": \"8\"}"
+  },
+  {
+    "id": 82,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"50021^MNDRY_VENT_MODE_CPAP_PLUS_PS^99MNDRY\", \"SET_TRIGGERFLOW\": \"1.9543241\", \"SET_OXYGEN\": \"36\", \"SET_PEEP\": \"7\", \"SET_PSUPP\": \"11\"}"
+  },
+  {
+    "id": 83,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"50021^MNDRY_VENT_MODE_CPAP_PLUS_PS^99MNDRY\", \"SET_TRIGGERFLOW\": \"1.9664012\", \"SET_OXYGEN\": \"33\", \"SET_PEEP\": \"5\", \"SET_PSUPP\": \"8\"}"
+  },
+  {
+    "id": 84,
+    "task2_output": "{\"SET_SIMVRR\": \"1\", \"SET_VENTMODE\": \"50009^MNDRY_VENT_MODE_SIMVPC^99MNDRY\", \"SET_TRIGGERFLOW\": \"1.9540203\", \"SET_OXYGEN\": \"31\", \"SET_PEEP\": \"5\", \"SET_PSUPP\": \"11\"}"
+  },
+  {
+    "id": 85,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"50021^MNDRY_VENT_MODE_CPAP_PLUS_PS^99MNDRY\", \"SET_TRIGGERFLOW\": \"1.9010248\", \"SET_OXYGEN\": \"32\", \"SET_PEEP\": \"5\", \"SET_PSUPP\": \"8\"}"
+  },
+  {
+    "id": 86,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"50021^MNDRY_VENT_MODE_CPAP_PLUS_PS^99MNDRY\", \"SET_TRIGGERFLOW\": \"1.938379\", \"SET_OXYGEN\": \"33\", \"SET_PEEP\": \"5\", \"SET_PSUPP\": \"6\"}"
+  },
+  {
+    "id": 87,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"50021^MNDRY_VENT_MODE_CPAP_PLUS_PS^99MNDRY\", \"SET_TRIGGERFLOW\": \"1.9274037\", \"SET_OXYGEN\": \"32\", \"SET_PEEP\": \"5\", \"SET_PSUPP\": \"8\"}"
+  },
+  {
+    "id": 88,
+    "task2_output": "{\"SET_SIMVRR\": \"15\", \"SET_VENTMODE\": \"5119\", \"SET_TRIGGERFLOW\": \"2.0194724\", \"SET_OXYGEN\": \"37\", \"SET_PEEP\": \"6\", \"SET_PSUPP\": \"11\"}"
+  },
+  {
+    "id": 89,
+    "task2_output": "{\"SET_SIMVRR\": \"15\", \"SET_VENTMODE\": \"5119\", \"SET_TRIGGERFLOW\": \"2.0196185\", \"SET_OXYGEN\": \"37\", \"SET_PEEP\": \"6\", \"SET_PSUPP\": \"12\"}"
+  },
+  {
+    "id": 90,
+    "task2_output": "{\"SET_SIMVRR\": \"12\", \"SET_VENTMODE\": \"5119\", \"SET_TRIGGERFLOW\": \"2.0109725\", \"SET_OXYGEN\": \"35\", \"SET_PEEP\": \"6\", \"SET_PSUPP\": \"12\"}"
+  },
+  {
+    "id": 91,
+    "task2_output": "{\"SET_SIMVRR\": \"11\", \"SET_VENTMODE\": \"5119\", \"SET_TRIGGERFLOW\": \"2.0179331\", \"SET_OXYGEN\": \"39\", \"SET_PEEP\": \"6\", \"SET_PSUPP\": \"11\"}"
+  },
+  {
+    "id": 92,
+    "task2_output": "{\"SET_SIMVRR\": \"11\", \"SET_VENTMODE\": \"5119\", \"SET_TRIGGERFLOW\": \"1.9923431\", \"SET_OXYGEN\": \"38\", \"SET_PEEP\": \"6\", \"SET_PSUPP\": \"9\"}"
+  },
+  {
+    "id": 93,
+    "task2_output": "{\"SET_SIMVRR\": \"7\", \"SET_VENTMODE\": \"5119\", \"SET_TRIGGERFLOW\": \"1.9695076\", \"SET_OXYGEN\": \"38\", \"SET_PEEP\": \"6\", \"SET_PSUPP\": \"9\"}"
+  },
+  {
+    "id": 94,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"50009^MNDRY_VENT_MODE_SIMVPC^99MNDRY\", \"SET_TRIGGERFLOW\": \"2.0093515\", \"SET_OXYGEN\": \"46\", \"SET_PEEP\": \"9\", \"SET_PSUPP\": \"8\"}"
+  },
+  {
+    "id": 95,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"50009^MNDRY_VENT_MODE_SIMVPC^99MNDRY\", \"SET_TRIGGERFLOW\": \"2.0042627\", \"SET_OXYGEN\": \"46\", \"SET_PEEP\": \"9\", \"SET_PSUPP\": \"8\"}"
+  },
+  {
+    "id": 96,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"50009^MNDRY_VENT_MODE_SIMVPC^99MNDRY\", \"SET_TRIGGERFLOW\": \"2.0018332\", \"SET_OXYGEN\": \"48\", \"SET_PEEP\": \"9\", \"SET_PSUPP\": \"8\"}"
+  },
+  {
+    "id": 97,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"50009^MNDRY_VENT_MODE_SIMVPC^99MNDRY\", \"SET_TRIGGERFLOW\": \"1.9944073\", \"SET_OXYGEN\": \"47\", \"SET_PEEP\": \"9\", \"SET_PSUPP\": \"7\"}"
+  },
+  {
+    "id": 98,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"50009^MNDRY_VENT_MODE_SIMVPC^99MNDRY\", \"SET_TRIGGERFLOW\": \"1.9896822\", \"SET_OXYGEN\": \"46\", \"SET_PEEP\": \"9\", \"SET_PSUPP\": \"6\"}"
+  },
+  {
+    "id": 99,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"50021^MNDRY_VENT_MODE_CPAP_PLUS_PS^99MNDRY\", \"SET_TRIGGERFLOW\": \"0.99985844\", \"SET_OXYGEN\": \"32\", \"SET_PEEP\": \"5\", \"SET_PSUPP\": \"12\"}"
+  },
+  {
+    "id": 100,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"50021^MNDRY_VENT_MODE_CPAP_PLUS_PS^99MNDRY\", \"SET_TRIGGERFLOW\": \"0.9976817\", \"SET_OXYGEN\": \"32\", \"SET_PEEP\": \"5\", \"SET_PSUPP\": \"11\"}"
+  },
+  {
+    "id": 101,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"50021^MNDRY_VENT_MODE_CPAP_PLUS_PS^99MNDRY\", \"SET_TRIGGERFLOW\": \"1.0296317\", \"SET_OXYGEN\": \"32\", \"SET_PEEP\": \"5\", \"SET_PSUPP\": \"10\"}"
+  },
+  {
+    "id": 102,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"50021^MNDRY_VENT_MODE_CPAP_PLUS_PS^99MNDRY\", \"SET_TRIGGERFLOW\": \"2.0488245\", \"SET_OXYGEN\": \"35\", \"SET_PEEP\": \"6\", \"SET_PSUPP\": \"8\"}"
+  },
+  {
+    "id": 103,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"50021^MNDRY_VENT_MODE_CPAP_PLUS_PS^99MNDRY\", \"SET_TRIGGERFLOW\": \"1.1632658\", \"SET_OXYGEN\": \"33\", \"SET_PEEP\": \"5\", \"SET_PSUPP\": \"6\"}"
+  },
+  {
+    "id": 104,
+    "task2_output": "{\"SET_SIMVRR\": \"8\", \"SET_VENTMODE\": \"5119\", \"SET_TRIGGERFLOW\": \"2.0244534\", \"SET_OXYGEN\": \"42\", \"SET_PEEP\": \"5\", \"SET_PSUPP\": \"10\"}"
+  },
+  {
+    "id": 105,
+    "task2_output": "{\"SET_SIMVRR\": \"5\", \"SET_VENTMODE\": \"5119\", \"SET_TRIGGERFLOW\": \"2.0080426\", \"SET_OXYGEN\": \"43\", \"SET_PEEP\": \"5\", \"SET_PSUPP\": \"11\"}"
+  },
+  {
+    "id": 106,
+    "task2_output": "{\"SET_SIMVRR\": \"3\", \"SET_VENTMODE\": \"5120\", \"SET_TRIGGERFLOW\": \"1.9876863\", \"SET_OXYGEN\": \"43\", \"SET_PEEP\": \"6\", \"SET_PSUPP\": \"9\"}"
+  },
+  {
+    "id": 107,
+    "task2_output": "{\"SET_SIMVRR\": \"3\", \"SET_VENTMODE\": \"5120\", \"SET_TRIGGERFLOW\": \"2.0060492\", \"SET_OXYGEN\": \"39\", \"SET_PEEP\": \"5\", \"SET_PSUPP\": \"12\"}"
+  },
+  {
+    "id": 108,
+    "task2_output": "{\"SET_SIMVRR\": \"3\", \"SET_VENTMODE\": \"5120\", \"SET_TRIGGERFLOW\": \"2.0144646\", \"SET_OXYGEN\": \"37\", \"SET_PEEP\": \"5\", \"SET_PSUPP\": \"11\"}"
+  },
+  {
+    "id": 109,
+    "task2_output": "{\"SET_SIMVRR\": \"3\", \"SET_VENTMODE\": \"5120\", \"SET_TRIGGERFLOW\": \"2.0074167\", \"SET_OXYGEN\": \"34\", \"SET_PEEP\": \"6\", \"SET_PSUPP\": \"11\"}"
+  },
+  {
+    "id": 110,
+    "task2_output": "{\"SET_SIMVRR\": \"4\", \"SET_VENTMODE\": \"5119\", \"SET_TRIGGERFLOW\": \"1.973969\", \"SET_OXYGEN\": \"29\", \"SET_PEEP\": \"6\", \"SET_PSUPP\": \"11\"}"
+  },
+  {
+    "id": 111,
+    "task2_output": "{\"SET_SIMVRR\": \"10\", \"SET_VENTMODE\": \"5119\", \"SET_TRIGGERFLOW\": \"1.2926704\", \"SET_OXYGEN\": \"34\", \"SET_PEEP\": \"6\", \"SET_PSUPP\": \"12\"}"
+  },
+  {
+    "id": 112,
+    "task2_output": "{\"SET_SIMVRR\": \"8\", \"SET_VENTMODE\": \"5119\", \"SET_TRIGGERFLOW\": \"1.0792544\", \"SET_OXYGEN\": \"32\", \"SET_PEEP\": \"6\", \"SET_PSUPP\": \"11\"}"
+  },
+  {
+    "id": 113,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"5120\", \"SET_TRIGGERFLOW\": \"1.1981459\", \"SET_OXYGEN\": \"32\", \"SET_PEEP\": \"6\", \"SET_PSUPP\": \"11\"}"
+  },
+  {
+    "id": 114,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"5120\", \"SET_TRIGGERFLOW\": \"1.0715051\", \"SET_OXYGEN\": \"29\", \"SET_PEEP\": \"6\", \"SET_PSUPP\": \"12\"}"
+  },
+  {
+    "id": 115,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"5120\", \"SET_TRIGGERFLOW\": \"1.0307094\", \"SET_OXYGEN\": \"29\", \"SET_PEEP\": \"5\", \"SET_PSUPP\": \"12\"}"
+  },
+  {
+    "id": 116,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"5120\", \"SET_TRIGGERFLOW\": \"0.99397975\", \"SET_OXYGEN\": \"27\", \"SET_PEEP\": \"6\", \"SET_PSUPP\": \"11\"}"
+  },
+  {
+    "id": 117,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"5120\", \"SET_TRIGGERFLOW\": \"0.9343958\", \"SET_OXYGEN\": \"28\", \"SET_PEEP\": \"5\", \"SET_PSUPP\": \"10\"}"
+  },
+  {
+    "id": 118,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"5120\", \"SET_TRIGGERFLOW\": \"0.908491\", \"SET_OXYGEN\": \"28\", \"SET_PEEP\": \"5\", \"SET_PSUPP\": \"9\"}"
+  },
+  {
+    "id": 119,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"5120\", \"SET_TRIGGERFLOW\": \"0.9347539\", \"SET_OXYGEN\": \"29\", \"SET_PEEP\": \"5\", \"SET_PSUPP\": \"8\"}"
+  },
+  {
+    "id": 120,
+    "task2_output": "{\"SET_SIMVRR\": \"11\", \"SET_VENTMODE\": \"5119\", \"SET_TRIGGERFLOW\": \"1.9687431\", \"SET_OXYGEN\": \"42\", \"SET_PEEP\": \"7\", \"SET_PSUPP\": \"13\"}"
+  },
+  {
+    "id": 121,
+    "task2_output": "{\"SET_SIMVRR\": \"12\", \"SET_VENTMODE\": \"5119\", \"SET_TRIGGERFLOW\": \"2.0018554\", \"SET_OXYGEN\": \"39\", \"SET_PEEP\": \"6\", \"SET_PSUPP\": \"14\"}"
+  },
+  {
+    "id": 122,
+    "task2_output": "{\"SET_SIMVRR\": \"13\", \"SET_VENTMODE\": \"5119\", \"SET_TRIGGERFLOW\": \"2.0068636\", \"SET_OXYGEN\": \"38\", \"SET_PEEP\": \"7\", \"SET_PSUPP\": \"14\"}"
+  },
+  {
+    "id": 123,
+    "task2_output": "{\"SET_SIMVRR\": \"7\", \"SET_VENTMODE\": \"5119\", \"SET_TRIGGERFLOW\": \"2.0051782\", \"SET_OXYGEN\": \"37\", \"SET_PEEP\": \"6\", \"SET_PSUPP\": \"12\"}"
+  },
+  {
+    "id": 124,
+    "task2_output": "{\"SET_SIMVRR\": \"3\", \"SET_VENTMODE\": \"5120\", \"SET_TRIGGERFLOW\": \"2.0068476\", \"SET_OXYGEN\": \"37\", \"SET_PEEP\": \"6\", \"SET_PSUPP\": \"11\"}"
+  },
+  {
+    "id": 125,
+    "task2_output": "{\"SET_SIMVRR\": \"3\", \"SET_VENTMODE\": \"5120\", \"SET_TRIGGERFLOW\": \"2.0098784\", \"SET_OXYGEN\": \"32\", \"SET_PEEP\": \"6\", \"SET_PSUPP\": \"11\"}"
+  },
+  {
+    "id": 126,
+    "task2_output": "{\"SET_SIMVRR\": \"6\", \"SET_VENTMODE\": \"5119\", \"SET_TRIGGERFLOW\": \"1.9828022\", \"SET_OXYGEN\": \"30\", \"SET_PEEP\": \"6\", \"SET_PSUPP\": \"11\"}"
+  },
+  {
+    "id": 127,
+    "task2_output": "{\"SET_SIMVRR\": \"3\", \"SET_VENTMODE\": \"5120\", \"SET_TRIGGERFLOW\": \"1.9886619\", \"SET_OXYGEN\": \"29\", \"SET_PEEP\": \"6\", \"SET_PSUPP\": \"10\"}"
+  },
+  {
+    "id": 128,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"50021^MNDRY_VENT_MODE_CPAP_PLUS_PS^99MNDRY\", \"SET_TRIGGERFLOW\": \"2.0023727\", \"SET_OXYGEN\": \"46\", \"SET_PEEP\": \"9\", \"SET_PSUPP\": \"5\"}"
+  },
+  {
+    "id": 129,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"50009^MNDRY_VENT_MODE_SIMVPC^99MNDRY\", \"SET_TRIGGERFLOW\": \"2.007305\", \"SET_OXYGEN\": \"44\", \"SET_PEEP\": \"9\", \"SET_PSUPP\": \"5\"}"
+  },
+  {
+    "id": 130,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"50021^MNDRY_VENT_MODE_CPAP_PLUS_PS^99MNDRY\", \"SET_TRIGGERFLOW\": \"1.9997342\", \"SET_OXYGEN\": \"41\", \"SET_PEEP\": \"9\", \"SET_PSUPP\": \"5\"}"
+  },
+  {
+    "id": 131,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"50009^MNDRY_VENT_MODE_SIMVPC^99MNDRY\", \"SET_TRIGGERFLOW\": \"2.013565\", \"SET_OXYGEN\": \"41\", \"SET_PEEP\": \"8\", \"SET_PSUPP\": \"10\"}"
+  },
+  {
+    "id": 132,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"50009^MNDRY_VENT_MODE_SIMVPC^99MNDRY\", \"SET_TRIGGERFLOW\": \"2.005815\", \"SET_OXYGEN\": \"39\", \"SET_PEEP\": \"7\", \"SET_PSUPP\": \"12\"}"
+  },
+  {
+    "id": 133,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"50021^MNDRY_VENT_MODE_CPAP_PLUS_PS^99MNDRY\", \"SET_TRIGGERFLOW\": \"1.9709736\", \"SET_OXYGEN\": \"43\", \"SET_PEEP\": \"8\", \"SET_PSUPP\": \"11\"}"
+  },
+  {
+    "id": 134,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"50021^MNDRY_VENT_MODE_CPAP_PLUS_PS^99MNDRY\", \"SET_TRIGGERFLOW\": \"1.9688531\", \"SET_OXYGEN\": \"42\", \"SET_PEEP\": \"8\", \"SET_PSUPP\": \"10\"}"
+  },
+  {
+    "id": 135,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"50021^MNDRY_VENT_MODE_CPAP_PLUS_PS^99MNDRY\", \"SET_TRIGGERFLOW\": \"1.9770048\", \"SET_OXYGEN\": \"41\", \"SET_PEEP\": \"8\", \"SET_PSUPP\": \"8\"}"
+  },
+  {
+    "id": 136,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"50021^MNDRY_VENT_MODE_CPAP_PLUS_PS^99MNDRY\", \"SET_TRIGGERFLOW\": \"2.010913\", \"SET_OXYGEN\": \"42\", \"SET_PEEP\": \"8\", \"SET_PSUPP\": \"8\"}"
+  },
+  {
+    "id": 137,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"50009^MNDRY_VENT_MODE_SIMVPC^99MNDRY\", \"SET_TRIGGERFLOW\": \"1.9849126\", \"SET_OXYGEN\": \"40\", \"SET_PEEP\": \"7\", \"SET_PSUPP\": \"10\"}"
+  },
+  {
+    "id": 138,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"50009^MNDRY_VENT_MODE_SIMVPC^99MNDRY\", \"SET_TRIGGERFLOW\": \"2.0216105\", \"SET_OXYGEN\": \"43\", \"SET_PEEP\": \"8\", \"SET_PSUPP\": \"9\"}"
+  },
+  {
+    "id": 139,
+    "task2_output": "{\"SET_SIMVRR\": \"1\", \"SET_VENTMODE\": \"50009^MNDRY_VENT_MODE_SIMVPC^99MNDRY\", \"SET_TRIGGERFLOW\": \"1.9777461\", \"SET_OXYGEN\": \"43\", \"SET_PEEP\": \"6\", \"SET_PSUPP\": \"13\"}"
+  },
+  {
+    "id": 140,
+    "task2_output": "{\"SET_SIMVRR\": \"1\", \"SET_VENTMODE\": \"50009^MNDRY_VENT_MODE_SIMVPC^99MNDRY\", \"SET_TRIGGERFLOW\": \"1.9752172\", \"SET_OXYGEN\": \"42\", \"SET_PEEP\": \"6\", \"SET_PSUPP\": \"10\"}"
+  },
+  {
+    "id": 141,
+    "task2_output": "{\"SET_SIMVRR\": \"1\", \"SET_VENTMODE\": \"50009^MNDRY_VENT_MODE_SIMVPC^99MNDRY\", \"SET_TRIGGERFLOW\": \"1.9858923\", \"SET_OXYGEN\": \"42\", \"SET_PEEP\": \"6\", \"SET_PSUPP\": \"9\"}"
+  },
+  {
+    "id": 142,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"50021^MNDRY_VENT_MODE_CPAP_PLUS_PS^99MNDRY\", \"SET_TRIGGERFLOW\": \"1.9634337\", \"SET_OXYGEN\": \"46\", \"SET_PEEP\": \"6\", \"SET_PSUPP\": \"10\"}"
+  },
+  {
+    "id": 143,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"50021^MNDRY_VENT_MODE_CPAP_PLUS_PS^99MNDRY\", \"SET_TRIGGERFLOW\": \"1.9703114\", \"SET_OXYGEN\": \"44\", \"SET_PEEP\": \"6\", \"SET_PSUPP\": \"8\"}"
+  },
+  {
+    "id": 144,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"50021^MNDRY_VENT_MODE_CPAP_PLUS_PS^99MNDRY\", \"SET_TRIGGERFLOW\": \"1.9712636\", \"SET_OXYGEN\": \"44\", \"SET_PEEP\": \"6\", \"SET_PSUPP\": \"7\"}"
+  },
+  {
+    "id": 145,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"50021^MNDRY_VENT_MODE_CPAP_PLUS_PS^99MNDRY\", \"SET_TRIGGERFLOW\": \"1.9641914\", \"SET_OXYGEN\": \"41\", \"SET_PEEP\": \"6\", \"SET_PSUPP\": \"9\"}"
+  },
+  {
+    "id": 146,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"50021^MNDRY_VENT_MODE_CPAP_PLUS_PS^99MNDRY\", \"SET_TRIGGERFLOW\": \"1.9618552\", \"SET_OXYGEN\": \"41\", \"SET_PEEP\": \"6\", \"SET_PSUPP\": \"9\"}"
+  },
+  {
+    "id": 147,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"50021^MNDRY_VENT_MODE_CPAP_PLUS_PS^99MNDRY\", \"SET_TRIGGERFLOW\": \"1.9668244\", \"SET_OXYGEN\": \"37\", \"SET_PEEP\": \"5\", \"SET_PSUPP\": \"9\"}"
+  },
+  {
+    "id": 148,
+    "task2_output": "{\"SET_SIMVRR\": \"9\", \"SET_VENTMODE\": \"5119\", \"SET_TRIGGERFLOW\": \"1.9196047\", \"SET_OXYGEN\": \"36\", \"SET_PEEP\": \"5\", \"SET_PSUPP\": \"12\"}"
+  },
+  {
+    "id": 149,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"5120\", \"SET_TRIGGERFLOW\": \"1.9358661\", \"SET_OXYGEN\": \"39\", \"SET_PEEP\": \"6\", \"SET_PSUPP\": \"10\"}"
+  },
+  {
+    "id": 150,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"50021^MNDRY_VENT_MODE_CPAP_PLUS_PS^99MNDRY\", \"SET_TRIGGERFLOW\": \"1.9645578\", \"SET_OXYGEN\": \"34\", \"SET_PEEP\": \"6\", \"SET_PSUPP\": \"14\"}"
+  },
+  {
+    "id": 151,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"50021^MNDRY_VENT_MODE_CPAP_PLUS_PS^99MNDRY\", \"SET_TRIGGERFLOW\": \"1.9549887\", \"SET_OXYGEN\": \"34\", \"SET_PEEP\": \"6\", \"SET_PSUPP\": \"16\"}"
+  },
+  {
+    "id": 152,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"50021^MNDRY_VENT_MODE_CPAP_PLUS_PS^99MNDRY\", \"SET_TRIGGERFLOW\": \"1.9580811\", \"SET_OXYGEN\": \"33\", \"SET_PEEP\": \"6\", \"SET_PSUPP\": \"16\"}"
+  },
+  {
+    "id": 153,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"50021^MNDRY_VENT_MODE_CPAP_PLUS_PS^99MNDRY\", \"SET_TRIGGERFLOW\": \"1.9530032\", \"SET_OXYGEN\": \"33\", \"SET_PEEP\": \"6\", \"SET_PSUPP\": \"16\"}"
+  },
+  {
+    "id": 154,
+    "task2_output": "{\"SET_SIMVRR\": \"1\", \"SET_VENTMODE\": \"50021^MNDRY_VENT_MODE_CPAP_PLUS_PS^99MNDRY\", \"SET_TRIGGERFLOW\": \"1.9679142\", \"SET_OXYGEN\": \"44\", \"SET_PEEP\": \"9\", \"SET_PSUPP\": \"16\"}"
+  },
+  {
+    "id": 155,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"50009^MNDRY_VENT_MODE_SIMVPC^99MNDRY\", \"SET_TRIGGERFLOW\": \"1.9935443\", \"SET_OXYGEN\": \"42\", \"SET_PEEP\": \"8\", \"SET_PSUPP\": \"17\"}"
+  },
+  {
+    "id": 156,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"50009^MNDRY_VENT_MODE_SIMVPC^99MNDRY\", \"SET_TRIGGERFLOW\": \"1.9967352\", \"SET_OXYGEN\": \"46\", \"SET_PEEP\": \"8\", \"SET_PSUPP\": \"17\"}"
+  },
+  {
+    "id": 157,
+    "task2_output": "{\"SET_SIMVRR\": \"12\", \"SET_VENTMODE\": \"5119\", \"SET_TRIGGERFLOW\": \"2.039928\", \"SET_OXYGEN\": \"38\", \"SET_PEEP\": \"5\", \"SET_PSUPP\": \"13\"}"
+  },
+  {
+    "id": 158,
+    "task2_output": "{\"SET_SIMVRR\": \"10\", \"SET_VENTMODE\": \"5119\", \"SET_TRIGGERFLOW\": \"2.0510654\", \"SET_OXYGEN\": \"38\", \"SET_PEEP\": \"5\", \"SET_PSUPP\": \"13\"}"
+  },
+  {
+    "id": 159,
+    "task2_output": "{\"SET_SIMVRR\": \"18\", \"SET_VENTMODE\": \"5119\", \"SET_TRIGGERFLOW\": \"2.0756505\", \"SET_OXYGEN\": \"38\", \"SET_PEEP\": \"5\", \"SET_PSUPP\": \"12\"}"
+  },
+  {
+    "id": 160,
+    "task2_output": "{\"SET_SIMVRR\": \"21\", \"SET_VENTMODE\": \"5119\", \"SET_TRIGGERFLOW\": \"2.0669856\", \"SET_OXYGEN\": \"36\", \"SET_PEEP\": \"5\", \"SET_PSUPP\": \"14\"}"
+  },
+  {
+    "id": 161,
+    "task2_output": "{\"SET_SIMVRR\": \"12\", \"SET_VENTMODE\": \"5119\", \"SET_TRIGGERFLOW\": \"2.0651658\", \"SET_OXYGEN\": \"36\", \"SET_PEEP\": \"5\", \"SET_PSUPP\": \"14\"}"
+  },
+  {
+    "id": 162,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"50009^MNDRY_VENT_MODE_SIMVPC^99MNDRY\", \"SET_TRIGGERFLOW\": \"1.9965165\", \"SET_OXYGEN\": \"48\", \"SET_PEEP\": \"9\", \"SET_PSUPP\": \"16\"}"
+  },
+  {
+    "id": 163,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"50009^MNDRY_VENT_MODE_SIMVPC^99MNDRY\", \"SET_TRIGGERFLOW\": \"1.9905616\", \"SET_OXYGEN\": \"47\", \"SET_PEEP\": \"8\", \"SET_PSUPP\": \"16\"}"
+  },
+  {
+    "id": 164,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"5120\", \"SET_TRIGGERFLOW\": \"1.9830214\", \"SET_OXYGEN\": \"37\", \"SET_PEEP\": \"6\", \"SET_PSUPP\": \"7\"}"
+  },
+  {
+    "id": 165,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"5120\", \"SET_TRIGGERFLOW\": \"1.9840537\", \"SET_OXYGEN\": \"35\", \"SET_PEEP\": \"6\", \"SET_PSUPP\": \"7\"}"
+  },
+  {
+    "id": 166,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"5120\", \"SET_TRIGGERFLOW\": \"1.972863\", \"SET_OXYGEN\": \"32\", \"SET_PEEP\": \"5\", \"SET_PSUPP\": \"6\"}"
+  },
+  {
+    "id": 167,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"5120\", \"SET_TRIGGERFLOW\": \"1.9543462\", \"SET_OXYGEN\": \"31\", \"SET_PEEP\": \"6\", \"SET_PSUPP\": \"5\"}"
+  },
+  {
+    "id": 168,
+    "task2_output": "{\"SET_SIMVRR\": \"1\", \"SET_VENTMODE\": \"50009^MNDRY_VENT_MODE_SIMVPC^99MNDRY\", \"SET_TRIGGERFLOW\": \"1.9864591\", \"SET_OXYGEN\": \"37\", \"SET_PEEP\": \"5\", \"SET_PSUPP\": \"13\"}"
+  },
+  {
+    "id": 169,
+    "task2_output": "{\"SET_SIMVRR\": \"1\", \"SET_VENTMODE\": \"50009^MNDRY_VENT_MODE_SIMVPC^99MNDRY\", \"SET_TRIGGERFLOW\": \"1.9791542\", \"SET_OXYGEN\": \"36\", \"SET_PEEP\": \"5\", \"SET_PSUPP\": \"13\"}"
+  },
+  {
+    "id": 170,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"50009^MNDRY_VENT_MODE_SIMVPC^99MNDRY\", \"SET_TRIGGERFLOW\": \"2.0032246\", \"SET_OXYGEN\": \"39\", \"SET_PEEP\": \"7\", \"SET_PSUPP\": \"11\"}"
+  },
+  {
+    "id": 171,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"50009^MNDRY_VENT_MODE_SIMVPC^99MNDRY\", \"SET_TRIGGERFLOW\": \"2.0167637\", \"SET_OXYGEN\": \"42\", \"SET_PEEP\": \"8\", \"SET_PSUPP\": \"12\"}"
+  },
+  {
+    "id": 172,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"50009^MNDRY_VENT_MODE_SIMVPC^99MNDRY\", \"SET_TRIGGERFLOW\": \"2.0173392\", \"SET_OXYGEN\": \"44\", \"SET_PEEP\": \"8\", \"SET_PSUPP\": \"12\"}"
+  },
+  {
+    "id": 173,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"50021^MNDRY_VENT_MODE_CPAP_PLUS_PS^99MNDRY\", \"SET_TRIGGERFLOW\": \"1.0261952\", \"SET_OXYGEN\": \"33\", \"SET_PEEP\": \"5\", \"SET_PSUPP\": \"8\"}"
+  },
+  {
+    "id": 174,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"50021^MNDRY_VENT_MODE_CPAP_PLUS_PS^99MNDRY\", \"SET_TRIGGERFLOW\": \"1.1043797\", \"SET_OXYGEN\": \"39\", \"SET_PEEP\": \"5\", \"SET_PSUPP\": \"9\"}"
+  },
+  {
+    "id": 175,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"50021^MNDRY_VENT_MODE_CPAP_PLUS_PS^99MNDRY\", \"SET_TRIGGERFLOW\": \"1.2664895\", \"SET_OXYGEN\": \"47\", \"SET_PEEP\": \"8\", \"SET_PSUPP\": \"9\"}"
+  },
+  {
+    "id": 176,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"5120\", \"SET_TRIGGERFLOW\": \"1.9721994\", \"SET_OXYGEN\": \"32\", \"SET_PEEP\": \"5\", \"SET_PSUPP\": \"5\"}"
+  },
+  {
+    "id": 177,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"5120\", \"SET_TRIGGERFLOW\": \"1.970186\", \"SET_OXYGEN\": \"32\", \"SET_PEEP\": \"5\", \"SET_PSUPP\": \"5\"}"
+  },
+  {
+    "id": 178,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"50021^MNDRY_VENT_MODE_CPAP_PLUS_PS^99MNDRY\", \"SET_TRIGGERFLOW\": \"1.9198476\", \"SET_OXYGEN\": \"34\", \"SET_PEEP\": \"5\", \"SET_PSUPP\": \"15\"}"
+  },
+  {
+    "id": 179,
+    "task2_output": "{\"SET_SIMVRR\": \"1\", \"SET_VENTMODE\": \"50009^MNDRY_VENT_MODE_SIMVPC^99MNDRY\", \"SET_TRIGGERFLOW\": \"1.9834894\", \"SET_OXYGEN\": \"33\", \"SET_PEEP\": \"6\", \"SET_PSUPP\": \"12\"}"
+  },
+  {
+    "id": 180,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"50021^MNDRY_VENT_MODE_CPAP_PLUS_PS^99MNDRY\", \"SET_TRIGGERFLOW\": \"1.9377567\", \"SET_OXYGEN\": \"34\", \"SET_PEEP\": \"5\", \"SET_PSUPP\": \"11\"}"
+  },
+  {
+    "id": 181,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"50021^MNDRY_VENT_MODE_CPAP_PLUS_PS^99MNDRY\", \"SET_TRIGGERFLOW\": \"1.9629664\", \"SET_OXYGEN\": \"33\", \"SET_PEEP\": \"5\", \"SET_PSUPP\": \"9\"}"
+  },
+  {
+    "id": 182,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"50021^MNDRY_VENT_MODE_CPAP_PLUS_PS^99MNDRY\", \"SET_TRIGGERFLOW\": \"1.9688447\", \"SET_OXYGEN\": \"33\", \"SET_PEEP\": \"5\", \"SET_PSUPP\": \"7\"}"
+  },
+  {
+    "id": 183,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"50021^MNDRY_VENT_MODE_CPAP_PLUS_PS^99MNDRY\", \"SET_TRIGGERFLOW\": \"1.9470035\", \"SET_OXYGEN\": \"30\", \"SET_PEEP\": \"5\", \"SET_PSUPP\": \"9\"}"
+  },
+  {
+    "id": 184,
+    "task2_output": "{\"SET_SIMVRR\": \"1\", \"SET_VENTMODE\": \"50009^MNDRY_VENT_MODE_SIMVPC^99MNDRY\", \"SET_TRIGGERFLOW\": \"2.0060043\", \"SET_OXYGEN\": \"46\", \"SET_PEEP\": \"7\", \"SET_PSUPP\": \"15\"}"
+  },
+  {
+    "id": 185,
+    "task2_output": "{\"SET_SIMVRR\": \"1\", \"SET_VENTMODE\": \"50009^MNDRY_VENT_MODE_SIMVPC^99MNDRY\", \"SET_TRIGGERFLOW\": \"1.9991282\", \"SET_OXYGEN\": \"46\", \"SET_PEEP\": \"7\", \"SET_PSUPP\": \"15\"}"
+  },
+  {
+    "id": 186,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"50009^MNDRY_VENT_MODE_SIMVPC^99MNDRY\", \"SET_TRIGGERFLOW\": \"1.9986624\", \"SET_OXYGEN\": \"48\", \"SET_PEEP\": \"7\", \"SET_PSUPP\": \"15\"}"
+  },
+  {
+    "id": 187,
+    "task2_output": "{\"SET_SIMVRR\": \"1\", \"SET_VENTMODE\": \"50009^MNDRY_VENT_MODE_SIMVPC^99MNDRY\", \"SET_TRIGGERFLOW\": \"2.0254304\", \"SET_OXYGEN\": \"50\", \"SET_PEEP\": \"10\", \"SET_PSUPP\": \"12\"}"
+  },
+  {
+    "id": 188,
+    "task2_output": "{\"SET_SIMVRR\": \"1\", \"SET_VENTMODE\": \"50009^MNDRY_VENT_MODE_SIMVPC^99MNDRY\", \"SET_TRIGGERFLOW\": \"2.021315\", \"SET_OXYGEN\": \"50\", \"SET_PEEP\": \"12\", \"SET_PSUPP\": \"12\"}"
+  },
+  {
+    "id": 189,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"50009^MNDRY_VENT_MODE_SIMVPC^99MNDRY\", \"SET_TRIGGERFLOW\": \"2.0356092\", \"SET_OXYGEN\": \"49\", \"SET_PEEP\": \"10\", \"SET_PSUPP\": \"12\"}"
+  },
+  {
+    "id": 190,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"50009^MNDRY_VENT_MODE_SIMVPC^99MNDRY\", \"SET_TRIGGERFLOW\": \"2.0357292\", \"SET_OXYGEN\": \"47\", \"SET_PEEP\": \"9\", \"SET_PSUPP\": \"12\"}"
+  },
+  {
+    "id": 191,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"50009^MNDRY_VENT_MODE_SIMVPC^99MNDRY\", \"SET_TRIGGERFLOW\": \"2.031655\", \"SET_OXYGEN\": \"47\", \"SET_PEEP\": \"9\", \"SET_PSUPP\": \"11\"}"
+  },
+  {
+    "id": 192,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"50009^MNDRY_VENT_MODE_SIMVPC^99MNDRY\", \"SET_TRIGGERFLOW\": \"2.0252233\", \"SET_OXYGEN\": \"47\", \"SET_PEEP\": \"9\", \"SET_PSUPP\": \"12\"}"
+  },
+  {
+    "id": 193,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"50009^MNDRY_VENT_MODE_SIMVPC^99MNDRY\", \"SET_TRIGGERFLOW\": \"2.0416164\", \"SET_OXYGEN\": \"51\", \"SET_PEEP\": \"10\", \"SET_PSUPP\": \"10\"}"
+  },
+  {
+    "id": 194,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"50021^MNDRY_VENT_MODE_CPAP_PLUS_PS^99MNDRY\", \"SET_TRIGGERFLOW\": \"1.1865454\", \"SET_OXYGEN\": \"39\", \"SET_PEEP\": \"8\", \"SET_PSUPP\": \"8\"}"
+  },
+  {
+    "id": 195,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"50021^MNDRY_VENT_MODE_CPAP_PLUS_PS^99MNDRY\", \"SET_TRIGGERFLOW\": \"1.1198282\", \"SET_OXYGEN\": \"38\", \"SET_PEEP\": \"6\", \"SET_PSUPP\": \"7\"}"
+  },
+  {
+    "id": 196,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"50021^MNDRY_VENT_MODE_CPAP_PLUS_PS^99MNDRY\", \"SET_TRIGGERFLOW\": \"1.1604\", \"SET_OXYGEN\": \"38\", \"SET_PEEP\": \"6\", \"SET_PSUPP\": \"6\"}"
+  },
+  {
+    "id": 197,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"50021^MNDRY_VENT_MODE_CPAP_PLUS_PS^99MNDRY\", \"SET_TRIGGERFLOW\": \"1.1874238\", \"SET_OXYGEN\": \"37\", \"SET_PEEP\": \"6\", \"SET_PSUPP\": \"5\"}"
+  },
+  {
+    "id": 198,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"50009^MNDRY_VENT_MODE_SIMVPC^99MNDRY\", \"SET_TRIGGERFLOW\": \"1.9780061\", \"SET_OXYGEN\": \"35\", \"SET_PEEP\": \"4\", \"SET_PSUPP\": \"10\"}"
+  },
+  {
+    "id": 199,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"50009^MNDRY_VENT_MODE_SIMVPC^99MNDRY\", \"SET_TRIGGERFLOW\": \"1.9852184\", \"SET_OXYGEN\": \"38\", \"SET_PEEP\": \"6\", \"SET_PSUPP\": \"12\"}"
+  },
+  {
+    "id": 200,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"50009^MNDRY_VENT_MODE_SIMVPC^99MNDRY\", \"SET_TRIGGERFLOW\": \"1.993263\", \"SET_OXYGEN\": \"39\", \"SET_PEEP\": \"7\", \"SET_PSUPP\": \"14\"}"
+  },
+  {
+    "id": 201,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"5120\", \"SET_TRIGGERFLOW\": \"1.972249\", \"SET_OXYGEN\": \"39\", \"SET_PEEP\": \"4\", \"SET_PSUPP\": \"6\"}"
+  },
+  {
+    "id": 202,
+    "task2_output": "{\"SET_SIMVRR\": \"1\", \"SET_VENTMODE\": \"50021^MNDRY_VENT_MODE_CPAP_PLUS_PS^99MNDRY\", \"SET_TRIGGERFLOW\": \"2.0565856\", \"SET_OXYGEN\": \"40\", \"SET_PEEP\": \"7\", \"SET_PSUPP\": \"7\"}"
+  },
+  {
+    "id": 203,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"5120\", \"SET_TRIGGERFLOW\": \"1.1507579\", \"SET_OXYGEN\": \"38\", \"SET_PEEP\": \"6\", \"SET_PSUPP\": \"6\"}"
+  },
+  {
+    "id": 204,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"5120\", \"SET_TRIGGERFLOW\": \"1.1377138\", \"SET_OXYGEN\": \"39\", \"SET_PEEP\": \"7\", \"SET_PSUPP\": \"6\"}"
+  },
+  {
+    "id": 205,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"50021^MNDRY_VENT_MODE_CPAP_PLUS_PS^99MNDRY\", \"SET_TRIGGERFLOW\": \"1.9528878\", \"SET_OXYGEN\": \"30\", \"SET_PEEP\": \"5\", \"SET_PSUPP\": \"12\"}"
+  },
+  {
+    "id": 206,
+    "task2_output": "{\"SET_SIMVRR\": \"1\", \"SET_VENTMODE\": \"50009^MNDRY_VENT_MODE_SIMVPC^99MNDRY\", \"SET_TRIGGERFLOW\": \"2.001534\", \"SET_OXYGEN\": \"45\", \"SET_PEEP\": \"7\", \"SET_PSUPP\": \"14\"}"
+  },
+  {
+    "id": 207,
+    "task2_output": "{\"SET_SIMVRR\": \"1\", \"SET_VENTMODE\": \"50009^MNDRY_VENT_MODE_SIMVPC^99MNDRY\", \"SET_TRIGGERFLOW\": \"2.006573\", \"SET_OXYGEN\": \"45\", \"SET_PEEP\": \"7\", \"SET_PSUPP\": \"14\"}"
+  },
+  {
+    "id": 208,
+    "task2_output": "{\"SET_SIMVRR\": \"1\", \"SET_VENTMODE\": \"50009^MNDRY_VENT_MODE_SIMVPC^99MNDRY\", \"SET_TRIGGERFLOW\": \"1.99999\", \"SET_OXYGEN\": \"51\", \"SET_PEEP\": \"9\", \"SET_PSUPP\": \"15\"}"
+  },
+  {
+    "id": 209,
+    "task2_output": "{\"SET_SIMVRR\": \"8\", \"SET_VENTMODE\": \"5119\", \"SET_TRIGGERFLOW\": \"2.0090835\", \"SET_OXYGEN\": \"48\", \"SET_PEEP\": \"8\", \"SET_PSUPP\": \"12\"}"
+  },
+  {
+    "id": 210,
+    "task2_output": "{\"SET_SIMVRR\": \"8\", \"SET_VENTMODE\": \"5119\", \"SET_TRIGGERFLOW\": \"2.0112193\", \"SET_OXYGEN\": \"48\", \"SET_PEEP\": \"7\", \"SET_PSUPP\": \"11\"}"
+  },
+  {
+    "id": 211,
+    "task2_output": "{\"SET_SIMVRR\": \"6\", \"SET_VENTMODE\": \"5119\", \"SET_TRIGGERFLOW\": \"2.004804\", \"SET_OXYGEN\": \"48\", \"SET_PEEP\": \"7\", \"SET_PSUPP\": \"9\"}"
+  },
+  {
+    "id": 212,
+    "task2_output": "{\"SET_SIMVRR\": \"5\", \"SET_VENTMODE\": \"5120\", \"SET_TRIGGERFLOW\": \"2.012566\", \"SET_OXYGEN\": \"48\", \"SET_PEEP\": \"7\", \"SET_PSUPP\": \"8\"}"
+  },
+  {
+    "id": 213,
+    "task2_output": "{\"SET_SIMVRR\": \"3\", \"SET_VENTMODE\": \"5120\", \"SET_TRIGGERFLOW\": \"2.0222423\", \"SET_OXYGEN\": \"47\", \"SET_PEEP\": \"8\", \"SET_PSUPP\": \"7\"}"
+  },
+  {
+    "id": 214,
+    "task2_output": "{\"SET_SIMVRR\": \"3\", \"SET_VENTMODE\": \"5120\", \"SET_TRIGGERFLOW\": \"2.0025973\", \"SET_OXYGEN\": \"42\", \"SET_PEEP\": \"7\", \"SET_PSUPP\": \"7\"}"
+  },
+  {
+    "id": 215,
+    "task2_output": "{\"SET_SIMVRR\": \"6\", \"SET_VENTMODE\": \"5119\", \"SET_TRIGGERFLOW\": \"1.9357764\", \"SET_OXYGEN\": \"39\", \"SET_PEEP\": \"5\", \"SET_PSUPP\": \"9\"}"
+  },
+  {
+    "id": 216,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"5120\", \"SET_TRIGGERFLOW\": \"1.9481701\", \"SET_OXYGEN\": \"37\", \"SET_PEEP\": \"5\", \"SET_PSUPP\": \"9\"}"
+  },
+  {
+    "id": 217,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"5120\", \"SET_TRIGGERFLOW\": \"1.9811945\", \"SET_OXYGEN\": \"37\", \"SET_PEEP\": \"6\", \"SET_PSUPP\": \"7\"}"
+  },
+  {
+    "id": 218,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"5120\", \"SET_TRIGGERFLOW\": \"1.9761161\", \"SET_OXYGEN\": \"37\", \"SET_PEEP\": \"6\", \"SET_PSUPP\": \"6\"}"
+  },
+  {
+    "id": 219,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"5120\", \"SET_TRIGGERFLOW\": \"1.9642315\", \"SET_OXYGEN\": \"35\", \"SET_PEEP\": \"6\", \"SET_PSUPP\": \"6\"}"
+  },
+  {
+    "id": 220,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"5120\", \"SET_TRIGGERFLOW\": \"1.9659349\", \"SET_OXYGEN\": \"32\", \"SET_PEEP\": \"5\", \"SET_PSUPP\": \"6\"}"
+  },
+  {
+    "id": 221,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"5120\", \"SET_TRIGGERFLOW\": \"1.966397\", \"SET_OXYGEN\": \"29\", \"SET_PEEP\": \"5\", \"SET_PSUPP\": \"6\"}"
+  },
+  {
+    "id": 222,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"50009^MNDRY_VENT_MODE_SIMVPC^99MNDRY\", \"SET_TRIGGERFLOW\": \"1.9928573\", \"SET_OXYGEN\": \"30\", \"SET_PEEP\": \"5\", \"SET_PSUPP\": \"11\"}"
+  },
+  {
+    "id": 223,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"50009^MNDRY_VENT_MODE_SIMVPC^99MNDRY\", \"SET_TRIGGERFLOW\": \"2.0072868\", \"SET_OXYGEN\": \"29\", \"SET_PEEP\": \"5\", \"SET_PSUPP\": \"11\"}"
+  },
+  {
+    "id": 224,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"50021^MNDRY_VENT_MODE_CPAP_PLUS_PS^99MNDRY\", \"SET_TRIGGERFLOW\": \"1.9251868\", \"SET_OXYGEN\": \"30\", \"SET_PEEP\": \"5\", \"SET_PSUPP\": \"11\"}"
+  },
+  {
+    "id": 225,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"50021^MNDRY_VENT_MODE_CPAP_PLUS_PS^99MNDRY\", \"SET_TRIGGERFLOW\": \"1.9579549\", \"SET_OXYGEN\": \"29\", \"SET_PEEP\": \"5\", \"SET_PSUPP\": \"10\"}"
+  },
+  {
+    "id": 226,
+    "task2_output": "{\"SET_SIMVRR\": \"17\", \"SET_VENTMODE\": \"5119\", \"SET_TRIGGERFLOW\": \"2.0556028\", \"SET_OXYGEN\": \"53\", \"SET_PEEP\": \"9\", \"SET_PSUPP\": \"13\"}"
+  },
+  {
+    "id": 227,
+    "task2_output": "{\"SET_SIMVRR\": \"11\", \"SET_VENTMODE\": \"5119\", \"SET_TRIGGERFLOW\": \"2.0390086\", \"SET_OXYGEN\": \"50\", \"SET_PEEP\": \"9\", \"SET_PSUPP\": \"14\"}"
+  },
+  {
+    "id": 228,
+    "task2_output": "{\"SET_SIMVRR\": \"11\", \"SET_VENTMODE\": \"5119\", \"SET_TRIGGERFLOW\": \"2.0251222\", \"SET_OXYGEN\": \"51\", \"SET_PEEP\": \"9\", \"SET_PSUPP\": \"15\"}"
+  },
+  {
+    "id": 229,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"50009^MNDRY_VENT_MODE_SIMVPC^99MNDRY\", \"SET_TRIGGERFLOW\": \"2.007573\", \"SET_OXYGEN\": \"51\", \"SET_PEEP\": \"9\", \"SET_PSUPP\": \"14\"}"
+  },
+  {
+    "id": 230,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"50021^MNDRY_VENT_MODE_CPAP_PLUS_PS^99MNDRY\", \"SET_TRIGGERFLOW\": \"1.9735633\", \"SET_OXYGEN\": \"53\", \"SET_PEEP\": \"9\", \"SET_PSUPP\": \"13\"}"
+  },
+  {
+    "id": 231,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"50021^MNDRY_VENT_MODE_CPAP_PLUS_PS^99MNDRY\", \"SET_TRIGGERFLOW\": \"1.9721916\", \"SET_OXYGEN\": \"53\", \"SET_PEEP\": \"9\", \"SET_PSUPP\": \"14\"}"
+  },
+  {
+    "id": 232,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"50021^MNDRY_VENT_MODE_CPAP_PLUS_PS^99MNDRY\", \"SET_TRIGGERFLOW\": \"1.9656688\", \"SET_OXYGEN\": \"53\", \"SET_PEEP\": \"9\", \"SET_PSUPP\": \"14\"}"
+  },
+  {
+    "id": 233,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"50021^MNDRY_VENT_MODE_CPAP_PLUS_PS^99MNDRY\", \"SET_TRIGGERFLOW\": \"1.1161183\", \"SET_OXYGEN\": \"35\", \"SET_PEEP\": \"4\", \"SET_PSUPP\": \"4\"}"
+  },
+  {
+    "id": 234,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"50021^MNDRY_VENT_MODE_CPAP_PLUS_PS^99MNDRY\", \"SET_TRIGGERFLOW\": \"1.111764\", \"SET_OXYGEN\": \"32\", \"SET_PEEP\": \"4\", \"SET_PSUPP\": \"4\"}"
+  },
+  {
+    "id": 235,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"50021^MNDRY_VENT_MODE_CPAP_PLUS_PS^99MNDRY\", \"SET_TRIGGERFLOW\": \"1.0618529\", \"SET_OXYGEN\": \"29\", \"SET_PEEP\": \"4\", \"SET_PSUPP\": \"4\"}"
+  },
+  {
+    "id": 236,
+    "task2_output": "{\"SET_SIMVRR\": \"1\", \"SET_VENTMODE\": \"50009^MNDRY_VENT_MODE_SIMVPC^99MNDRY\", \"SET_TRIGGERFLOW\": \"2.0063658\", \"SET_OXYGEN\": \"56\", \"SET_PEEP\": \"7\", \"SET_PSUPP\": \"16\"}"
+  },
+  {
+    "id": 237,
+    "task2_output": "{\"SET_SIMVRR\": \"1\", \"SET_VENTMODE\": \"50009^MNDRY_VENT_MODE_SIMVPC^99MNDRY\", \"SET_TRIGGERFLOW\": \"1.997881\", \"SET_OXYGEN\": \"55\", \"SET_PEEP\": \"7\", \"SET_PSUPP\": \"16\"}"
+  },
+  {
+    "id": 238,
+    "task2_output": "{\"SET_SIMVRR\": \"1\", \"SET_VENTMODE\": \"50009^MNDRY_VENT_MODE_SIMVPC^99MNDRY\", \"SET_TRIGGERFLOW\": \"2.0054321\", \"SET_OXYGEN\": \"59\", \"SET_PEEP\": \"10\", \"SET_PSUPP\": \"17\"}"
+  },
+  {
+    "id": 239,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"50009^MNDRY_VENT_MODE_SIMVPC^99MNDRY\", \"SET_TRIGGERFLOW\": \"2.0273569\", \"SET_OXYGEN\": \"56\", \"SET_PEEP\": \"11\", \"SET_PSUPP\": \"16\"}"
+  },
+  {
+    "id": 240,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"50009^MNDRY_VENT_MODE_SIMVPC^99MNDRY\", \"SET_TRIGGERFLOW\": \"2.0264533\", \"SET_OXYGEN\": \"55\", \"SET_PEEP\": \"11\", \"SET_PSUPP\": \"14\"}"
+  },
+  {
+    "id": 241,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"50009^MNDRY_VENT_MODE_SIMVPC^99MNDRY\", \"SET_TRIGGERFLOW\": \"2.0203097\", \"SET_OXYGEN\": \"55\", \"SET_PEEP\": \"10\", \"SET_PSUPP\": \"14\"}"
+  },
+  {
+    "id": 242,
+    "task2_output": "{\"SET_SIMVRR\": \"11\", \"SET_VENTMODE\": \"5119\", \"SET_TRIGGERFLOW\": \"1.3757447\", \"SET_OXYGEN\": \"42\", \"SET_PEEP\": \"5\", \"SET_PSUPP\": \"14\"}"
+  },
+  {
+    "id": 243,
+    "task2_output": "{\"SET_SIMVRR\": \"12\", \"SET_VENTMODE\": \"5119\", \"SET_TRIGGERFLOW\": \"1.5071623\", \"SET_OXYGEN\": \"42\", \"SET_PEEP\": \"7\", \"SET_PSUPP\": \"15\"}"
+  },
+  {
+    "id": 244,
+    "task2_output": "{\"SET_SIMVRR\": \"22\", \"SET_VENTMODE\": \"5119\", \"SET_TRIGGERFLOW\": \"1.5269722\", \"SET_OXYGEN\": \"38\", \"SET_PEEP\": \"10\", \"SET_PSUPP\": \"14\"}"
+  },
+  {
+    "id": 245,
+    "task2_output": "{\"SET_SIMVRR\": \"20\", \"SET_VENTMODE\": \"5119\", \"SET_TRIGGERFLOW\": \"1.3674309\", \"SET_OXYGEN\": \"37\", \"SET_PEEP\": \"5\", \"SET_PSUPP\": \"14\"}"
+  },
+  {
+    "id": 246,
+    "task2_output": "{\"SET_SIMVRR\": \"22\", \"SET_VENTMODE\": \"5119\", \"SET_TRIGGERFLOW\": \"1.3536463\", \"SET_OXYGEN\": \"39\", \"SET_PEEP\": \"5\", \"SET_PSUPP\": \"14\"}"
+  },
+  {
+    "id": 247,
+    "task2_output": "{\"SET_SIMVRR\": \"1\", \"SET_VENTMODE\": \"50009^MNDRY_VENT_MODE_SIMVPC^99MNDRY\", \"SET_TRIGGERFLOW\": \"1.9796026\", \"SET_OXYGEN\": \"37\", \"SET_PEEP\": \"6\", \"SET_PSUPP\": \"18\"}"
+  },
+  {
+    "id": 248,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"50009^MNDRY_VENT_MODE_SIMVPC^99MNDRY\", \"SET_TRIGGERFLOW\": \"1.9774405\", \"SET_OXYGEN\": \"39\", \"SET_PEEP\": \"6\", \"SET_PSUPP\": \"17\"}"
+  },
+  {
+    "id": 249,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"50009^MNDRY_VENT_MODE_SIMVPC^99MNDRY\", \"SET_TRIGGERFLOW\": \"1.976701\", \"SET_OXYGEN\": \"40\", \"SET_PEEP\": \"7\", \"SET_PSUPP\": \"18\"}"
+  },
+  {
+    "id": 250,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"50009^MNDRY_VENT_MODE_SIMVPC^99MNDRY\", \"SET_TRIGGERFLOW\": \"1.9724618\", \"SET_OXYGEN\": \"40\", \"SET_PEEP\": \"7\", \"SET_PSUPP\": \"16\"}"
+  },
+  {
+    "id": 251,
+    "task2_output": "{\"SET_SIMVRR\": \"1\", \"SET_VENTMODE\": \"50009^MNDRY_VENT_MODE_SIMVPC^99MNDRY\", \"SET_TRIGGERFLOW\": \"1.9729433\", \"SET_OXYGEN\": \"39\", \"SET_PEEP\": \"6\", \"SET_PSUPP\": \"16\"}"
+  },
+  {
+    "id": 252,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"50009^MNDRY_VENT_MODE_SIMVPC^99MNDRY\", \"SET_TRIGGERFLOW\": \"1.9744991\", \"SET_OXYGEN\": \"41\", \"SET_PEEP\": \"8\", \"SET_PSUPP\": \"16\"}"
+  },
+  {
+    "id": 253,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"50009^MNDRY_VENT_MODE_SIMVPC^99MNDRY\", \"SET_TRIGGERFLOW\": \"1.984738\", \"SET_OXYGEN\": \"39\", \"SET_PEEP\": \"8\", \"SET_PSUPP\": \"17\"}"
+  },
+  {
+    "id": 254,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"50009^MNDRY_VENT_MODE_SIMVPC^99MNDRY\", \"SET_TRIGGERFLOW\": \"2.0136247\", \"SET_OXYGEN\": \"41\", \"SET_PEEP\": \"8\", \"SET_PSUPP\": \"13\"}"
+  },
+  {
+    "id": 255,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"50021^MNDRY_VENT_MODE_CPAP_PLUS_PS^99MNDRY\", \"SET_TRIGGERFLOW\": \"1.9531873\", \"SET_OXYGEN\": \"34\", \"SET_PEEP\": \"6\", \"SET_PSUPP\": \"14\"}"
+  },
+  {
+    "id": 256,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"50021^MNDRY_VENT_MODE_CPAP_PLUS_PS^99MNDRY\", \"SET_TRIGGERFLOW\": \"1.9518592\", \"SET_OXYGEN\": \"34\", \"SET_PEEP\": \"6\", \"SET_PSUPP\": \"16\"}"
+  },
+  {
+    "id": 257,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"50021^MNDRY_VENT_MODE_CPAP_PLUS_PS^99MNDRY\", \"SET_TRIGGERFLOW\": \"1.9541335\", \"SET_OXYGEN\": \"33\", \"SET_PEEP\": \"6\", \"SET_PSUPP\": \"17\"}"
+  },
+  {
+    "id": 258,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"50021^MNDRY_VENT_MODE_CPAP_PLUS_PS^99MNDRY\", \"SET_TRIGGERFLOW\": \"1.9513428\", \"SET_OXYGEN\": \"34\", \"SET_PEEP\": \"6\", \"SET_PSUPP\": \"18\"}"
+  },
+  {
+    "id": 259,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"50021^MNDRY_VENT_MODE_CPAP_PLUS_PS^99MNDRY\", \"SET_TRIGGERFLOW\": \"1.9533219\", \"SET_OXYGEN\": \"35\", \"SET_PEEP\": \"7\", \"SET_PSUPP\": \"18\"}"
+  },
+  {
+    "id": 260,
+    "task2_output": "{\"SET_SIMVRR\": \"1\", \"SET_VENTMODE\": \"50009^MNDRY_VENT_MODE_SIMVPC^99MNDRY\", \"SET_TRIGGERFLOW\": \"1.9739716\", \"SET_OXYGEN\": \"38\", \"SET_PEEP\": \"8\", \"SET_PSUPP\": \"18\"}"
+  },
+  {
+    "id": 261,
+    "task2_output": "{\"SET_SIMVRR\": \"1\", \"SET_VENTMODE\": \"50009^MNDRY_VENT_MODE_SIMVPC^99MNDRY\", \"SET_TRIGGERFLOW\": \"1.9908139\", \"SET_OXYGEN\": \"33\", \"SET_PEEP\": \"7\", \"SET_PSUPP\": \"19\"}"
+  },
+  {
+    "id": 262,
+    "task2_output": "{\"SET_SIMVRR\": \"1\", \"SET_VENTMODE\": \"50009^MNDRY_VENT_MODE_SIMVPC^99MNDRY\", \"SET_TRIGGERFLOW\": \"1.9912999\", \"SET_OXYGEN\": \"35\", \"SET_PEEP\": \"7\", \"SET_PSUPP\": \"18\"}"
+  },
+  {
+    "id": 263,
+    "task2_output": "{\"SET_SIMVRR\": \"1\", \"SET_VENTMODE\": \"50009^MNDRY_VENT_MODE_SIMVPC^99MNDRY\", \"SET_TRIGGERFLOW\": \"1.9817795\", \"SET_OXYGEN\": \"34\", \"SET_PEEP\": \"8\", \"SET_PSUPP\": \"18\"}"
+  },
+  {
+    "id": 264,
+    "task2_output": "{\"SET_SIMVRR\": \"1\", \"SET_VENTMODE\": \"50009^MNDRY_VENT_MODE_SIMVPC^99MNDRY\", \"SET_TRIGGERFLOW\": \"1.9774753\", \"SET_OXYGEN\": \"34\", \"SET_PEEP\": \"6\", \"SET_PSUPP\": \"17\"}"
+  },
+  {
+    "id": 265,
+    "task2_output": "{\"SET_SIMVRR\": \"15\", \"SET_VENTMODE\": \"5119\", \"SET_TRIGGERFLOW\": \"1.9944025\", \"SET_OXYGEN\": \"37\", \"SET_PEEP\": \"5\", \"SET_PSUPP\": \"10\"}"
+  },
+  {
+    "id": 266,
+    "task2_output": "{\"SET_SIMVRR\": \"7\", \"SET_VENTMODE\": \"5119\", \"SET_TRIGGERFLOW\": \"1.966834\", \"SET_OXYGEN\": \"38\", \"SET_PEEP\": \"5\", \"SET_PSUPP\": \"9\"}"
+  },
+  {
+    "id": 267,
+    "task2_output": "{\"SET_SIMVRR\": \"11\", \"SET_VENTMODE\": \"5119\", \"SET_TRIGGERFLOW\": \"1.9602917\", \"SET_OXYGEN\": \"40\", \"SET_PEEP\": \"5\", \"SET_PSUPP\": \"10\"}"
+  },
+  {
+    "id": 268,
+    "task2_output": "{\"SET_SIMVRR\": \"12\", \"SET_VENTMODE\": \"5119\", \"SET_TRIGGERFLOW\": \"1.9741124\", \"SET_OXYGEN\": \"35\", \"SET_PEEP\": \"5\", \"SET_PSUPP\": \"9\"}"
+  },
+  {
+    "id": 269,
+    "task2_output": "{\"SET_SIMVRR\": \"13\", \"SET_VENTMODE\": \"5119\", \"SET_TRIGGERFLOW\": \"1.9662688\", \"SET_OXYGEN\": \"30\", \"SET_PEEP\": \"5\", \"SET_PSUPP\": \"9\"}"
+  },
+  {
+    "id": 270,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"5120\", \"SET_TRIGGERFLOW\": \"1.1268173\", \"SET_OXYGEN\": \"32\", \"SET_PEEP\": \"5\", \"SET_PSUPP\": \"8\"}"
+  },
+  {
+    "id": 271,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"5120\", \"SET_TRIGGERFLOW\": \"0.9803794\", \"SET_OXYGEN\": \"31\", \"SET_PEEP\": \"5\", \"SET_PSUPP\": \"7\"}"
+  },
+  {
+    "id": 272,
+    "task2_output": "{\"SET_SIMVRR\": \"13\", \"SET_VENTMODE\": \"5119\", \"SET_TRIGGERFLOW\": \"1.3635482\", \"SET_OXYGEN\": \"48\", \"SET_PEEP\": \"5\", \"SET_PSUPP\": \"14\"}"
+  },
+  {
+    "id": 273,
+    "task2_output": "{\"SET_SIMVRR\": \"18\", \"SET_VENTMODE\": \"5119\", \"SET_TRIGGERFLOW\": \"1.3277948\", \"SET_OXYGEN\": \"44\", \"SET_PEEP\": \"5\", \"SET_PSUPP\": \"12\"}"
+  },
+  {
+    "id": 274,
+    "task2_output": "{\"SET_SIMVRR\": \"10\", \"SET_VENTMODE\": \"5119\", \"SET_TRIGGERFLOW\": \"1.2518194\", \"SET_OXYGEN\": \"47\", \"SET_PEEP\": \"5\", \"SET_PSUPP\": \"12\"}"
+  },
+  {
+    "id": 275,
+    "task2_output": "{\"SET_SIMVRR\": \"14\", \"SET_VENTMODE\": \"5119\", \"SET_TRIGGERFLOW\": \"1.2286308\", \"SET_OXYGEN\": \"46\", \"SET_PEEP\": \"4\", \"SET_PSUPP\": \"11\"}"
+  },
+  {
+    "id": 276,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"50021^MNDRY_VENT_MODE_CPAP_PLUS_PS^99MNDRY\", \"SET_TRIGGERFLOW\": \"1.9614953\", \"SET_OXYGEN\": \"34\", \"SET_PEEP\": \"5\", \"SET_PSUPP\": \"15\"}"
+  },
+  {
+    "id": 277,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"50021^MNDRY_VENT_MODE_CPAP_PLUS_PS^99MNDRY\", \"SET_TRIGGERFLOW\": \"1.9678397\", \"SET_OXYGEN\": \"35\", \"SET_PEEP\": \"7\", \"SET_PSUPP\": \"15\"}"
+  },
+  {
+    "id": 278,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"50021^MNDRY_VENT_MODE_CPAP_PLUS_PS^99MNDRY\", \"SET_TRIGGERFLOW\": \"1.9580028\", \"SET_OXYGEN\": \"34\", \"SET_PEEP\": \"7\", \"SET_PSUPP\": \"14\"}"
+  },
+  {
+    "id": 279,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"50021^MNDRY_VENT_MODE_CPAP_PLUS_PS^99MNDRY\", \"SET_TRIGGERFLOW\": \"1.9538298\", \"SET_OXYGEN\": \"33\", \"SET_PEEP\": \"5\", \"SET_PSUPP\": \"14\"}"
+  },
+  {
+    "id": 280,
+    "task2_output": "{\"SET_SIMVRR\": \"2\", \"SET_VENTMODE\": \"50009^MNDRY_VENT_MODE_SIMVPC^99MNDRY\", \"SET_TRIGGERFLOW\": \"2.0099921\", \"SET_OXYGEN\": \"60\", \"SET_PEEP\": \"11\", \"SET_PSUPP\": \"12\"}"
+  },
+  {
+    "id": 281,
+    "task2_output": "{\"SET_SIMVRR\": \"4\", \"SET_VENTMODE\": \"50009^MNDRY_VENT_MODE_SIMVPC^99MNDRY\", \"SET_TRIGGERFLOW\": \"2.013922\", \"SET_OXYGEN\": \"90\", \"SET_PEEP\": \"11\", \"SET_PSUPP\": \"12\"}"
+  },
+  {
+    "id": 282,
+    "task2_output": "{\"SET_SIMVRR\": \"3\", \"SET_VENTMODE\": \"50009^MNDRY_VENT_MODE_SIMVPC^99MNDRY\", \"SET_TRIGGERFLOW\": \"2.0205858\", \"SET_OXYGEN\": \"88\", \"SET_PEEP\": \"11\", \"SET_PSUPP\": \"13\"}"
+  },
+  {
+    "id": 283,
+    "task2_output": "{\"SET_SIMVRR\": \"4\", \"SET_VENTMODE\": \"50009^MNDRY_VENT_MODE_SIMVPC^99MNDRY\", \"SET_TRIGGERFLOW\": \"2.02881\", \"SET_OXYGEN\": \"89\", \"SET_PEEP\": \"10\", \"SET_PSUPP\": \"12\"}"
+  },
+  {
+    "id": 284,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"50021^MNDRY_VENT_MODE_CPAP_PLUS_PS^99MNDRY\", \"SET_TRIGGERFLOW\": \"1.9529828\", \"SET_OXYGEN\": \"29\", \"SET_PEEP\": \"5\", \"SET_PSUPP\": \"9\"}"
+  },
+  {
+    "id": 285,
+    "task2_output": "{\"SET_SIMVRR\": \"10\", \"SET_VENTMODE\": \"5119\", \"SET_TRIGGERFLOW\": \"2.0594573\", \"SET_OXYGEN\": \"31\", \"SET_PEEP\": \"6\", \"SET_PSUPP\": \"12\"}"
+  },
+  {
+    "id": 286,
+    "task2_output": "{\"SET_SIMVRR\": \"17\", \"SET_VENTMODE\": \"5119\", \"SET_TRIGGERFLOW\": \"2.0988595\", \"SET_OXYGEN\": \"30\", \"SET_PEEP\": \"6\", \"SET_PSUPP\": \"13\"}"
+  },
+  {
+    "id": 287,
+    "task2_output": "{\"SET_SIMVRR\": \"1\", \"SET_VENTMODE\": \"5120\", \"SET_TRIGGERFLOW\": \"2.0764594\", \"SET_OXYGEN\": \"34\", \"SET_PEEP\": \"7\", \"SET_PSUPP\": \"9\"}"
+  },
+  {
+    "id": 288,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"50021^MNDRY_VENT_MODE_CPAP_PLUS_PS^99MNDRY\", \"SET_TRIGGERFLOW\": \"1.9575647\", \"SET_OXYGEN\": \"29\", \"SET_PEEP\": \"5\", \"SET_PSUPP\": \"8\"}"
+  },
+  {
+    "id": 289,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"50021^MNDRY_VENT_MODE_CPAP_PLUS_PS^99MNDRY\", \"SET_TRIGGERFLOW\": \"1.9488301\", \"SET_OXYGEN\": \"29\", \"SET_PEEP\": \"5\", \"SET_PSUPP\": \"8\"}"
+  },
+  {
+    "id": 290,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"50021^MNDRY_VENT_MODE_CPAP_PLUS_PS^99MNDRY\", \"SET_TRIGGERFLOW\": \"1.9453707\", \"SET_OXYGEN\": \"30\", \"SET_PEEP\": \"5\", \"SET_PSUPP\": \"7\"}"
+  },
+  {
+    "id": 291,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"50021^MNDRY_VENT_MODE_CPAP_PLUS_PS^99MNDRY\", \"SET_TRIGGERFLOW\": \"1.9346511\", \"SET_OXYGEN\": \"31\", \"SET_PEEP\": \"5\", \"SET_PSUPP\": \"6\"}"
+  },
+  {
+    "id": 292,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"50021^MNDRY_VENT_MODE_CPAP_PLUS_PS^99MNDRY\", \"SET_TRIGGERFLOW\": \"1.9435452\", \"SET_OXYGEN\": \"31\", \"SET_PEEP\": \"5\", \"SET_PSUPP\": \"6\"}"
+  },
+  {
+    "id": 293,
+    "task2_output": "{\"SET_SIMVRR\": \"13\", \"SET_VENTMODE\": \"5119\", \"SET_TRIGGERFLOW\": \"1.9823946\", \"SET_OXYGEN\": \"81\", \"SET_PEEP\": \"7\", \"SET_PSUPP\": \"8\"}"
+  },
+  {
+    "id": 294,
+    "task2_output": "{\"SET_SIMVRR\": \"13\", \"SET_VENTMODE\": \"5119\", \"SET_TRIGGERFLOW\": \"2.0084624\", \"SET_OXYGEN\": \"64\", \"SET_PEEP\": \"6\", \"SET_PSUPP\": \"8\"}"
+  },
+  {
+    "id": 295,
+    "task2_output": "{\"SET_SIMVRR\": \"12\", \"SET_VENTMODE\": \"5119\", \"SET_TRIGGERFLOW\": \"2.0070312\", \"SET_OXYGEN\": \"59\", \"SET_PEEP\": \"5\", \"SET_PSUPP\": \"9\"}"
+  },
+  {
+    "id": 296,
+    "task2_output": "{\"SET_SIMVRR\": \"13\", \"SET_VENTMODE\": \"5119\", \"SET_TRIGGERFLOW\": \"2.0110226\", \"SET_OXYGEN\": \"44\", \"SET_PEEP\": \"5\", \"SET_PSUPP\": \"9\"}"
+  },
+  {
+    "id": 297,
+    "task2_output": "{\"SET_SIMVRR\": \"13\", \"SET_VENTMODE\": \"5119\", \"SET_TRIGGERFLOW\": \"1.9870869\", \"SET_OXYGEN\": \"35\", \"SET_PEEP\": \"5\", \"SET_PSUPP\": \"9\"}"
+  },
+  {
+    "id": 298,
+    "task2_output": "{\"SET_SIMVRR\": \"13\", \"SET_VENTMODE\": \"5119\", \"SET_TRIGGERFLOW\": \"1.9725189\", \"SET_OXYGEN\": \"33\", \"SET_PEEP\": \"5\", \"SET_PSUPP\": \"8\"}"
+  },
+  {
+    "id": 299,
+    "task2_output": "{\"SET_SIMVRR\": \"8\", \"SET_VENTMODE\": \"5119\", \"SET_TRIGGERFLOW\": \"1.9396232\", \"SET_OXYGEN\": \"34\", \"SET_PEEP\": \"5\", \"SET_PSUPP\": \"8\"}"
+  },
+  {
+    "id": 300,
+    "task2_output": "{\"SET_SIMVRR\": \"8\", \"SET_VENTMODE\": \"5119\", \"SET_TRIGGERFLOW\": \"1.9925121\", \"SET_OXYGEN\": \"34\", \"SET_PEEP\": \"5\", \"SET_PSUPP\": \"7\"}"
+  },
+  {
+    "id": 301,
+    "task2_output": "{\"SET_SIMVRR\": \"6\", \"SET_VENTMODE\": \"5119\", \"SET_TRIGGERFLOW\": \"1.9675359\", \"SET_OXYGEN\": \"35\", \"SET_PEEP\": \"5\", \"SET_PSUPP\": \"7\"}"
+  },
+  {
+    "id": 302,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"50021^MNDRY_VENT_MODE_CPAP_PLUS_PS^99MNDRY\", \"SET_TRIGGERFLOW\": \"1.9595481\", \"SET_OXYGEN\": \"38\", \"SET_PEEP\": \"7\", \"SET_PSUPP\": \"9\"}"
+  },
+  {
+    "id": 303,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"50021^MNDRY_VENT_MODE_CPAP_PLUS_PS^99MNDRY\", \"SET_TRIGGERFLOW\": \"1.945135\", \"SET_OXYGEN\": \"39\", \"SET_PEEP\": \"7\", \"SET_PSUPP\": \"12\"}"
+  },
+  {
+    "id": 304,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"5120\", \"SET_TRIGGERFLOW\": \"1.0862135\", \"SET_OXYGEN\": \"41\", \"SET_PEEP\": \"5\", \"SET_PSUPP\": \"8\"}"
+  },
+  {
+    "id": 305,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"5120\", \"SET_TRIGGERFLOW\": \"1.0738176\", \"SET_OXYGEN\": \"40\", \"SET_PEEP\": \"5\", \"SET_PSUPP\": \"7\"}"
+  },
+  {
+    "id": 306,
+    "task2_output": "{\"SET_SIMVRR\": \"-1\", \"SET_VENTMODE\": \"5120\", \"SET_TRIGGERFLOW\": \"1.1141608\", \"SET_OXYGEN\": \"39\", \"SET_PEEP\": \"5\", \"SET_PSUPP\": \"5\"}"
+  },
+  {
+    "id": 307,
+    "task2_output": "{\"SET_SIMVRR\": \"-1\", \"SET_VENTMODE\": \"5120\", \"SET_TRIGGERFLOW\": \"1.1529807\", \"SET_OXYGEN\": \"37\", \"SET_PEEP\": \"5\", \"SET_PSUPP\": \"4\"}"
+  },
+  {
+    "id": 308,
+    "task2_output": "{\"SET_SIMVRR\": \"-1\", \"SET_VENTMODE\": \"5120\", \"SET_TRIGGERFLOW\": \"1.1326214\", \"SET_OXYGEN\": \"35\", \"SET_PEEP\": \"5\", \"SET_PSUPP\": \"4\"}"
+  },
+  {
+    "id": 309,
+    "task2_output": "{\"SET_SIMVRR\": \"-1\", \"SET_VENTMODE\": \"5120\", \"SET_TRIGGERFLOW\": \"1.0823829\", \"SET_OXYGEN\": \"32\", \"SET_PEEP\": \"4\", \"SET_PSUPP\": \"4\"}"
+  },
+  {
+    "id": 310,
+    "task2_output": "{\"SET_SIMVRR\": \"1\", \"SET_VENTMODE\": \"50009^MNDRY_VENT_MODE_SIMVPC^99MNDRY\", \"SET_TRIGGERFLOW\": \"2.0078948\", \"SET_OXYGEN\": \"36\", \"SET_PEEP\": \"5\", \"SET_PSUPP\": \"12\"}"
+  },
+  {
+    "id": 311,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"50009^MNDRY_VENT_MODE_SIMVPC^99MNDRY\", \"SET_TRIGGERFLOW\": \"1.9937392\", \"SET_OXYGEN\": \"36\", \"SET_PEEP\": \"5\", \"SET_PSUPP\": \"13\"}"
+  },
+  {
+    "id": 312,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"50009^MNDRY_VENT_MODE_SIMVPC^99MNDRY\", \"SET_TRIGGERFLOW\": \"2.0047982\", \"SET_OXYGEN\": \"41\", \"SET_PEEP\": \"7\", \"SET_PSUPP\": \"13\"}"
+  },
+  {
+    "id": 313,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"50021^MNDRY_VENT_MODE_CPAP_PLUS_PS^99MNDRY\", \"SET_TRIGGERFLOW\": \"1.9501876\", \"SET_OXYGEN\": \"42\", \"SET_PEEP\": \"7\", \"SET_PSUPP\": \"14\"}"
+  },
+  {
+    "id": 314,
+    "task2_output": "{\"SET_SIMVRR\": \"1\", \"SET_VENTMODE\": \"50021^MNDRY_VENT_MODE_CPAP_PLUS_PS^99MNDRY\", \"SET_TRIGGERFLOW\": \"1.9874959\", \"SET_OXYGEN\": \"42\", \"SET_PEEP\": \"8\", \"SET_PSUPP\": \"14\"}"
+  },
+  {
+    "id": 315,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"50009^MNDRY_VENT_MODE_SIMVPC^99MNDRY\", \"SET_TRIGGERFLOW\": \"2.0080564\", \"SET_OXYGEN\": \"40\", \"SET_PEEP\": \"7\", \"SET_PSUPP\": \"14\"}"
+  },
+  {
+    "id": 316,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"50009^MNDRY_VENT_MODE_SIMVPC^99MNDRY\", \"SET_TRIGGERFLOW\": \"2.0167866\", \"SET_OXYGEN\": \"42\", \"SET_PEEP\": \"9\", \"SET_PSUPP\": \"13\"}"
+  },
+  {
+    "id": 317,
+    "task2_output": "{\"SET_SIMVRR\": \"2\", \"SET_VENTMODE\": \"50009^MNDRY_VENT_MODE_SIMVPC^99MNDRY\", \"SET_TRIGGERFLOW\": \"1.98618\", \"SET_OXYGEN\": \"42\", \"SET_PEEP\": \"10\", \"SET_PSUPP\": \"13\"}"
+  },
+  {
+    "id": 318,
+    "task2_output": "{\"SET_SIMVRR\": \"1\", \"SET_VENTMODE\": \"50009^MNDRY_VENT_MODE_SIMVPC^99MNDRY\", \"SET_TRIGGERFLOW\": \"1.9966463\", \"SET_OXYGEN\": \"42\", \"SET_PEEP\": \"10\", \"SET_PSUPP\": \"12\"}"
+  },
+  {
+    "id": 319,
+    "task2_output": "{\"SET_SIMVRR\": \"1\", \"SET_VENTMODE\": \"50009^MNDRY_VENT_MODE_SIMVPC^99MNDRY\", \"SET_TRIGGERFLOW\": \"1.9996815\", \"SET_OXYGEN\": \"42\", \"SET_PEEP\": \"9\", \"SET_PSUPP\": \"12\"}"
+  },
+  {
+    "id": 320,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"50009^MNDRY_VENT_MODE_SIMVPC^99MNDRY\", \"SET_TRIGGERFLOW\": \"2.0221605\", \"SET_OXYGEN\": \"42\", \"SET_PEEP\": \"9\", \"SET_PSUPP\": \"11\"}"
+  },
+  {
+    "id": 321,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"5120\", \"SET_TRIGGERFLOW\": \"1.1093413\", \"SET_OXYGEN\": \"37\", \"SET_PEEP\": \"7\", \"SET_PSUPP\": \"11\"}"
+  },
+  {
+    "id": 322,
+    "task2_output": "{\"SET_SIMVRR\": \"1\", \"SET_VENTMODE\": \"5120\", \"SET_TRIGGERFLOW\": \"1.2037178\", \"SET_OXYGEN\": \"36\", \"SET_PEEP\": \"8\", \"SET_PSUPP\": \"12\"}"
+  },
+  {
+    "id": 323,
+    "task2_output": "{\"SET_SIMVRR\": \"1\", \"SET_VENTMODE\": \"5120\", \"SET_TRIGGERFLOW\": \"1.1402161\", \"SET_OXYGEN\": \"33\", \"SET_PEEP\": \"8\", \"SET_PSUPP\": \"12\"}"
+  },
+  {
+    "id": 324,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"5120\", \"SET_TRIGGERFLOW\": \"1.1108403\", \"SET_OXYGEN\": \"34\", \"SET_PEEP\": \"7\", \"SET_PSUPP\": \"11\"}"
+  },
+  {
+    "id": 325,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"5120\", \"SET_TRIGGERFLOW\": \"1.1711986\", \"SET_OXYGEN\": \"37\", \"SET_PEEP\": \"7\", \"SET_PSUPP\": \"12\"}"
+  },
+  {
+    "id": 326,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"5120\", \"SET_TRIGGERFLOW\": \"1.2447428\", \"SET_OXYGEN\": \"42\", \"SET_PEEP\": \"7\", \"SET_PSUPP\": \"12\"}"
+  },
+  {
+    "id": 327,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"5120\", \"SET_TRIGGERFLOW\": \"1.3279514\", \"SET_OXYGEN\": \"49\", \"SET_PEEP\": \"8\", \"SET_PSUPP\": \"13\"}"
+  },
+  {
+    "id": 328,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"50021^MNDRY_VENT_MODE_CPAP_PLUS_PS^99MNDRY\", \"SET_TRIGGERFLOW\": \"1.946913\", \"SET_OXYGEN\": \"43\", \"SET_PEEP\": \"9\", \"SET_PSUPP\": \"12\"}"
+  },
+  {
+    "id": 329,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"50021^MNDRY_VENT_MODE_CPAP_PLUS_PS^99MNDRY\", \"SET_TRIGGERFLOW\": \"1.9616293\", \"SET_OXYGEN\": \"40\", \"SET_PEEP\": \"8\", \"SET_PSUPP\": \"14\"}"
+  },
+  {
+    "id": 330,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"50021^MNDRY_VENT_MODE_CPAP_PLUS_PS^99MNDRY\", \"SET_TRIGGERFLOW\": \"1.9557459\", \"SET_OXYGEN\": \"42\", \"SET_PEEP\": \"9\", \"SET_PSUPP\": \"13\"}"
+  },
+  {
+    "id": 331,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"50021^MNDRY_VENT_MODE_CPAP_PLUS_PS^99MNDRY\", \"SET_TRIGGERFLOW\": \"1.9579859\", \"SET_OXYGEN\": \"38\", \"SET_PEEP\": \"8\", \"SET_PSUPP\": \"13\"}"
+  },
+  {
+    "id": 332,
+    "task2_output": "{\"SET_SIMVRR\": \"1\", \"SET_VENTMODE\": \"50021^MNDRY_VENT_MODE_CPAP_PLUS_PS^99MNDRY\", \"SET_TRIGGERFLOW\": \"1.957047\", \"SET_OXYGEN\": \"31\", \"SET_PEEP\": \"7\", \"SET_PSUPP\": \"13\"}"
+  },
+  {
+    "id": 333,
+    "task2_output": "{\"SET_SIMVRR\": \"1\", \"SET_VENTMODE\": \"50021^MNDRY_VENT_MODE_CPAP_PLUS_PS^99MNDRY\", \"SET_TRIGGERFLOW\": \"1.9512986\", \"SET_OXYGEN\": \"32\", \"SET_PEEP\": \"7\", \"SET_PSUPP\": \"13\"}"
+  },
+  {
+    "id": 334,
+    "task2_output": "{\"SET_SIMVRR\": \"9\", \"SET_VENTMODE\": \"5119\", \"SET_TRIGGERFLOW\": \"2.0097945\", \"SET_OXYGEN\": \"44\", \"SET_PEEP\": \"10\", \"SET_PSUPP\": \"14\"}"
+  },
+  {
+    "id": 335,
+    "task2_output": "{\"SET_SIMVRR\": \"7\", \"SET_VENTMODE\": \"5119\", \"SET_TRIGGERFLOW\": \"2.0033274\", \"SET_OXYGEN\": \"43\", \"SET_PEEP\": \"9\", \"SET_PSUPP\": \"13\"}"
+  },
+  {
+    "id": 336,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"5120\", \"SET_TRIGGERFLOW\": \"1.9610369\", \"SET_OXYGEN\": \"44\", \"SET_PEEP\": \"9\", \"SET_PSUPP\": \"13\"}"
+  },
+  {
+    "id": 337,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"5120\", \"SET_TRIGGERFLOW\": \"1.998015\", \"SET_OXYGEN\": \"43\", \"SET_PEEP\": \"9\", \"SET_PSUPP\": \"13\"}"
+  },
+  {
+    "id": 338,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"5120\", \"SET_TRIGGERFLOW\": \"1.9889212\", \"SET_OXYGEN\": \"43\", \"SET_PEEP\": \"9\", \"SET_PSUPP\": \"12\"}"
+  },
+  {
+    "id": 339,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"50009^MNDRY_VENT_MODE_SIMVPC^99MNDRY\", \"SET_TRIGGERFLOW\": \"1.9992594\", \"SET_OXYGEN\": \"40\", \"SET_PEEP\": \"9\", \"SET_PSUPP\": \"14\"}"
+  },
+  {
+    "id": 340,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"50009^MNDRY_VENT_MODE_SIMVPC^99MNDRY\", \"SET_TRIGGERFLOW\": \"1.9980984\", \"SET_OXYGEN\": \"40\", \"SET_PEEP\": \"8\", \"SET_PSUPP\": \"17\"}"
+  },
+  {
+    "id": 341,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"50009^MNDRY_VENT_MODE_SIMVPC^99MNDRY\", \"SET_TRIGGERFLOW\": \"1.9981066\", \"SET_OXYGEN\": \"41\", \"SET_PEEP\": \"8\", \"SET_PSUPP\": \"15\"}"
+  },
+  {
+    "id": 342,
+    "task2_output": "{\"SET_SIMVRR\": \"1\", \"SET_VENTMODE\": \"50009^MNDRY_VENT_MODE_SIMVPC^99MNDRY\", \"SET_TRIGGERFLOW\": \"2.0110998\", \"SET_OXYGEN\": \"41\", \"SET_PEEP\": \"9\", \"SET_PSUPP\": \"14\"}"
+  },
+  {
+    "id": 343,
+    "task2_output": "{\"SET_SIMVRR\": \"1\", \"SET_VENTMODE\": \"50009^MNDRY_VENT_MODE_SIMVPC^99MNDRY\", \"SET_TRIGGERFLOW\": \"2.0238273\", \"SET_OXYGEN\": \"42\", \"SET_PEEP\": \"9\", \"SET_PSUPP\": \"13\"}"
+  },
+  {
+    "id": 344,
+    "task2_output": "{\"SET_SIMVRR\": \"1\", \"SET_VENTMODE\": \"50009^MNDRY_VENT_MODE_SIMVPC^99MNDRY\", \"SET_TRIGGERFLOW\": \"2.0107758\", \"SET_OXYGEN\": \"39\", \"SET_PEEP\": \"9\", \"SET_PSUPP\": \"13\"}"
+  },
+  {
+    "id": 345,
+    "task2_output": "{\"SET_SIMVRR\": \"1\", \"SET_VENTMODE\": \"50009^MNDRY_VENT_MODE_SIMVPC^99MNDRY\", \"SET_TRIGGERFLOW\": \"1.9962583\", \"SET_OXYGEN\": \"35\", \"SET_PEEP\": \"8\", \"SET_PSUPP\": \"14\"}"
+  },
+  {
+    "id": 346,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"50021^MNDRY_VENT_MODE_CPAP_PLUS_PS^99MNDRY\", \"SET_TRIGGERFLOW\": \"1.9399242\", \"SET_OXYGEN\": \"36\", \"SET_PEEP\": \"7\", \"SET_PSUPP\": \"15\"}"
+  },
+  {
+    "id": 347,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"50021^MNDRY_VENT_MODE_CPAP_PLUS_PS^99MNDRY\", \"SET_TRIGGERFLOW\": \"1.9593208\", \"SET_OXYGEN\": \"30\", \"SET_PEEP\": \"6\", \"SET_PSUPP\": \"14\"}"
+  },
+  {
+    "id": 348,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"50021^MNDRY_VENT_MODE_CPAP_PLUS_PS^99MNDRY\", \"SET_TRIGGERFLOW\": \"1.9528321\", \"SET_OXYGEN\": \"31\", \"SET_PEEP\": \"7\", \"SET_PSUPP\": \"15\"}"
+  },
+  {
+    "id": 349,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"5120\", \"SET_TRIGGERFLOW\": \"2.0172553\", \"SET_OXYGEN\": \"50\", \"SET_PEEP\": \"9\", \"SET_PSUPP\": \"15\"}"
+  },
+  {
+    "id": 350,
+    "task2_output": "{\"SET_SIMVRR\": \"10\", \"SET_VENTMODE\": \"5119\", \"SET_TRIGGERFLOW\": \"1.990138\", \"SET_OXYGEN\": \"52\", \"SET_PEEP\": \"10\", \"SET_PSUPP\": \"15\"}"
+  },
+  {
+    "id": 351,
+    "task2_output": "{\"SET_SIMVRR\": \"11\", \"SET_VENTMODE\": \"5119\", \"SET_TRIGGERFLOW\": \"1.995118\", \"SET_OXYGEN\": \"49\", \"SET_PEEP\": \"9\", \"SET_PSUPP\": \"15\"}"
+  },
+  {
+    "id": 352,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"50009^MNDRY_VENT_MODE_SIMVPC^99MNDRY\", \"SET_TRIGGERFLOW\": \"1.9921211\", \"SET_OXYGEN\": \"32\", \"SET_PEEP\": \"4\", \"SET_PSUPP\": \"15\"}"
+  },
+  {
+    "id": 353,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"50021^MNDRY_VENT_MODE_CPAP_PLUS_PS^99MNDRY\", \"SET_TRIGGERFLOW\": \"1.9494982\", \"SET_OXYGEN\": \"32\", \"SET_PEEP\": \"4\", \"SET_PSUPP\": \"14\"}"
+  },
+  {
+    "id": 354,
+    "task2_output": "{\"SET_SIMVRR\": \"1\", \"SET_VENTMODE\": \"50009^MNDRY_VENT_MODE_SIMVPC^99MNDRY\", \"SET_TRIGGERFLOW\": \"1.9881349\", \"SET_OXYGEN\": \"33\", \"SET_PEEP\": \"4\", \"SET_PSUPP\": \"13\"}"
+  },
+  {
+    "id": 355,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"50021^MNDRY_VENT_MODE_CPAP_PLUS_PS^99MNDRY\", \"SET_TRIGGERFLOW\": \"1.9644915\", \"SET_OXYGEN\": \"34\", \"SET_PEEP\": \"4\", \"SET_PSUPP\": \"10\"}"
+  },
+  {
+    "id": 356,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"50021^MNDRY_VENT_MODE_CPAP_PLUS_PS^99MNDRY\", \"SET_TRIGGERFLOW\": \"1.966552\", \"SET_OXYGEN\": \"34\", \"SET_PEEP\": \"4\", \"SET_PSUPP\": \"9\"}"
+  },
+  {
+    "id": 357,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"50021^MNDRY_VENT_MODE_CPAP_PLUS_PS^99MNDRY\", \"SET_TRIGGERFLOW\": \"1.9390255\", \"SET_OXYGEN\": \"34\", \"SET_PEEP\": \"4\", \"SET_PSUPP\": \"7\"}"
+  },
+  {
+    "id": 358,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"50021^MNDRY_VENT_MODE_CPAP_PLUS_PS^99MNDRY\", \"SET_TRIGGERFLOW\": \"1.9311218\", \"SET_OXYGEN\": \"34\", \"SET_PEEP\": \"4\", \"SET_PSUPP\": \"7\"}"
+  },
+  {
+    "id": 359,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"5120\", \"SET_TRIGGERFLOW\": \"1.1200712\", \"SET_OXYGEN\": \"46\", \"SET_PEEP\": \"5\", \"SET_PSUPP\": \"10\"}"
+  },
+  {
+    "id": 360,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"5120\", \"SET_TRIGGERFLOW\": \"1.0004224\", \"SET_OXYGEN\": \"36\", \"SET_PEEP\": \"5\", \"SET_PSUPP\": \"9\"}"
+  },
+  {
+    "id": 361,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"5120\", \"SET_TRIGGERFLOW\": \"0.96852684\", \"SET_OXYGEN\": \"32\", \"SET_PEEP\": \"5\", \"SET_PSUPP\": \"9\"}"
+  },
+  {
+    "id": 362,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"5120\", \"SET_TRIGGERFLOW\": \"0.95747674\", \"SET_OXYGEN\": \"28\", \"SET_PEEP\": \"5\", \"SET_PSUPP\": \"9\"}"
+  },
+  {
+    "id": 363,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"5120\", \"SET_TRIGGERFLOW\": \"0.9426651\", \"SET_OXYGEN\": \"28\", \"SET_PEEP\": \"5\", \"SET_PSUPP\": \"9\"}"
+  },
+  {
+    "id": 364,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"50021^MNDRY_VENT_MODE_CPAP_PLUS_PS^99MNDRY\", \"SET_TRIGGERFLOW\": \"1.9601551\", \"SET_OXYGEN\": \"31\", \"SET_PEEP\": \"5\", \"SET_PSUPP\": \"9\"}"
+  },
+  {
+    "id": 365,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"50021^MNDRY_VENT_MODE_CPAP_PLUS_PS^99MNDRY\", \"SET_TRIGGERFLOW\": \"1.9655482\", \"SET_OXYGEN\": \"27\", \"SET_PEEP\": \"5\", \"SET_PSUPP\": \"9\"}"
+  },
+  {
+    "id": 366,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"50021^MNDRY_VENT_MODE_CPAP_PLUS_PS^99MNDRY\", \"SET_TRIGGERFLOW\": \"1.9696254\", \"SET_OXYGEN\": \"25\", \"SET_PEEP\": \"5\", \"SET_PSUPP\": \"9\"}"
+  },
+  {
+    "id": 367,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"50021^MNDRY_VENT_MODE_CPAP_PLUS_PS^99MNDRY\", \"SET_TRIGGERFLOW\": \"1.9585803\", \"SET_OXYGEN\": \"26\", \"SET_PEEP\": \"5\", \"SET_PSUPP\": \"9\"}"
+  },
+  {
+    "id": 368,
+    "task2_output": "{\"SET_SIMVRR\": \"17\", \"SET_VENTMODE\": \"5119\", \"SET_TRIGGERFLOW\": \"2.0140724\", \"SET_OXYGEN\": \"41\", \"SET_PEEP\": \"5\", \"SET_PSUPP\": \"13\"}"
+  },
+  {
+    "id": 369,
+    "task2_output": "{\"SET_SIMVRR\": \"18\", \"SET_VENTMODE\": \"5119\", \"SET_TRIGGERFLOW\": \"2.0275202\", \"SET_OXYGEN\": \"35\", \"SET_PEEP\": \"6\", \"SET_PSUPP\": \"14\"}"
+  },
+  {
+    "id": 370,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"5120\", \"SET_TRIGGERFLOW\": \"1.9798182\", \"SET_OXYGEN\": \"34\", \"SET_PEEP\": \"5\", \"SET_PSUPP\": \"14\"}"
+  },
+  {
+    "id": 371,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"5120\", \"SET_TRIGGERFLOW\": \"1.9889565\", \"SET_OXYGEN\": \"33\", \"SET_PEEP\": \"5\", \"SET_PSUPP\": \"12\"}"
+  },
+  {
+    "id": 372,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"5120\", \"SET_TRIGGERFLOW\": \"1.9808009\", \"SET_OXYGEN\": \"34\", \"SET_PEEP\": \"5\", \"SET_PSUPP\": \"10\"}"
+  },
+  {
+    "id": 373,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"5120\", \"SET_TRIGGERFLOW\": \"1.9946711\", \"SET_OXYGEN\": \"32\", \"SET_PEEP\": \"5\", \"SET_PSUPP\": \"10\"}"
+  },
+  {
+    "id": 374,
+    "task2_output": "{\"SET_SIMVRR\": \"12\", \"SET_VENTMODE\": \"5119\", \"SET_TRIGGERFLOW\": \"2.0017333\", \"SET_OXYGEN\": \"35\", \"SET_PEEP\": \"6\", \"SET_PSUPP\": \"14\"}"
+  },
+  {
+    "id": 375,
+    "task2_output": "{\"SET_SIMVRR\": \"12\", \"SET_VENTMODE\": \"5119\", \"SET_TRIGGERFLOW\": \"1.9838371\", \"SET_OXYGEN\": \"37\", \"SET_PEEP\": \"6\", \"SET_PSUPP\": \"14\"}"
+  },
+  {
+    "id": 376,
+    "task2_output": "{\"SET_SIMVRR\": \"10\", \"SET_VENTMODE\": \"5119\", \"SET_TRIGGERFLOW\": \"1.9953536\", \"SET_OXYGEN\": \"36\", \"SET_PEEP\": \"8\", \"SET_PSUPP\": \"15\"}"
+  },
+  {
+    "id": 377,
+    "task2_output": "{\"SET_SIMVRR\": \"22\", \"SET_VENTMODE\": \"5119\", \"SET_TRIGGERFLOW\": \"2.000973\", \"SET_OXYGEN\": \"34\", \"SET_PEEP\": \"8\", \"SET_PSUPP\": \"16\"}"
+  },
+  {
+    "id": 378,
+    "task2_output": "{\"SET_SIMVRR\": \"6\", \"SET_VENTMODE\": \"5119\", \"SET_TRIGGERFLOW\": \"2.002091\", \"SET_OXYGEN\": \"36\", \"SET_PEEP\": \"8\", \"SET_PSUPP\": \"17\"}"
+  },
+  {
+    "id": 379,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"5120\", \"SET_TRIGGERFLOW\": \"2.0059626\", \"SET_OXYGEN\": \"44\", \"SET_PEEP\": \"8\", \"SET_PSUPP\": \"17\"}"
+  },
+  {
+    "id": 380,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"50021^MNDRY_VENT_MODE_CPAP_PLUS_PS^99MNDRY\", \"SET_TRIGGERFLOW\": \"1.9582388\", \"SET_OXYGEN\": \"35\", \"SET_PEEP\": \"7\", \"SET_PSUPP\": \"11\"}"
+  },
+  {
+    "id": 381,
+    "task2_output": "{\"SET_SIMVRR\": \"1\", \"SET_VENTMODE\": \"50021^MNDRY_VENT_MODE_CPAP_PLUS_PS^99MNDRY\", \"SET_TRIGGERFLOW\": \"1.9515927\", \"SET_OXYGEN\": \"33\", \"SET_PEEP\": \"7\", \"SET_PSUPP\": \"10\"}"
+  },
+  {
+    "id": 382,
+    "task2_output": "{\"SET_SIMVRR\": \"1\", \"SET_VENTMODE\": \"50021^MNDRY_VENT_MODE_CPAP_PLUS_PS^99MNDRY\", \"SET_TRIGGERFLOW\": \"1.9585745\", \"SET_OXYGEN\": \"32\", \"SET_PEEP\": \"7\", \"SET_PSUPP\": \"10\"}"
+  },
+  {
+    "id": 383,
+    "task2_output": "{\"SET_SIMVRR\": \"1\", \"SET_VENTMODE\": \"50021^MNDRY_VENT_MODE_CPAP_PLUS_PS^99MNDRY\", \"SET_TRIGGERFLOW\": \"1.9682326\", \"SET_OXYGEN\": \"32\", \"SET_PEEP\": \"7\", \"SET_PSUPP\": \"10\"}"
+  },
+  {
+    "id": 384,
+    "task2_output": "{\"SET_SIMVRR\": \"18\", \"SET_VENTMODE\": \"5119\", \"SET_TRIGGERFLOW\": \"2.020725\", \"SET_OXYGEN\": \"55\", \"SET_PEEP\": \"10\", \"SET_PSUPP\": \"10\"}"
+  },
+  {
+    "id": 385,
+    "task2_output": "{\"SET_SIMVRR\": \"9\", \"SET_VENTMODE\": \"5119\", \"SET_TRIGGERFLOW\": \"2.014863\", \"SET_OXYGEN\": \"50\", \"SET_PEEP\": \"10\", \"SET_PSUPP\": \"9\"}"
+  },
+  {
+    "id": 386,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"5120\", \"SET_TRIGGERFLOW\": \"1.9711968\", \"SET_OXYGEN\": \"48\", \"SET_PEEP\": \"10\", \"SET_PSUPP\": \"9\"}"
+  },
+  {
+    "id": 387,
+    "task2_output": "{\"SET_SIMVRR\": \"1\", \"SET_VENTMODE\": \"5120\", \"SET_TRIGGERFLOW\": \"2.013119\", \"SET_OXYGEN\": \"49\", \"SET_PEEP\": \"10\", \"SET_PSUPP\": \"7\"}"
+  },
+  {
+    "id": 388,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"5120\", \"SET_TRIGGERFLOW\": \"2.0069184\", \"SET_OXYGEN\": \"47\", \"SET_PEEP\": \"9\", \"SET_PSUPP\": \"6\"}"
+  },
+  {
+    "id": 389,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"5120\", \"SET_TRIGGERFLOW\": \"2.0125632\", \"SET_OXYGEN\": \"47\", \"SET_PEEP\": \"9\", \"SET_PSUPP\": \"5\"}"
+  },
+  {
+    "id": 390,
+    "task2_output": "{\"SET_SIMVRR\": \"1\", \"SET_VENTMODE\": \"5120\", \"SET_TRIGGERFLOW\": \"1.3285239\", \"SET_OXYGEN\": \"54\", \"SET_PEEP\": \"8\", \"SET_PSUPP\": \"13\"}"
+  },
+  {
+    "id": 391,
+    "task2_output": "{\"SET_SIMVRR\": \"9\", \"SET_VENTMODE\": \"5119\", \"SET_TRIGGERFLOW\": \"1.4798383\", \"SET_OXYGEN\": \"53\", \"SET_PEEP\": \"9\", \"SET_PSUPP\": \"13\"}"
+  },
+  {
+    "id": 392,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"5120\", \"SET_TRIGGERFLOW\": \"1.4476513\", \"SET_OXYGEN\": \"53\", \"SET_PEEP\": \"9\", \"SET_PSUPP\": \"13\"}"
+  },
+  {
+    "id": 393,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"5120\", \"SET_TRIGGERFLOW\": \"1.2810318\", \"SET_OXYGEN\": \"51\", \"SET_PEEP\": \"8\", \"SET_PSUPP\": \"12\"}"
+  },
+  {
+    "id": 394,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"5120\", \"SET_TRIGGERFLOW\": \"1.2374927\", \"SET_OXYGEN\": \"50\", \"SET_PEEP\": \"8\", \"SET_PSUPP\": \"11\"}"
+  },
+  {
+    "id": 395,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"5120\", \"SET_TRIGGERFLOW\": \"1.2029864\", \"SET_OXYGEN\": \"48\", \"SET_PEEP\": \"8\", \"SET_PSUPP\": \"9\"}"
+  },
+  {
+    "id": 396,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"50009^MNDRY_VENT_MODE_SIMVPC^99MNDRY\", \"SET_TRIGGERFLOW\": \"1.9880042\", \"SET_OXYGEN\": \"34\", \"SET_PEEP\": \"5\", \"SET_PSUPP\": \"10\"}"
+  },
+  {
+    "id": 397,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"50021^MNDRY_VENT_MODE_CPAP_PLUS_PS^99MNDRY\", \"SET_TRIGGERFLOW\": \"1.954705\", \"SET_OXYGEN\": \"35\", \"SET_PEEP\": \"5\", \"SET_PSUPP\": \"11\"}"
+  },
+  {
+    "id": 398,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"50021^MNDRY_VENT_MODE_CPAP_PLUS_PS^99MNDRY\", \"SET_TRIGGERFLOW\": \"1.9677296\", \"SET_OXYGEN\": \"33\", \"SET_PEEP\": \"5\", \"SET_PSUPP\": \"9\"}"
+  },
+  {
+    "id": 399,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"50021^MNDRY_VENT_MODE_CPAP_PLUS_PS^99MNDRY\", \"SET_TRIGGERFLOW\": \"1.958718\", \"SET_OXYGEN\": \"34\", \"SET_PEEP\": \"5\", \"SET_PSUPP\": \"8\"}"
+  },
+  {
+    "id": 400,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"50021^MNDRY_VENT_MODE_CPAP_PLUS_PS^99MNDRY\", \"SET_TRIGGERFLOW\": \"1.9498068\", \"SET_OXYGEN\": \"34\", \"SET_PEEP\": \"5\", \"SET_PSUPP\": \"7\"}"
+  },
+  {
+    "id": 401,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"5120\", \"SET_TRIGGERFLOW\": \"0.9641459\", \"SET_OXYGEN\": \"28\", \"SET_PEEP\": \"5\", \"SET_PSUPP\": \"9\"}"
+  },
+  {
+    "id": 402,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"5120\", \"SET_TRIGGERFLOW\": \"0.99843097\", \"SET_OXYGEN\": \"33\", \"SET_PEEP\": \"5\", \"SET_PSUPP\": \"9\"}"
+  },
+  {
+    "id": 403,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"5120\", \"SET_TRIGGERFLOW\": \"1.0337347\", \"SET_OXYGEN\": \"33\", \"SET_PEEP\": \"5\", \"SET_PSUPP\": \"10\"}"
+  },
+  {
+    "id": 404,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"5120\", \"SET_TRIGGERFLOW\": \"1.0796322\", \"SET_OXYGEN\": \"34\", \"SET_PEEP\": \"5\", \"SET_PSUPP\": \"11\"}"
+  },
+  {
+    "id": 405,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"5120\", \"SET_TRIGGERFLOW\": \"1.0964482\", \"SET_OXYGEN\": \"39\", \"SET_PEEP\": \"5\", \"SET_PSUPP\": \"11\"}"
+  },
+  {
+    "id": 406,
+    "task2_output": "{\"SET_SIMVRR\": \"9\", \"SET_VENTMODE\": \"5119\", \"SET_TRIGGERFLOW\": \"2.002169\", \"SET_OXYGEN\": \"31\", \"SET_PEEP\": \"5\", \"SET_PSUPP\": \"11\"}"
+  },
+  {
+    "id": 407,
+    "task2_output": "{\"SET_SIMVRR\": \"8\", \"SET_VENTMODE\": \"5119\", \"SET_TRIGGERFLOW\": \"1.9967449\", \"SET_OXYGEN\": \"31\", \"SET_PEEP\": \"5\", \"SET_PSUPP\": \"11\"}"
+  },
+  {
+    "id": 408,
+    "task2_output": "{\"SET_SIMVRR\": \"13\", \"SET_VENTMODE\": \"5119\", \"SET_TRIGGERFLOW\": \"1.957161\", \"SET_OXYGEN\": \"34\", \"SET_PEEP\": \"5\", \"SET_PSUPP\": \"11\"}"
+  },
+  {
+    "id": 409,
+    "task2_output": "{\"SET_SIMVRR\": \"13\", \"SET_VENTMODE\": \"5119\", \"SET_TRIGGERFLOW\": \"1.9715362\", \"SET_OXYGEN\": \"29\", \"SET_PEEP\": \"5\", \"SET_PSUPP\": \"11\"}"
+  },
+  {
+    "id": 410,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"5120\", \"SET_TRIGGERFLOW\": \"1.9977121\", \"SET_OXYGEN\": \"42\", \"SET_PEEP\": \"8\", \"SET_PSUPP\": \"15\"}"
+  },
+  {
+    "id": 411,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"5120\", \"SET_TRIGGERFLOW\": \"1.9988929\", \"SET_OXYGEN\": \"43\", \"SET_PEEP\": \"8\", \"SET_PSUPP\": \"14\"}"
+  },
+  {
+    "id": 412,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"5120\", \"SET_TRIGGERFLOW\": \"1.984453\", \"SET_OXYGEN\": \"42\", \"SET_PEEP\": \"8\", \"SET_PSUPP\": \"13\"}"
+  },
+  {
+    "id": 413,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"5120\", \"SET_TRIGGERFLOW\": \"1.9832661\", \"SET_OXYGEN\": \"39\", \"SET_PEEP\": \"8\", \"SET_PSUPP\": \"13\"}"
+  },
+  {
+    "id": 414,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"5120\", \"SET_TRIGGERFLOW\": \"1.9793876\", \"SET_OXYGEN\": \"35\", \"SET_PEEP\": \"7\", \"SET_PSUPP\": \"13\"}"
+  },
+  {
+    "id": 415,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"50009^MNDRY_VENT_MODE_SIMVPC^99MNDRY\", \"SET_TRIGGERFLOW\": \"1.9976006\", \"SET_OXYGEN\": \"32\", \"SET_PEEP\": \"7\", \"SET_PSUPP\": \"15\"}"
+  },
+  {
+    "id": 416,
+    "task2_output": "{\"SET_SIMVRR\": \"1\", \"SET_VENTMODE\": \"50009^MNDRY_VENT_MODE_SIMVPC^99MNDRY\", \"SET_TRIGGERFLOW\": \"1.9967195\", \"SET_OXYGEN\": \"31\", \"SET_PEEP\": \"7\", \"SET_PSUPP\": \"14\"}"
+  },
+  {
+    "id": 417,
+    "task2_output": "{\"SET_SIMVRR\": \"1\", \"SET_VENTMODE\": \"50009^MNDRY_VENT_MODE_SIMVPC^99MNDRY\", \"SET_TRIGGERFLOW\": \"1.9981223\", \"SET_OXYGEN\": \"31\", \"SET_PEEP\": \"7\", \"SET_PSUPP\": \"15\"}"
+  },
+  {
+    "id": 418,
+    "task2_output": "{\"SET_SIMVRR\": \"1\", \"SET_VENTMODE\": \"50009^MNDRY_VENT_MODE_SIMVPC^99MNDRY\", \"SET_TRIGGERFLOW\": \"1.9892362\", \"SET_OXYGEN\": \"32\", \"SET_PEEP\": \"7\", \"SET_PSUPP\": \"17\"}"
+  },
+  {
+    "id": 419,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"50021^MNDRY_VENT_MODE_CPAP_PLUS_PS^99MNDRY\", \"SET_TRIGGERFLOW\": \"1.9678392\", \"SET_OXYGEN\": \"37\", \"SET_PEEP\": \"8\", \"SET_PSUPP\": \"16\"}"
+  },
+  {
+    "id": 420,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"50021^MNDRY_VENT_MODE_CPAP_PLUS_PS^99MNDRY\", \"SET_TRIGGERFLOW\": \"1.960587\", \"SET_OXYGEN\": \"32\", \"SET_PEEP\": \"7\", \"SET_PSUPP\": \"17\"}"
+  },
+  {
+    "id": 421,
+    "task2_output": "{\"SET_SIMVRR\": \"1\", \"SET_VENTMODE\": \"50009^MNDRY_VENT_MODE_SIMVPC^99MNDRY\", \"SET_TRIGGERFLOW\": \"1.9807161\", \"SET_OXYGEN\": \"34\", \"SET_PEEP\": \"7\", \"SET_PSUPP\": \"17\"}"
+  },
+  {
+    "id": 422,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"50021^MNDRY_VENT_MODE_CPAP_PLUS_PS^99MNDRY\", \"SET_TRIGGERFLOW\": \"1.9712464\", \"SET_OXYGEN\": \"35\", \"SET_PEEP\": \"7\", \"SET_PSUPP\": \"19\"}"
+  },
+  {
+    "id": 423,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"50021^MNDRY_VENT_MODE_CPAP_PLUS_PS^99MNDRY\", \"SET_TRIGGERFLOW\": \"1.9687179\", \"SET_OXYGEN\": \"32\", \"SET_PEEP\": \"7\", \"SET_PSUPP\": \"18\"}"
+  },
+  {
+    "id": 424,
+    "task2_output": "{\"SET_SIMVRR\": \"1\", \"SET_VENTMODE\": \"50021^MNDRY_VENT_MODE_CPAP_PLUS_PS^99MNDRY\", \"SET_TRIGGERFLOW\": \"1.9562771\", \"SET_OXYGEN\": \"33\", \"SET_PEEP\": \"9\", \"SET_PSUPP\": \"16\"}"
+  },
+  {
+    "id": 425,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"50021^MNDRY_VENT_MODE_CPAP_PLUS_PS^99MNDRY\", \"SET_TRIGGERFLOW\": \"1.9517373\", \"SET_OXYGEN\": \"33\", \"SET_PEEP\": \"8\", \"SET_PSUPP\": \"16\"}"
+  },
+  {
+    "id": 426,
+    "task2_output": "{\"SET_SIMVRR\": \"1\", \"SET_VENTMODE\": \"50021^MNDRY_VENT_MODE_CPAP_PLUS_PS^99MNDRY\", \"SET_TRIGGERFLOW\": \"1.9511237\", \"SET_OXYGEN\": \"33\", \"SET_PEEP\": \"8\", \"SET_PSUPP\": \"14\"}"
+  },
+  {
+    "id": 427,
+    "task2_output": "{\"SET_SIMVRR\": \"1\", \"SET_VENTMODE\": \"50021^MNDRY_VENT_MODE_CPAP_PLUS_PS^99MNDRY\", \"SET_TRIGGERFLOW\": \"1.9833956\", \"SET_OXYGEN\": \"33\", \"SET_PEEP\": \"8\", \"SET_PSUPP\": \"16\"}"
+  },
+  {
+    "id": 428,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"50021^MNDRY_VENT_MODE_CPAP_PLUS_PS^99MNDRY\", \"SET_TRIGGERFLOW\": \"1.9756228\", \"SET_OXYGEN\": \"35\", \"SET_PEEP\": \"8\", \"SET_PSUPP\": \"17\"}"
+  },
+  {
+    "id": 429,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"50021^MNDRY_VENT_MODE_CPAP_PLUS_PS^99MNDRY\", \"SET_TRIGGERFLOW\": \"1.9709707\", \"SET_OXYGEN\": \"37\", \"SET_PEEP\": \"9\", \"SET_PSUPP\": \"18\"}"
+  },
+  {
+    "id": 430,
+    "task2_output": "{\"SET_SIMVRR\": \"1\", \"SET_VENTMODE\": \"50021^MNDRY_VENT_MODE_CPAP_PLUS_PS^99MNDRY\", \"SET_TRIGGERFLOW\": \"1.982414\", \"SET_OXYGEN\": \"36\", \"SET_PEEP\": \"9\", \"SET_PSUPP\": \"18\"}"
+  },
+  {
+    "id": 431,
+    "task2_output": "{\"SET_SIMVRR\": \"1\", \"SET_VENTMODE\": \"50009^MNDRY_VENT_MODE_SIMVPC^99MNDRY\", \"SET_TRIGGERFLOW\": \"1.9916334\", \"SET_OXYGEN\": \"40\", \"SET_PEEP\": \"9\", \"SET_PSUPP\": \"17\"}"
+  },
+  {
+    "id": 432,
+    "task2_output": "{\"SET_SIMVRR\": \"2\", \"SET_VENTMODE\": \"50009^MNDRY_VENT_MODE_SIMVPC^99MNDRY\", \"SET_TRIGGERFLOW\": \"1.9823793\", \"SET_OXYGEN\": \"34\", \"SET_PEEP\": \"8\", \"SET_PSUPP\": \"17\"}"
+  },
+  {
+    "id": 433,
+    "task2_output": "{\"SET_SIMVRR\": \"11\", \"SET_VENTMODE\": \"5119\", \"SET_TRIGGERFLOW\": \"1.9886992\", \"SET_OXYGEN\": \"48\", \"SET_PEEP\": \"10\", \"SET_PSUPP\": \"10\"}"
+  },
+  {
+    "id": 434,
+    "task2_output": "{\"SET_SIMVRR\": \"10\", \"SET_VENTMODE\": \"5119\", \"SET_TRIGGERFLOW\": \"2.0048532\", \"SET_OXYGEN\": \"51\", \"SET_PEEP\": \"11\", \"SET_PSUPP\": \"8\"}"
+  },
+  {
+    "id": 435,
+    "task2_output": "{\"SET_SIMVRR\": \"10\", \"SET_VENTMODE\": \"5119\", \"SET_TRIGGERFLOW\": \"1.9784665\", \"SET_OXYGEN\": \"50\", \"SET_PEEP\": \"11\", \"SET_PSUPP\": \"6\"}"
+  },
+  {
+    "id": 436,
+    "task2_output": "{\"SET_SIMVRR\": \"7\", \"SET_VENTMODE\": \"5119\", \"SET_TRIGGERFLOW\": \"1.976275\", \"SET_OXYGEN\": \"48\", \"SET_PEEP\": \"10\", \"SET_PSUPP\": \"7\"}"
+  },
+  {
+    "id": 437,
+    "task2_output": "{\"SET_SIMVRR\": \"8\", \"SET_VENTMODE\": \"5119\", \"SET_TRIGGERFLOW\": \"1.985482\", \"SET_OXYGEN\": \"47\", \"SET_PEEP\": \"10\", \"SET_PSUPP\": \"5\"}"
+  },
+  {
+    "id": 438,
+    "task2_output": "{\"SET_SIMVRR\": \"7\", \"SET_VENTMODE\": \"5119\", \"SET_TRIGGERFLOW\": \"1.9690177\", \"SET_OXYGEN\": \"43\", \"SET_PEEP\": \"10\", \"SET_PSUPP\": \"5\"}"
+  },
+  {
+    "id": 439,
+    "task2_output": "{\"SET_SIMVRR\": \"7\", \"SET_VENTMODE\": \"5119\", \"SET_TRIGGERFLOW\": \"1.9558768\", \"SET_OXYGEN\": \"40\", \"SET_PEEP\": \"10\", \"SET_PSUPP\": \"5\"}"
+  },
+  {
+    "id": 440,
+    "task2_output": "{\"SET_SIMVRR\": \"7\", \"SET_VENTMODE\": \"5119\", \"SET_TRIGGERFLOW\": \"1.9732219\", \"SET_OXYGEN\": \"38\", \"SET_PEEP\": \"8\", \"SET_PSUPP\": \"6\"}"
+  },
+  {
+    "id": 441,
+    "task2_output": "{\"SET_SIMVRR\": \"7\", \"SET_VENTMODE\": \"5119\", \"SET_TRIGGERFLOW\": \"1.9479609\", \"SET_OXYGEN\": \"33\", \"SET_PEEP\": \"7\", \"SET_PSUPP\": \"5\"}"
+  },
+  {
+    "id": 442,
+    "task2_output": "{\"SET_SIMVRR\": \"7\", \"SET_VENTMODE\": \"5119\", \"SET_TRIGGERFLOW\": \"1.9425076\", \"SET_OXYGEN\": \"31\", \"SET_PEEP\": \"8\", \"SET_PSUPP\": \"5\"}"
+  },
+  {
+    "id": 443,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"5120\", \"SET_TRIGGERFLOW\": \"1.9819444\", \"SET_OXYGEN\": \"32\", \"SET_PEEP\": \"5\", \"SET_PSUPP\": \"8\"}"
+  },
+  {
+    "id": 444,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"5120\", \"SET_TRIGGERFLOW\": \"1.9739025\", \"SET_OXYGEN\": \"30\", \"SET_PEEP\": \"5\", \"SET_PSUPP\": \"7\"}"
+  },
+  {
+    "id": 445,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"5120\", \"SET_TRIGGERFLOW\": \"1.9596915\", \"SET_OXYGEN\": \"30\", \"SET_PEEP\": \"5\", \"SET_PSUPP\": \"6\"}"
+  },
+  {
+    "id": 446,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"5120\", \"SET_TRIGGERFLOW\": \"1.9468613\", \"SET_OXYGEN\": \"28\", \"SET_PEEP\": \"5\", \"SET_PSUPP\": \"5\"}"
+  },
+  {
+    "id": 447,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"50021^MNDRY_VENT_MODE_CPAP_PLUS_PS^99MNDRY\", \"SET_TRIGGERFLOW\": \"1.9576613\", \"SET_OXYGEN\": \"35\", \"SET_PEEP\": \"5\", \"SET_PSUPP\": \"5\"}"
+  },
+  {
+    "id": 448,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"50021^MNDRY_VENT_MODE_CPAP_PLUS_PS^99MNDRY\", \"SET_TRIGGERFLOW\": \"1.9593949\", \"SET_OXYGEN\": \"33\", \"SET_PEEP\": \"5\", \"SET_PSUPP\": \"5\"}"
+  },
+  {
+    "id": 449,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"5120\", \"SET_TRIGGERFLOW\": \"0.9428352\", \"SET_OXYGEN\": \"31\", \"SET_PEEP\": \"5\", \"SET_PSUPP\": \"8\"}"
+  },
+  {
+    "id": 450,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"5120\", \"SET_TRIGGERFLOW\": \"0.9445678\", \"SET_OXYGEN\": \"29\", \"SET_PEEP\": \"5\", \"SET_PSUPP\": \"7\"}"
+  },
+  {
+    "id": 451,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"50021^MNDRY_VENT_MODE_CPAP_PLUS_PS^99MNDRY\", \"SET_TRIGGERFLOW\": \"1.9577553\", \"SET_OXYGEN\": \"55\", \"SET_PEEP\": \"8\", \"SET_PSUPP\": \"11\"}"
+  },
+  {
+    "id": 452,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"50021^MNDRY_VENT_MODE_CPAP_PLUS_PS^99MNDRY\", \"SET_TRIGGERFLOW\": \"1.959078\", \"SET_OXYGEN\": \"51\", \"SET_PEEP\": \"8\", \"SET_PSUPP\": \"11\"}"
+  },
+  {
+    "id": 453,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"50021^MNDRY_VENT_MODE_CPAP_PLUS_PS^99MNDRY\", \"SET_TRIGGERFLOW\": \"1.9604976\", \"SET_OXYGEN\": \"48\", \"SET_PEEP\": \"8\", \"SET_PSUPP\": \"11\"}"
+  },
+  {
+    "id": 454,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"50021^MNDRY_VENT_MODE_CPAP_PLUS_PS^99MNDRY\", \"SET_TRIGGERFLOW\": \"1.9628625\", \"SET_OXYGEN\": \"43\", \"SET_PEEP\": \"7\", \"SET_PSUPP\": \"10\"}"
+  },
+  {
+    "id": 455,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"50021^MNDRY_VENT_MODE_CPAP_PLUS_PS^99MNDRY\", \"SET_TRIGGERFLOW\": \"1.973617\", \"SET_OXYGEN\": \"42\", \"SET_PEEP\": \"7\", \"SET_PSUPP\": \"8\"}"
+  },
+  {
+    "id": 456,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"50021^MNDRY_VENT_MODE_CPAP_PLUS_PS^99MNDRY\", \"SET_TRIGGERFLOW\": \"1.9845742\", \"SET_OXYGEN\": \"41\", \"SET_PEEP\": \"7\", \"SET_PSUPP\": \"7\"}"
+  },
+  {
+    "id": 457,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"50009^MNDRY_VENT_MODE_SIMVPC^99MNDRY\", \"SET_TRIGGERFLOW\": \"2.030227\", \"SET_OXYGEN\": \"50\", \"SET_PEEP\": \"10\", \"SET_PSUPP\": \"13\"}"
+  },
+  {
+    "id": 458,
+    "task2_output": "{\"SET_SIMVRR\": \"1\", \"SET_VENTMODE\": \"50009^MNDRY_VENT_MODE_SIMVPC^99MNDRY\", \"SET_TRIGGERFLOW\": \"2.0277956\", \"SET_OXYGEN\": \"53\", \"SET_PEEP\": \"10\", \"SET_PSUPP\": \"12\"}"
+  },
+  {
+    "id": 459,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"50021^MNDRY_VENT_MODE_CPAP_PLUS_PS^99MNDRY\", \"SET_TRIGGERFLOW\": \"1.9790425\", \"SET_OXYGEN\": \"53\", \"SET_PEEP\": \"9\", \"SET_PSUPP\": \"14\"}"
+  },
+  {
+    "id": 460,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"50021^MNDRY_VENT_MODE_CPAP_PLUS_PS^99MNDRY\", \"SET_TRIGGERFLOW\": \"1.9885738\", \"SET_OXYGEN\": \"53\", \"SET_PEEP\": \"10\", \"SET_PSUPP\": \"12\"}"
+  },
+  {
+    "id": 461,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"50021^MNDRY_VENT_MODE_CPAP_PLUS_PS^99MNDRY\", \"SET_TRIGGERFLOW\": \"1.988739\", \"SET_OXYGEN\": \"53\", \"SET_PEEP\": \"10\", \"SET_PSUPP\": \"11\"}"
+  },
+  {
+    "id": 462,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"50021^MNDRY_VENT_MODE_CPAP_PLUS_PS^99MNDRY\", \"SET_TRIGGERFLOW\": \"1.9863498\", \"SET_OXYGEN\": \"53\", \"SET_PEEP\": \"10\", \"SET_PSUPP\": \"11\"}"
+  },
+  {
+    "id": 463,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"50021^MNDRY_VENT_MODE_CPAP_PLUS_PS^99MNDRY\", \"SET_TRIGGERFLOW\": \"1.9925407\", \"SET_OXYGEN\": \"58\", \"SET_PEEP\": \"10\", \"SET_PSUPP\": \"11\"}"
+  },
+  {
+    "id": 464,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"50021^MNDRY_VENT_MODE_CPAP_PLUS_PS^99MNDRY\", \"SET_TRIGGERFLOW\": \"1.9680936\", \"SET_OXYGEN\": \"37\", \"SET_PEEP\": \"5\", \"SET_PSUPP\": \"8\"}"
+  },
+  {
+    "id": 465,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"50021^MNDRY_VENT_MODE_CPAP_PLUS_PS^99MNDRY\", \"SET_TRIGGERFLOW\": \"1.9816214\", \"SET_OXYGEN\": \"37\", \"SET_PEEP\": \"5\", \"SET_PSUPP\": \"8\"}"
+  },
+  {
+    "id": 466,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"50021^MNDRY_VENT_MODE_CPAP_PLUS_PS^99MNDRY\", \"SET_TRIGGERFLOW\": \"1.9695125\", \"SET_OXYGEN\": \"37\", \"SET_PEEP\": \"5\", \"SET_PSUPP\": \"7\"}"
+  },
+  {
+    "id": 467,
+    "task2_output": "{\"SET_SIMVRR\": \"8\", \"SET_VENTMODE\": \"5119\", \"SET_TRIGGERFLOW\": \"1.5646124\", \"SET_OXYGEN\": \"34\", \"SET_PEEP\": \"5\", \"SET_PSUPP\": \"8\"}"
+  },
+  {
+    "id": 468,
+    "task2_output": "{\"SET_SIMVRR\": \"7\", \"SET_VENTMODE\": \"5119\", \"SET_TRIGGERFLOW\": \"1.5603971\", \"SET_OXYGEN\": \"34\", \"SET_PEEP\": \"5\", \"SET_PSUPP\": \"9\"}"
+  },
+  {
+    "id": 469,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"5120\", \"SET_TRIGGERFLOW\": \"1.5925078\", \"SET_OXYGEN\": \"34\", \"SET_PEEP\": \"5\", \"SET_PSUPP\": \"9\"}"
+  },
+  {
+    "id": 470,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"5120\", \"SET_TRIGGERFLOW\": \"1.5542516\", \"SET_OXYGEN\": \"34\", \"SET_PEEP\": \"5\", \"SET_PSUPP\": \"7\"}"
+  },
+  {
+    "id": 471,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"5120\", \"SET_TRIGGERFLOW\": \"1.5729859\", \"SET_OXYGEN\": \"34\", \"SET_PEEP\": \"5\", \"SET_PSUPP\": \"6\"}"
+  },
+  {
+    "id": 472,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"5120\", \"SET_TRIGGERFLOW\": \"1.5930573\", \"SET_OXYGEN\": \"33\", \"SET_PEEP\": \"5\", \"SET_PSUPP\": \"5\"}"
+  },
+  {
+    "id": 473,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"50021^MNDRY_VENT_MODE_CPAP_PLUS_PS^99MNDRY\", \"SET_TRIGGERFLOW\": \"1.9703289\", \"SET_OXYGEN\": \"42\", \"SET_PEEP\": \"5\", \"SET_PSUPP\": \"6\"}"
+  },
+  {
+    "id": 474,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"50021^MNDRY_VENT_MODE_CPAP_PLUS_PS^99MNDRY\", \"SET_TRIGGERFLOW\": \"1.9625796\", \"SET_OXYGEN\": \"38\", \"SET_PEEP\": \"5\", \"SET_PSUPP\": \"6\"}"
+  },
+  {
+    "id": 475,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"50021^MNDRY_VENT_MODE_CPAP_PLUS_PS^99MNDRY\", \"SET_TRIGGERFLOW\": \"2.0077794\", \"SET_OXYGEN\": \"39\", \"SET_PEEP\": \"7\", \"SET_PSUPP\": \"6\"}"
+  },
+  {
+    "id": 476,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"5120\", \"SET_TRIGGERFLOW\": \"1.0006758\", \"SET_OXYGEN\": \"30\", \"SET_PEEP\": \"5\", \"SET_PSUPP\": \"8\"}"
+  },
+  {
+    "id": 477,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"5120\", \"SET_TRIGGERFLOW\": \"0.976369\", \"SET_OXYGEN\": \"29\", \"SET_PEEP\": \"5\", \"SET_PSUPP\": \"9\"}"
+  },
+  {
+    "id": 478,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"50021^MNDRY_VENT_MODE_CPAP_PLUS_PS^99MNDRY\", \"SET_TRIGGERFLOW\": \"1.9709768\", \"SET_OXYGEN\": \"40\", \"SET_PEEP\": \"5\", \"SET_PSUPP\": \"9\"}"
+  },
+  {
+    "id": 479,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"50021^MNDRY_VENT_MODE_CPAP_PLUS_PS^99MNDRY\", \"SET_TRIGGERFLOW\": \"1.9810015\", \"SET_OXYGEN\": \"45\", \"SET_PEEP\": \"8\", \"SET_PSUPP\": \"10\"}"
+  },
+  {
+    "id": 480,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"50021^MNDRY_VENT_MODE_CPAP_PLUS_PS^99MNDRY\", \"SET_TRIGGERFLOW\": \"1.9781698\", \"SET_OXYGEN\": \"49\", \"SET_PEEP\": \"8\", \"SET_PSUPP\": \"11\"}"
+  },
+  {
+    "id": 481,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"50021^MNDRY_VENT_MODE_CPAP_PLUS_PS^99MNDRY\", \"SET_TRIGGERFLOW\": \"1.9768213\", \"SET_OXYGEN\": \"53\", \"SET_PEEP\": \"9\", \"SET_PSUPP\": \"11\"}"
+  },
+  {
+    "id": 482,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"50021^MNDRY_VENT_MODE_CPAP_PLUS_PS^99MNDRY\", \"SET_TRIGGERFLOW\": \"1.9769902\", \"SET_OXYGEN\": \"52\", \"SET_PEEP\": \"8\", \"SET_PSUPP\": \"10\"}"
+  },
+  {
+    "id": 483,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"50021^MNDRY_VENT_MODE_CPAP_PLUS_PS^99MNDRY\", \"SET_TRIGGERFLOW\": \"1.968606\", \"SET_OXYGEN\": \"52\", \"SET_PEEP\": \"8\", \"SET_PSUPP\": \"10\"}"
+  },
+  {
+    "id": 484,
+    "task2_output": "{\"SET_SIMVRR\": \"1\", \"SET_VENTMODE\": \"50009^MNDRY_VENT_MODE_SIMVPC^99MNDRY\", \"SET_TRIGGERFLOW\": \"2.0138316\", \"SET_OXYGEN\": \"53\", \"SET_PEEP\": \"9\", \"SET_PSUPP\": \"11\"}"
+  },
+  {
+    "id": 485,
+    "task2_output": "{\"SET_SIMVRR\": \"1\", \"SET_VENTMODE\": \"50009^MNDRY_VENT_MODE_SIMVPC^99MNDRY\", \"SET_TRIGGERFLOW\": \"2.0195818\", \"SET_OXYGEN\": \"53\", \"SET_PEEP\": \"8\", \"SET_PSUPP\": \"11\"}"
+  },
+  {
+    "id": 486,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"50021^MNDRY_VENT_MODE_CPAP_PLUS_PS^99MNDRY\", \"SET_TRIGGERFLOW\": \"1.9824907\", \"SET_OXYGEN\": \"54\", \"SET_PEEP\": \"8\", \"SET_PSUPP\": \"13\"}"
+  },
+  {
+    "id": 487,
+    "task2_output": "{\"SET_SIMVRR\": \"1\", \"SET_VENTMODE\": \"50021^MNDRY_VENT_MODE_CPAP_PLUS_PS^99MNDRY\", \"SET_TRIGGERFLOW\": \"1.9892399\", \"SET_OXYGEN\": \"54\", \"SET_PEEP\": \"8\", \"SET_PSUPP\": \"11\"}"
+  },
+  {
+    "id": 488,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"50021^MNDRY_VENT_MODE_CPAP_PLUS_PS^99MNDRY\", \"SET_TRIGGERFLOW\": \"1.9784948\", \"SET_OXYGEN\": \"52\", \"SET_PEEP\": \"9\", \"SET_PSUPP\": \"11\"}"
+  },
+  {
+    "id": 489,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"50021^MNDRY_VENT_MODE_CPAP_PLUS_PS^99MNDRY\", \"SET_TRIGGERFLOW\": \"1.9710835\", \"SET_OXYGEN\": \"53\", \"SET_PEEP\": \"8\", \"SET_PSUPP\": \"11\"}"
+  },
+  {
+    "id": 490,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"50021^MNDRY_VENT_MODE_CPAP_PLUS_PS^99MNDRY\", \"SET_TRIGGERFLOW\": \"1.9843906\", \"SET_OXYGEN\": \"52\", \"SET_PEEP\": \"9\", \"SET_PSUPP\": \"11\"}"
+  },
+  {
+    "id": 491,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"50009^MNDRY_VENT_MODE_SIMVPC^99MNDRY\", \"SET_TRIGGERFLOW\": \"2.0066617\", \"SET_OXYGEN\": \"44\", \"SET_PEEP\": \"7\", \"SET_PSUPP\": \"10\"}"
+  },
+  {
+    "id": 492,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"50009^MNDRY_VENT_MODE_SIMVPC^99MNDRY\", \"SET_TRIGGERFLOW\": \"1.9991186\", \"SET_OXYGEN\": \"44\", \"SET_PEEP\": \"7\", \"SET_PSUPP\": \"9\"}"
+  },
+  {
+    "id": 493,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"50009^MNDRY_VENT_MODE_SIMVPC^99MNDRY\", \"SET_TRIGGERFLOW\": \"1.9956857\", \"SET_OXYGEN\": \"43\", \"SET_PEEP\": \"7\", \"SET_PSUPP\": \"7\"}"
+  },
+  {
+    "id": 494,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"50021^MNDRY_VENT_MODE_CPAP_PLUS_PS^99MNDRY\", \"SET_TRIGGERFLOW\": \"1.9850543\", \"SET_OXYGEN\": \"46\", \"SET_PEEP\": \"7\", \"SET_PSUPP\": \"7\"}"
+  },
+  {
+    "id": 495,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"50021^MNDRY_VENT_MODE_CPAP_PLUS_PS^99MNDRY\", \"SET_TRIGGERFLOW\": \"1.9849069\", \"SET_OXYGEN\": \"45\", \"SET_PEEP\": \"7\", \"SET_PSUPP\": \"7\"}"
+  },
+  {
+    "id": 496,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"50021^MNDRY_VENT_MODE_CPAP_PLUS_PS^99MNDRY\", \"SET_TRIGGERFLOW\": \"1.9905163\", \"SET_OXYGEN\": \"44\", \"SET_PEEP\": \"7\", \"SET_PSUPP\": \"6\"}"
+  },
+  {
+    "id": 497,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"50021^MNDRY_VENT_MODE_CPAP_PLUS_PS^99MNDRY\", \"SET_TRIGGERFLOW\": \"1.987629\", \"SET_OXYGEN\": \"40\", \"SET_PEEP\": \"6\", \"SET_PSUPP\": \"5\"}"
+  },
+  {
+    "id": 498,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"50021^MNDRY_VENT_MODE_CPAP_PLUS_PS^99MNDRY\", \"SET_TRIGGERFLOW\": \"1.9795897\", \"SET_OXYGEN\": \"37\", \"SET_PEEP\": \"6\", \"SET_PSUPP\": \"5\"}"
+  },
+  {
+    "id": 499,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"50021^MNDRY_VENT_MODE_CPAP_PLUS_PS^99MNDRY\", \"SET_TRIGGERFLOW\": \"1.9854926\", \"SET_OXYGEN\": \"36\", \"SET_PEEP\": \"7\", \"SET_PSUPP\": \"6\"}"
+  },
+  {
+    "id": 500,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"5120\", \"SET_TRIGGERFLOW\": \"1.0496017\", \"SET_OXYGEN\": \"36\", \"SET_PEEP\": \"6\", \"SET_PSUPP\": \"9\"}"
+  },
+  {
+    "id": 501,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"5120\", \"SET_TRIGGERFLOW\": \"1.0210708\", \"SET_OXYGEN\": \"35\", \"SET_PEEP\": \"6\", \"SET_PSUPP\": \"9\"}"
+  },
+  {
+    "id": 502,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"5120\", \"SET_TRIGGERFLOW\": \"1.0024266\", \"SET_OXYGEN\": \"32\", \"SET_PEEP\": \"6\", \"SET_PSUPP\": \"9\"}"
+  },
+  {
+    "id": 503,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"5120\", \"SET_TRIGGERFLOW\": \"0.981824\", \"SET_OXYGEN\": \"29\", \"SET_PEEP\": \"6\", \"SET_PSUPP\": \"9\"}"
+  },
+  {
+    "id": 504,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"50009^MNDRY_VENT_MODE_SIMVPC^99MNDRY\", \"SET_TRIGGERFLOW\": \"2.0277674\", \"SET_OXYGEN\": \"40\", \"SET_PEEP\": \"8\", \"SET_PSUPP\": \"11\"}"
+  },
+  {
+    "id": 505,
+    "task2_output": "{\"SET_SIMVRR\": \"1\", \"SET_VENTMODE\": \"50009^MNDRY_VENT_MODE_SIMVPC^99MNDRY\", \"SET_TRIGGERFLOW\": \"2.0277026\", \"SET_OXYGEN\": \"40\", \"SET_PEEP\": \"8\", \"SET_PSUPP\": \"11\"}"
+  },
+  {
+    "id": 506,
+    "task2_output": "{\"SET_SIMVRR\": \"1\", \"SET_VENTMODE\": \"50009^MNDRY_VENT_MODE_SIMVPC^99MNDRY\", \"SET_TRIGGERFLOW\": \"2.0116074\", \"SET_OXYGEN\": \"40\", \"SET_PEEP\": \"8\", \"SET_PSUPP\": \"11\"}"
+  },
+  {
+    "id": 507,
+    "task2_output": "{\"SET_SIMVRR\": \"1\", \"SET_VENTMODE\": \"50009^MNDRY_VENT_MODE_SIMVPC^99MNDRY\", \"SET_TRIGGERFLOW\": \"2.0005696\", \"SET_OXYGEN\": \"40\", \"SET_PEEP\": \"7\", \"SET_PSUPP\": \"10\"}"
+  },
+  {
+    "id": 508,
+    "task2_output": "{\"SET_SIMVRR\": \"1\", \"SET_VENTMODE\": \"50009^MNDRY_VENT_MODE_SIMVPC^99MNDRY\", \"SET_TRIGGERFLOW\": \"1.9866518\", \"SET_OXYGEN\": \"40\", \"SET_PEEP\": \"7\", \"SET_PSUPP\": \"10\"}"
+  },
+  {
+    "id": 509,
+    "task2_output": "{\"SET_SIMVRR\": \"1\", \"SET_VENTMODE\": \"50009^MNDRY_VENT_MODE_SIMVPC^99MNDRY\", \"SET_TRIGGERFLOW\": \"1.9827108\", \"SET_OXYGEN\": \"39\", \"SET_PEEP\": \"7\", \"SET_PSUPP\": \"10\"}"
+  },
+  {
+    "id": 510,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"50021^MNDRY_VENT_MODE_CPAP_PLUS_PS^99MNDRY\", \"SET_TRIGGERFLOW\": \"1.9433998\", \"SET_OXYGEN\": \"41\", \"SET_PEEP\": \"7\", \"SET_PSUPP\": \"10\"}"
+  },
+  {
+    "id": 511,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"50021^MNDRY_VENT_MODE_CPAP_PLUS_PS^99MNDRY\", \"SET_TRIGGERFLOW\": \"1.9806222\", \"SET_OXYGEN\": \"40\", \"SET_PEEP\": \"7\", \"SET_PSUPP\": \"8\"}"
+  },
+  {
+    "id": 512,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"50021^MNDRY_VENT_MODE_CPAP_PLUS_PS^99MNDRY\", \"SET_TRIGGERFLOW\": \"1.9763204\", \"SET_OXYGEN\": \"40\", \"SET_PEEP\": \"7\", \"SET_PSUPP\": \"7\"}"
+  },
+  {
+    "id": 513,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"50021^MNDRY_VENT_MODE_CPAP_PLUS_PS^99MNDRY\", \"SET_TRIGGERFLOW\": \"1.9851077\", \"SET_OXYGEN\": \"39\", \"SET_PEEP\": \"7\", \"SET_PSUPP\": \"6\"}"
+  },
+  {
+    "id": 514,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"50021^MNDRY_VENT_MODE_CPAP_PLUS_PS^99MNDRY\", \"SET_TRIGGERFLOW\": \"1.9771411\", \"SET_OXYGEN\": \"36\", \"SET_PEEP\": \"7\", \"SET_PSUPP\": \"6\"}"
+  },
+  {
+    "id": 515,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"50021^MNDRY_VENT_MODE_CPAP_PLUS_PS^99MNDRY\", \"SET_TRIGGERFLOW\": \"1.962603\", \"SET_OXYGEN\": \"33\", \"SET_PEEP\": \"5\", \"SET_PSUPP\": \"6\"}"
+  },
+  {
+    "id": 516,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"50021^MNDRY_VENT_MODE_CPAP_PLUS_PS^99MNDRY\", \"SET_TRIGGERFLOW\": \"1.9463079\", \"SET_OXYGEN\": \"32\", \"SET_PEEP\": \"6\", \"SET_PSUPP\": \"6\"}"
+  },
+  {
+    "id": 517,
+    "task2_output": "{\"SET_SIMVRR\": \"19\", \"SET_VENTMODE\": \"5119\", \"SET_TRIGGERFLOW\": \"2.0352874\", \"SET_OXYGEN\": \"64\", \"SET_PEEP\": \"10\", \"SET_PSUPP\": \"10\"}"
+  },
+  {
+    "id": 518,
+    "task2_output": "{\"SET_SIMVRR\": \"11\", \"SET_VENTMODE\": \"5119\", \"SET_TRIGGERFLOW\": \"2.0269437\", \"SET_OXYGEN\": \"54\", \"SET_PEEP\": \"10\", \"SET_PSUPP\": \"10\"}"
+  },
+  {
+    "id": 519,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"5120\", \"SET_TRIGGERFLOW\": \"1.9837984\", \"SET_OXYGEN\": \"52\", \"SET_PEEP\": \"9\", \"SET_PSUPP\": \"10\"}"
+  },
+  {
+    "id": 520,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"5120\", \"SET_TRIGGERFLOW\": \"2.0090566\", \"SET_OXYGEN\": \"51\", \"SET_PEEP\": \"10\", \"SET_PSUPP\": \"10\"}"
+  },
+  {
+    "id": 521,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"5120\", \"SET_TRIGGERFLOW\": \"2.0044029\", \"SET_OXYGEN\": \"51\", \"SET_PEEP\": \"10\", \"SET_PSUPP\": \"8\"}"
+  },
+  {
+    "id": 522,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"5120\", \"SET_TRIGGERFLOW\": \"2.00601\", \"SET_OXYGEN\": \"50\", \"SET_PEEP\": \"10\", \"SET_PSUPP\": \"7\"}"
+  },
+  {
+    "id": 523,
+    "task2_output": "{\"SET_SIMVRR\": \"9\", \"SET_VENTMODE\": \"5119\", \"SET_TRIGGERFLOW\": \"1.302991\", \"SET_OXYGEN\": \"41\", \"SET_PEEP\": \"7\", \"SET_PSUPP\": \"11\"}"
+  },
+  {
+    "id": 524,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"5120\", \"SET_TRIGGERFLOW\": \"1.3069811\", \"SET_OXYGEN\": \"45\", \"SET_PEEP\": \"7\", \"SET_PSUPP\": \"10\"}"
+  },
+  {
+    "id": 525,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"5120\", \"SET_TRIGGERFLOW\": \"1.1279752\", \"SET_OXYGEN\": \"40\", \"SET_PEEP\": \"6\", \"SET_PSUPP\": \"10\"}"
+  },
+  {
+    "id": 526,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"5120\", \"SET_TRIGGERFLOW\": \"1.1897784\", \"SET_OXYGEN\": \"42\", \"SET_PEEP\": \"6\", \"SET_PSUPP\": \"11\"}"
+  },
+  {
+    "id": 527,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"5120\", \"SET_TRIGGERFLOW\": \"1.2114676\", \"SET_OXYGEN\": \"43\", \"SET_PEEP\": \"6\", \"SET_PSUPP\": \"12\"}"
+  },
+  {
+    "id": 528,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"5120\", \"SET_TRIGGERFLOW\": \"1.235437\", \"SET_OXYGEN\": \"43\", \"SET_PEEP\": \"7\", \"SET_PSUPP\": \"14\"}"
+  },
+  {
+    "id": 529,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"5120\", \"SET_TRIGGERFLOW\": \"1.1891285\", \"SET_OXYGEN\": \"39\", \"SET_PEEP\": \"7\", \"SET_PSUPP\": \"13\"}"
+  },
+  {
+    "id": 530,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"5120\", \"SET_TRIGGERFLOW\": \"1.1437441\", \"SET_OXYGEN\": \"34\", \"SET_PEEP\": \"7\", \"SET_PSUPP\": \"13\"}"
+  },
+  {
+    "id": 531,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"5120\", \"SET_TRIGGERFLOW\": \"1.0622796\", \"SET_OXYGEN\": \"31\", \"SET_PEEP\": \"6\", \"SET_PSUPP\": \"12\"}"
+  },
+  {
+    "id": 532,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"5120\", \"SET_TRIGGERFLOW\": \"1.0535908\", \"SET_OXYGEN\": \"30\", \"SET_PEEP\": \"6\", \"SET_PSUPP\": \"13\"}"
+  },
+  {
+    "id": 533,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"5120\", \"SET_TRIGGERFLOW\": \"0.9847517\", \"SET_OXYGEN\": \"31\", \"SET_PEEP\": \"5\", \"SET_PSUPP\": \"12\"}"
+  },
+  {
+    "id": 534,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"5120\", \"SET_TRIGGERFLOW\": \"0.9146619\", \"SET_OXYGEN\": \"31\", \"SET_PEEP\": \"5\", \"SET_PSUPP\": \"10\"}"
+  },
+  {
+    "id": 535,
+    "task2_output": "{\"SET_SIMVRR\": \"1\", \"SET_VENTMODE\": \"50009^MNDRY_VENT_MODE_SIMVPC^99MNDRY\", \"SET_TRIGGERFLOW\": \"2.0307372\", \"SET_OXYGEN\": \"50\", \"SET_PEEP\": \"8\", \"SET_PSUPP\": \"12\"}"
+  },
+  {
+    "id": 536,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"50021^MNDRY_VENT_MODE_CPAP_PLUS_PS^99MNDRY\", \"SET_TRIGGERFLOW\": \"1.9687815\", \"SET_OXYGEN\": \"52\", \"SET_PEEP\": \"8\", \"SET_PSUPP\": \"12\"}"
+  },
+  {
+    "id": 537,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"50021^MNDRY_VENT_MODE_CPAP_PLUS_PS^99MNDRY\", \"SET_TRIGGERFLOW\": \"1.9817873\", \"SET_OXYGEN\": \"52\", \"SET_PEEP\": \"8\", \"SET_PSUPP\": \"11\"}"
+  },
+  {
+    "id": 538,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"50021^MNDRY_VENT_MODE_CPAP_PLUS_PS^99MNDRY\", \"SET_TRIGGERFLOW\": \"1.9772409\", \"SET_OXYGEN\": \"48\", \"SET_PEEP\": \"8\", \"SET_PSUPP\": \"11\"}"
+  },
+  {
+    "id": 539,
+    "task2_output": "{\"SET_SIMVRR\": \"13\", \"SET_VENTMODE\": \"5119\", \"SET_TRIGGERFLOW\": \"1.6452019\", \"SET_OXYGEN\": \"42\", \"SET_PEEP\": \"6\", \"SET_PSUPP\": \"9\"}"
+  },
+  {
+    "id": 540,
+    "task2_output": "{\"SET_SIMVRR\": \"7\", \"SET_VENTMODE\": \"5119\", \"SET_TRIGGERFLOW\": \"1.6056048\", \"SET_OXYGEN\": \"42\", \"SET_PEEP\": \"6\", \"SET_PSUPP\": \"8\"}"
+  },
+  {
+    "id": 541,
+    "task2_output": "{\"SET_SIMVRR\": \"1\", \"SET_VENTMODE\": \"5120\", \"SET_TRIGGERFLOW\": \"1.6800061\", \"SET_OXYGEN\": \"43\", \"SET_PEEP\": \"6\", \"SET_PSUPP\": \"9\"}"
+  },
+  {
+    "id": 542,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"5120\", \"SET_TRIGGERFLOW\": \"1.6447884\", \"SET_OXYGEN\": \"41\", \"SET_PEEP\": \"6\", \"SET_PSUPP\": \"7\"}"
+  },
+  {
+    "id": 543,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"5120\", \"SET_TRIGGERFLOW\": \"1.6587169\", \"SET_OXYGEN\": \"40\", \"SET_PEEP\": \"6\", \"SET_PSUPP\": \"6\"}"
+  },
+  {
+    "id": 544,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"50009^MNDRY_VENT_MODE_SIMVPC^99MNDRY\", \"SET_TRIGGERFLOW\": \"1.9884044\", \"SET_OXYGEN\": \"34\", \"SET_PEEP\": \"6\", \"SET_PSUPP\": \"10\"}"
+  },
+  {
+    "id": 545,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"50009^MNDRY_VENT_MODE_SIMVPC^99MNDRY\", \"SET_TRIGGERFLOW\": \"1.987094\", \"SET_OXYGEN\": \"34\", \"SET_PEEP\": \"6\", \"SET_PSUPP\": \"10\"}"
+  },
+  {
+    "id": 546,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"50009^MNDRY_VENT_MODE_SIMVPC^99MNDRY\", \"SET_TRIGGERFLOW\": \"1.986481\", \"SET_OXYGEN\": \"33\", \"SET_PEEP\": \"5\", \"SET_PSUPP\": \"10\"}"
+  },
+  {
+    "id": 547,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"50009^MNDRY_VENT_MODE_SIMVPC^99MNDRY\", \"SET_TRIGGERFLOW\": \"1.9844682\", \"SET_OXYGEN\": \"33\", \"SET_PEEP\": \"5\", \"SET_PSUPP\": \"10\"}"
+  },
+  {
+    "id": 548,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"50009^MNDRY_VENT_MODE_SIMVPC^99MNDRY\", \"SET_TRIGGERFLOW\": \"1.9777327\", \"SET_OXYGEN\": \"33\", \"SET_PEEP\": \"5\", \"SET_PSUPP\": \"9\"}"
+  },
+  {
+    "id": 549,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"50021^MNDRY_VENT_MODE_CPAP_PLUS_PS^99MNDRY\", \"SET_TRIGGERFLOW\": \"1.9535887\", \"SET_OXYGEN\": \"34\", \"SET_PEEP\": \"6\", \"SET_PSUPP\": \"9\"}"
+  },
+  {
+    "id": 550,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"50021^MNDRY_VENT_MODE_CPAP_PLUS_PS^99MNDRY\", \"SET_TRIGGERFLOW\": \"1.9816296\", \"SET_OXYGEN\": \"35\", \"SET_PEEP\": \"6\", \"SET_PSUPP\": \"8\"}"
+  },
+  {
+    "id": 551,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"50021^MNDRY_VENT_MODE_CPAP_PLUS_PS^99MNDRY\", \"SET_TRIGGERFLOW\": \"1.9736944\", \"SET_OXYGEN\": \"35\", \"SET_PEEP\": \"6\", \"SET_PSUPP\": \"9\"}"
+  },
+  {
+    "id": 552,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"50021^MNDRY_VENT_MODE_CPAP_PLUS_PS^99MNDRY\", \"SET_TRIGGERFLOW\": \"1.9496558\", \"SET_OXYGEN\": \"30\", \"SET_PEEP\": \"5\", \"SET_PSUPP\": \"7\"}"
+  },
+  {
+    "id": 553,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"50021^MNDRY_VENT_MODE_CPAP_PLUS_PS^99MNDRY\", \"SET_TRIGGERFLOW\": \"1.950695\", \"SET_OXYGEN\": \"30\", \"SET_PEEP\": \"5\", \"SET_PSUPP\": \"9\"}"
+  },
+  {
+    "id": 554,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"50021^MNDRY_VENT_MODE_CPAP_PLUS_PS^99MNDRY\", \"SET_TRIGGERFLOW\": \"1.955317\", \"SET_OXYGEN\": \"30\", \"SET_PEEP\": \"5\", \"SET_PSUPP\": \"11\"}"
+  },
+  {
+    "id": 555,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"50021^MNDRY_VENT_MODE_CPAP_PLUS_PS^99MNDRY\", \"SET_TRIGGERFLOW\": \"1.966078\", \"SET_OXYGEN\": \"28\", \"SET_PEEP\": \"5\", \"SET_PSUPP\": \"11\"}"
+  },
+  {
+    "id": 556,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"50021^MNDRY_VENT_MODE_CPAP_PLUS_PS^99MNDRY\", \"SET_TRIGGERFLOW\": \"1.9620289\", \"SET_OXYGEN\": \"27\", \"SET_PEEP\": \"5\", \"SET_PSUPP\": \"11\"}"
+  },
+  {
+    "id": 557,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"50021^MNDRY_VENT_MODE_CPAP_PLUS_PS^99MNDRY\", \"SET_TRIGGERFLOW\": \"1.9602604\", \"SET_OXYGEN\": \"26\", \"SET_PEEP\": \"5\", \"SET_PSUPP\": \"11\"}"
+  },
+  {
+    "id": 558,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"5120\", \"SET_TRIGGERFLOW\": \"1.5568111\", \"SET_OXYGEN\": \"33\", \"SET_PEEP\": \"5\", \"SET_PSUPP\": \"7\"}"
+  },
+  {
+    "id": 559,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"5120\", \"SET_TRIGGERFLOW\": \"1.5769902\", \"SET_OXYGEN\": \"34\", \"SET_PEEP\": \"5\", \"SET_PSUPP\": \"6\"}"
+  },
+  {
+    "id": 560,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"5120\", \"SET_TRIGGERFLOW\": \"1.5965567\", \"SET_OXYGEN\": \"33\", \"SET_PEEP\": \"5\", \"SET_PSUPP\": \"5\"}"
+  },
+  {
+    "id": 561,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"5120\", \"SET_TRIGGERFLOW\": \"1.6305698\", \"SET_OXYGEN\": \"32\", \"SET_PEEP\": \"5\", \"SET_PSUPP\": \"4\"}"
+  },
+  {
+    "id": 562,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"5120\", \"SET_TRIGGERFLOW\": \"1.6314158\", \"SET_OXYGEN\": \"28\", \"SET_PEEP\": \"5\", \"SET_PSUPP\": \"4\"}"
+  },
+  {
+    "id": 563,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"5120\", \"SET_TRIGGERFLOW\": \"1.6289599\", \"SET_OXYGEN\": \"27\", \"SET_PEEP\": \"5\", \"SET_PSUPP\": \"4\"}"
+  },
+  {
+    "id": 564,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"5120\", \"SET_TRIGGERFLOW\": \"1.5683982\", \"SET_OXYGEN\": \"28\", \"SET_PEEP\": \"5\", \"SET_PSUPP\": \"5\"}"
+  },
+  {
+    "id": 565,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"5120\", \"SET_TRIGGERFLOW\": \"1.6182388\", \"SET_OXYGEN\": \"26\", \"SET_PEEP\": \"5\", \"SET_PSUPP\": \"4\"}"
+  },
+  {
+    "id": 566,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"50021^MNDRY_VENT_MODE_CPAP_PLUS_PS^99MNDRY\", \"SET_TRIGGERFLOW\": \"1.9681778\", \"SET_OXYGEN\": \"30\", \"SET_PEEP\": \"6\", \"SET_PSUPP\": \"9\"}"
+  },
+  {
+    "id": 567,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"50021^MNDRY_VENT_MODE_CPAP_PLUS_PS^99MNDRY\", \"SET_TRIGGERFLOW\": \"1.9665755\", \"SET_OXYGEN\": \"33\", \"SET_PEEP\": \"6\", \"SET_PSUPP\": \"10\"}"
+  },
+  {
+    "id": 568,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"50021^MNDRY_VENT_MODE_CPAP_PLUS_PS^99MNDRY\", \"SET_TRIGGERFLOW\": \"1.9648011\", \"SET_OXYGEN\": \"37\", \"SET_PEEP\": \"6\", \"SET_PSUPP\": \"10\"}"
+  },
+  {
+    "id": 569,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"50021^MNDRY_VENT_MODE_CPAP_PLUS_PS^99MNDRY\", \"SET_TRIGGERFLOW\": \"1.990042\", \"SET_OXYGEN\": \"42\", \"SET_PEEP\": \"8\", \"SET_PSUPP\": \"10\"}"
+  },
+  {
+    "id": 570,
+    "task2_output": "{\"SET_SIMVRR\": \"14\", \"SET_VENTMODE\": \"5119\", \"SET_TRIGGERFLOW\": \"2.0060172\", \"SET_OXYGEN\": \"35\", \"SET_PEEP\": \"8\", \"SET_PSUPP\": \"12\"}"
+  },
+  {
+    "id": 571,
+    "task2_output": "{\"SET_SIMVRR\": \"14\", \"SET_VENTMODE\": \"5119\", \"SET_TRIGGERFLOW\": \"1.9969859\", \"SET_OXYGEN\": \"36\", \"SET_PEEP\": \"8\", \"SET_PSUPP\": \"11\"}"
+  },
+  {
+    "id": 572,
+    "task2_output": "{\"SET_SIMVRR\": \"13\", \"SET_VENTMODE\": \"5119\", \"SET_TRIGGERFLOW\": \"1.9823779\", \"SET_OXYGEN\": \"37\", \"SET_PEEP\": \"8\", \"SET_PSUPP\": \"9\"}"
+  },
+  {
+    "id": 573,
+    "task2_output": "{\"SET_SIMVRR\": \"7\", \"SET_VENTMODE\": \"5119\", \"SET_TRIGGERFLOW\": \"1.9719337\", \"SET_OXYGEN\": \"37\", \"SET_PEEP\": \"7\", \"SET_PSUPP\": \"8\"}"
+  },
+  {
+    "id": 574,
+    "task2_output": "{\"SET_SIMVRR\": \"7\", \"SET_VENTMODE\": \"5119\", \"SET_TRIGGERFLOW\": \"1.9637719\", \"SET_OXYGEN\": \"36\", \"SET_PEEP\": \"7\", \"SET_PSUPP\": \"9\"}"
+  },
+  {
+    "id": 575,
+    "task2_output": "{\"SET_SIMVRR\": \"11\", \"SET_VENTMODE\": \"5119\", \"SET_TRIGGERFLOW\": \"1.9081208\", \"SET_OXYGEN\": \"38\", \"SET_PEEP\": \"7\", \"SET_PSUPP\": \"10\"}"
+  },
+  {
+    "id": 576,
+    "task2_output": "{\"SET_SIMVRR\": \"11\", \"SET_VENTMODE\": \"5119\", \"SET_TRIGGERFLOW\": \"1.9488403\", \"SET_OXYGEN\": \"36\", \"SET_PEEP\": \"7\", \"SET_PSUPP\": \"7\"}"
+  },
+  {
+    "id": 577,
+    "task2_output": "{\"SET_SIMVRR\": \"10\", \"SET_VENTMODE\": \"5119\", \"SET_TRIGGERFLOW\": \"1.9234817\", \"SET_OXYGEN\": \"42\", \"SET_PEEP\": \"7\", \"SET_PSUPP\": \"10\"}"
+  },
+  {
+    "id": 578,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"5120\", \"SET_TRIGGERFLOW\": \"1.0820866\", \"SET_OXYGEN\": \"35\", \"SET_PEEP\": \"5\", \"SET_PSUPP\": \"4\"}"
+  },
+  {
+    "id": 579,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"50021^MNDRY_VENT_MODE_CPAP_PLUS_PS^99MNDRY\", \"SET_TRIGGERFLOW\": \"1.977262\", \"SET_OXYGEN\": \"34\", \"SET_PEEP\": \"5\", \"SET_PSUPP\": \"9\"}"
+  },
+  {
+    "id": 580,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"50021^MNDRY_VENT_MODE_CPAP_PLUS_PS^99MNDRY\", \"SET_TRIGGERFLOW\": \"1.9871507\", \"SET_OXYGEN\": \"36\", \"SET_PEEP\": \"7\", \"SET_PSUPP\": \"9\"}"
+  },
+  {
+    "id": 581,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"50021^MNDRY_VENT_MODE_CPAP_PLUS_PS^99MNDRY\", \"SET_TRIGGERFLOW\": \"1.9737444\", \"SET_OXYGEN\": \"35\", \"SET_PEEP\": \"6\", \"SET_PSUPP\": \"9\"}"
+  },
+  {
+    "id": 582,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"50021^MNDRY_VENT_MODE_CPAP_PLUS_PS^99MNDRY\", \"SET_TRIGGERFLOW\": \"1.975387\", \"SET_OXYGEN\": \"41\", \"SET_PEEP\": \"7\", \"SET_PSUPP\": \"10\"}"
+  },
+  {
+    "id": 583,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"50009^MNDRY_VENT_MODE_SIMVPC^99MNDRY\", \"SET_TRIGGERFLOW\": \"2.0423648\", \"SET_OXYGEN\": \"54\", \"SET_PEEP\": \"10\", \"SET_PSUPP\": \"11\"}"
+  },
+  {
+    "id": 584,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"50009^MNDRY_VENT_MODE_SIMVPC^99MNDRY\", \"SET_TRIGGERFLOW\": \"2.0431092\", \"SET_OXYGEN\": \"54\", \"SET_PEEP\": \"10\", \"SET_PSUPP\": \"12\"}"
+  },
+  {
+    "id": 585,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"50009^MNDRY_VENT_MODE_SIMVPC^99MNDRY\", \"SET_TRIGGERFLOW\": \"2.0451148\", \"SET_OXYGEN\": \"54\", \"SET_PEEP\": \"11\", \"SET_PSUPP\": \"12\"}"
+  },
+  {
+    "id": 586,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"50009^MNDRY_VENT_MODE_SIMVPC^99MNDRY\", \"SET_TRIGGERFLOW\": \"2.050149\", \"SET_OXYGEN\": \"54\", \"SET_PEEP\": \"11\", \"SET_PSUPP\": \"11\"}"
+  },
+  {
+    "id": 587,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"50009^MNDRY_VENT_MODE_SIMVPC^99MNDRY\", \"SET_TRIGGERFLOW\": \"2.0440397\", \"SET_OXYGEN\": \"54\", \"SET_PEEP\": \"11\", \"SET_PSUPP\": \"12\"}"
+  },
+  {
+    "id": 588,
+    "task2_output": "{\"SET_SIMVRR\": \"1\", \"SET_VENTMODE\": \"50009^MNDRY_VENT_MODE_SIMVPC^99MNDRY\", \"SET_TRIGGERFLOW\": \"2.0363343\", \"SET_OXYGEN\": \"54\", \"SET_PEEP\": \"9\", \"SET_PSUPP\": \"12\"}"
+  },
+  {
+    "id": 589,
+    "task2_output": "{\"SET_SIMVRR\": \"1\", \"SET_VENTMODE\": \"50009^MNDRY_VENT_MODE_SIMVPC^99MNDRY\", \"SET_TRIGGERFLOW\": \"2.0286071\", \"SET_OXYGEN\": \"54\", \"SET_PEEP\": \"8\", \"SET_PSUPP\": \"12\"}"
+  },
+  {
+    "id": 590,
+    "task2_output": "{\"SET_SIMVRR\": \"1\", \"SET_VENTMODE\": \"50009^MNDRY_VENT_MODE_SIMVPC^99MNDRY\", \"SET_TRIGGERFLOW\": \"2.033335\", \"SET_OXYGEN\": \"54\", \"SET_PEEP\": \"8\", \"SET_PSUPP\": \"10\"}"
+  },
+  {
+    "id": 591,
+    "task2_output": "{\"SET_SIMVRR\": \"1\", \"SET_VENTMODE\": \"50009^MNDRY_VENT_MODE_SIMVPC^99MNDRY\", \"SET_TRIGGERFLOW\": \"2.0223536\", \"SET_OXYGEN\": \"55\", \"SET_PEEP\": \"8\", \"SET_PSUPP\": \"10\"}"
+  },
+  {
+    "id": 592,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"50021^MNDRY_VENT_MODE_CPAP_PLUS_PS^99MNDRY\", \"SET_TRIGGERFLOW\": \"1.975881\", \"SET_OXYGEN\": \"55\", \"SET_PEEP\": \"9\", \"SET_PSUPP\": \"10\"}"
+  },
+  {
+    "id": 593,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"50021^MNDRY_VENT_MODE_CPAP_PLUS_PS^99MNDRY\", \"SET_TRIGGERFLOW\": \"1.9860164\", \"SET_OXYGEN\": \"55\", \"SET_PEEP\": \"8\", \"SET_PSUPP\": \"9\"}"
+  },
+  {
+    "id": 594,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"50009^MNDRY_VENT_MODE_SIMVPC^99MNDRY\", \"SET_TRIGGERFLOW\": \"2.005787\", \"SET_OXYGEN\": \"30\", \"SET_PEEP\": \"6\", \"SET_PSUPP\": \"10\"}"
+  },
+  {
+    "id": 595,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"50021^MNDRY_VENT_MODE_CPAP_PLUS_PS^99MNDRY\", \"SET_TRIGGERFLOW\": \"1.9759542\", \"SET_OXYGEN\": \"32\", \"SET_PEEP\": \"6\", \"SET_PSUPP\": \"10\"}"
+  },
+  {
+    "id": 596,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"50021^MNDRY_VENT_MODE_CPAP_PLUS_PS^99MNDRY\", \"SET_TRIGGERFLOW\": \"1.9817669\", \"SET_OXYGEN\": \"31\", \"SET_PEEP\": \"5\", \"SET_PSUPP\": \"10\"}"
+  },
+  {
+    "id": 597,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"50021^MNDRY_VENT_MODE_CPAP_PLUS_PS^99MNDRY\", \"SET_TRIGGERFLOW\": \"1.9685401\", \"SET_OXYGEN\": \"31\", \"SET_PEEP\": \"5\", \"SET_PSUPP\": \"10\"}"
+  },
+  {
+    "id": 598,
+    "task2_output": "{\"SET_SIMVRR\": \"1\", \"SET_VENTMODE\": \"50021^MNDRY_VENT_MODE_CPAP_PLUS_PS^99MNDRY\", \"SET_TRIGGERFLOW\": \"1.9593956\", \"SET_OXYGEN\": \"32\", \"SET_PEEP\": \"7\", \"SET_PSUPP\": \"10\"}"
+  },
+  {
+    "id": 599,
+    "task2_output": "{\"SET_SIMVRR\": \"1\", \"SET_VENTMODE\": \"50021^MNDRY_VENT_MODE_CPAP_PLUS_PS^99MNDRY\", \"SET_TRIGGERFLOW\": \"1.9538249\", \"SET_OXYGEN\": \"32\", \"SET_PEEP\": \"7\", \"SET_PSUPP\": \"9\"}"
+  },
+  {
+    "id": 600,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"50021^MNDRY_VENT_MODE_CPAP_PLUS_PS^99MNDRY\", \"SET_TRIGGERFLOW\": \"1.9356644\", \"SET_OXYGEN\": \"32\", \"SET_PEEP\": \"7\", \"SET_PSUPP\": \"11\"}"
+  },
+  {
+    "id": 601,
+    "task2_output": "{\"SET_SIMVRR\": \"1\", \"SET_VENTMODE\": \"50021^MNDRY_VENT_MODE_CPAP_PLUS_PS^99MNDRY\", \"SET_TRIGGERFLOW\": \"1.9621476\", \"SET_OXYGEN\": \"31\", \"SET_PEEP\": \"7\", \"SET_PSUPP\": \"10\"}"
+  },
+  {
+    "id": 602,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"5120\", \"SET_TRIGGERFLOW\": \"1.041345\", \"SET_OXYGEN\": \"32\", \"SET_PEEP\": \"5\", \"SET_PSUPP\": \"5\"}"
+  },
+  {
+    "id": 603,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"5120\", \"SET_TRIGGERFLOW\": \"1.015274\", \"SET_OXYGEN\": \"29\", \"SET_PEEP\": \"5\", \"SET_PSUPP\": \"5\"}"
+  },
+  {
+    "id": 604,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"5120\", \"SET_TRIGGERFLOW\": \"1.0050706\", \"SET_OXYGEN\": \"28\", \"SET_PEEP\": \"5\", \"SET_PSUPP\": \"5\"}"
+  },
+  {
+    "id": 605,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"50009^MNDRY_VENT_MODE_SIMVPC^99MNDRY\", \"SET_TRIGGERFLOW\": \"2.0295923\", \"SET_OXYGEN\": \"46\", \"SET_PEEP\": \"8\", \"SET_PSUPP\": \"10\"}"
+  },
+  {
+    "id": 606,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"50009^MNDRY_VENT_MODE_SIMVPC^99MNDRY\", \"SET_TRIGGERFLOW\": \"2.0287504\", \"SET_OXYGEN\": \"46\", \"SET_PEEP\": \"8\", \"SET_PSUPP\": \"10\"}"
+  },
+  {
+    "id": 607,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"50009^MNDRY_VENT_MODE_SIMVPC^99MNDRY\", \"SET_TRIGGERFLOW\": \"2.0428722\", \"SET_OXYGEN\": \"47\", \"SET_PEEP\": \"8\", \"SET_PSUPP\": \"10\"}"
+  },
+  {
+    "id": 608,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"50009^MNDRY_VENT_MODE_SIMVPC^99MNDRY\", \"SET_TRIGGERFLOW\": \"2.0225651\", \"SET_OXYGEN\": \"44\", \"SET_PEEP\": \"8\", \"SET_PSUPP\": \"9\"}"
+  },
+  {
+    "id": 609,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"50021^MNDRY_VENT_MODE_CPAP_PLUS_PS^99MNDRY\", \"SET_TRIGGERFLOW\": \"1.9685911\", \"SET_OXYGEN\": \"42\", \"SET_PEEP\": \"6\", \"SET_PSUPP\": \"10\"}"
+  },
+  {
+    "id": 610,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"50021^MNDRY_VENT_MODE_CPAP_PLUS_PS^99MNDRY\", \"SET_TRIGGERFLOW\": \"1.9734491\", \"SET_OXYGEN\": \"41\", \"SET_PEEP\": \"6\", \"SET_PSUPP\": \"9\"}"
+  },
+  {
+    "id": 611,
+    "task2_output": "{\"SET_SIMVRR\": \"7\", \"SET_VENTMODE\": \"5119\", \"SET_TRIGGERFLOW\": \"1.985577\", \"SET_OXYGEN\": \"40\", \"SET_PEEP\": \"8\", \"SET_PSUPP\": \"9\"}"
+  },
+  {
+    "id": 612,
+    "task2_output": "{\"SET_SIMVRR\": \"7\", \"SET_VENTMODE\": \"5119\", \"SET_TRIGGERFLOW\": \"1.980086\", \"SET_OXYGEN\": \"39\", \"SET_PEEP\": \"8\", \"SET_PSUPP\": \"9\"}"
+  },
+  {
+    "id": 613,
+    "task2_output": "{\"SET_SIMVRR\": \"11\", \"SET_VENTMODE\": \"5119\", \"SET_TRIGGERFLOW\": \"1.9193447\", \"SET_OXYGEN\": \"42\", \"SET_PEEP\": \"7\", \"SET_PSUPP\": \"10\"}"
+  },
+  {
+    "id": 614,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"5120\", \"SET_TRIGGERFLOW\": \"1.058342\", \"SET_OXYGEN\": \"32\", \"SET_PEEP\": \"4\", \"SET_PSUPP\": \"4\"}"
+  },
+  {
+    "id": 615,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"5120\", \"SET_TRIGGERFLOW\": \"1.0864831\", \"SET_OXYGEN\": \"29\", \"SET_PEEP\": \"5\", \"SET_PSUPP\": \"4\"}"
+  },
+  {
+    "id": 616,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"50021^MNDRY_VENT_MODE_CPAP_PLUS_PS^99MNDRY\", \"SET_TRIGGERFLOW\": \"1.9610037\", \"SET_OXYGEN\": \"40\", \"SET_PEEP\": \"6\", \"SET_PSUPP\": \"12\"}"
+  },
+  {
+    "id": 617,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"50021^MNDRY_VENT_MODE_CPAP_PLUS_PS^99MNDRY\", \"SET_TRIGGERFLOW\": \"1.9532619\", \"SET_OXYGEN\": \"39\", \"SET_PEEP\": \"6\", \"SET_PSUPP\": \"14\"}"
+  },
+  {
+    "id": 618,
+    "task2_output": "{\"SET_SIMVRR\": \"6\", \"SET_VENTMODE\": \"5119\", \"SET_TRIGGERFLOW\": \"1.912373\", \"SET_OXYGEN\": \"31\", \"SET_PEEP\": \"4\", \"SET_PSUPP\": \"8\"}"
+  },
+  {
+    "id": 619,
+    "task2_output": "{\"SET_SIMVRR\": \"5\", \"SET_VENTMODE\": \"5119\", \"SET_TRIGGERFLOW\": \"1.905441\", \"SET_OXYGEN\": \"31\", \"SET_PEEP\": \"4\", \"SET_PSUPP\": \"8\"}"
+  },
+  {
+    "id": 620,
+    "task2_output": "{\"SET_SIMVRR\": \"1\", \"SET_VENTMODE\": \"5120\", \"SET_TRIGGERFLOW\": \"1.9378117\", \"SET_OXYGEN\": \"30\", \"SET_PEEP\": \"4\", \"SET_PSUPP\": \"9\"}"
+  },
+  {
+    "id": 621,
+    "task2_output": "{\"SET_SIMVRR\": \"1\", \"SET_VENTMODE\": \"50009^MNDRY_VENT_MODE_SIMVPC^99MNDRY\", \"SET_TRIGGERFLOW\": \"2.025822\", \"SET_OXYGEN\": \"51\", \"SET_PEEP\": \"9\", \"SET_PSUPP\": \"9\"}"
+  },
+  {
+    "id": 622,
+    "task2_output": "{\"SET_SIMVRR\": \"1\", \"SET_VENTMODE\": \"50009^MNDRY_VENT_MODE_SIMVPC^99MNDRY\", \"SET_TRIGGERFLOW\": \"2.0155149\", \"SET_OXYGEN\": \"50\", \"SET_PEEP\": \"9\", \"SET_PSUPP\": \"10\"}"
+  },
+  {
+    "id": 623,
+    "task2_output": "{\"SET_SIMVRR\": \"1\", \"SET_VENTMODE\": \"50009^MNDRY_VENT_MODE_SIMVPC^99MNDRY\", \"SET_TRIGGERFLOW\": \"2.0302572\", \"SET_OXYGEN\": \"51\", \"SET_PEEP\": \"9\", \"SET_PSUPP\": \"10\"}"
+  },
+  {
+    "id": 624,
+    "task2_output": "{\"SET_SIMVRR\": \"1\", \"SET_VENTMODE\": \"50009^MNDRY_VENT_MODE_SIMVPC^99MNDRY\", \"SET_TRIGGERFLOW\": \"2.0162997\", \"SET_OXYGEN\": \"51\", \"SET_PEEP\": \"9\", \"SET_PSUPP\": \"9\"}"
+  },
+  {
+    "id": 625,
+    "task2_output": "{\"SET_SIMVRR\": \"1\", \"SET_VENTMODE\": \"50009^MNDRY_VENT_MODE_SIMVPC^99MNDRY\", \"SET_TRIGGERFLOW\": \"2.0183544\", \"SET_OXYGEN\": \"50\", \"SET_PEEP\": \"9\", \"SET_PSUPP\": \"9\"}"
+  },
+  {
+    "id": 626,
+    "task2_output": "{\"SET_SIMVRR\": \"1\", \"SET_VENTMODE\": \"50009^MNDRY_VENT_MODE_SIMVPC^99MNDRY\", \"SET_TRIGGERFLOW\": \"2.0183177\", \"SET_OXYGEN\": \"50\", \"SET_PEEP\": \"10\", \"SET_PSUPP\": \"9\"}"
+  },
+  {
+    "id": 627,
+    "task2_output": "{\"SET_SIMVRR\": \"-1\", \"SET_VENTMODE\": \"5120\", \"SET_TRIGGERFLOW\": \"1.0495718\", \"SET_OXYGEN\": \"29\", \"SET_PEEP\": \"4\", \"SET_PSUPP\": \"4\"}"
+  },
+  {
+    "id": 628,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"5120\", \"SET_TRIGGERFLOW\": \"0.984519\", \"SET_OXYGEN\": \"27\", \"SET_PEEP\": \"4\", \"SET_PSUPP\": \"5\"}"
+  },
+  {
+    "id": 629,
+    "task2_output": "{\"SET_SIMVRR\": \"14\", \"SET_VENTMODE\": \"5119\", \"SET_TRIGGERFLOW\": \"2.0244517\", \"SET_OXYGEN\": \"44\", \"SET_PEEP\": \"8\", \"SET_PSUPP\": \"11\"}"
+  },
+  {
+    "id": 630,
+    "task2_output": "{\"SET_SIMVRR\": \"7\", \"SET_VENTMODE\": \"5119\", \"SET_TRIGGERFLOW\": \"2.001871\", \"SET_OXYGEN\": \"44\", \"SET_PEEP\": \"8\", \"SET_PSUPP\": \"9\"}"
+  },
+  {
+    "id": 631,
+    "task2_output": "{\"SET_SIMVRR\": \"7\", \"SET_VENTMODE\": \"5119\", \"SET_TRIGGERFLOW\": \"1.9835945\", \"SET_OXYGEN\": \"43\", \"SET_PEEP\": \"8\", \"SET_PSUPP\": \"10\"}"
+  },
+  {
+    "id": 632,
+    "task2_output": "{\"SET_SIMVRR\": \"12\", \"SET_VENTMODE\": \"5119\", \"SET_TRIGGERFLOW\": \"1.9451103\", \"SET_OXYGEN\": \"46\", \"SET_PEEP\": \"7\", \"SET_PSUPP\": \"11\"}"
+  },
+  {
+    "id": 633,
+    "task2_output": "{\"SET_SIMVRR\": \"13\", \"SET_VENTMODE\": \"5119\", \"SET_TRIGGERFLOW\": \"1.992746\", \"SET_OXYGEN\": \"45\", \"SET_PEEP\": \"9\", \"SET_PSUPP\": \"9\"}"
+  },
+  {
+    "id": 634,
+    "task2_output": "{\"SET_SIMVRR\": \"14\", \"SET_VENTMODE\": \"5119\", \"SET_TRIGGERFLOW\": \"1.9934796\", \"SET_OXYGEN\": \"42\", \"SET_PEEP\": \"6\", \"SET_PSUPP\": \"9\"}"
+  },
+  {
+    "id": 635,
+    "task2_output": "{\"SET_SIMVRR\": \"14\", \"SET_VENTMODE\": \"5119\", \"SET_TRIGGERFLOW\": \"1.9770553\", \"SET_OXYGEN\": \"37\", \"SET_PEEP\": \"5\", \"SET_PSUPP\": \"9\"}"
+  },
+  {
+    "id": 636,
+    "task2_output": "{\"SET_SIMVRR\": \"14\", \"SET_VENTMODE\": \"5119\", \"SET_TRIGGERFLOW\": \"1.9606931\", \"SET_OXYGEN\": \"33\", \"SET_PEEP\": \"5\", \"SET_PSUPP\": \"8\"}"
+  },
+  {
+    "id": 637,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"50021^MNDRY_VENT_MODE_CPAP_PLUS_PS^99MNDRY\", \"SET_TRIGGERFLOW\": \"1.9612068\", \"SET_OXYGEN\": \"40\", \"SET_PEEP\": \"6\", \"SET_PSUPP\": \"11\"}"
+  },
+  {
+    "id": 638,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"50021^MNDRY_VENT_MODE_CPAP_PLUS_PS^99MNDRY\", \"SET_TRIGGERFLOW\": \"1.9529104\", \"SET_OXYGEN\": \"40\", \"SET_PEEP\": \"6\", \"SET_PSUPP\": \"12\"}"
+  },
+  {
+    "id": 639,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"5120\", \"SET_TRIGGERFLOW\": \"1.0495447\", \"SET_OXYGEN\": \"32\", \"SET_PEEP\": \"4\", \"SET_PSUPP\": \"4\"}"
+  },
+  {
+    "id": 640,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"5120\", \"SET_TRIGGERFLOW\": \"1.0278128\", \"SET_OXYGEN\": \"29\", \"SET_PEEP\": \"4\", \"SET_PSUPP\": \"4\"}"
+  },
+  {
+    "id": 641,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"5120\", \"SET_TRIGGERFLOW\": \"1.0751152\", \"SET_OXYGEN\": \"28\", \"SET_PEEP\": \"5\", \"SET_PSUPP\": \"5\"}"
+  },
+  {
+    "id": 642,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"50021^MNDRY_VENT_MODE_CPAP_PLUS_PS^99MNDRY\", \"SET_TRIGGERFLOW\": \"1.9823629\", \"SET_OXYGEN\": \"39\", \"SET_PEEP\": \"6\", \"SET_PSUPP\": \"9\"}"
+  },
+  {
+    "id": 643,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"50021^MNDRY_VENT_MODE_CPAP_PLUS_PS^99MNDRY\", \"SET_TRIGGERFLOW\": \"1.9726138\", \"SET_OXYGEN\": \"40\", \"SET_PEEP\": \"6\", \"SET_PSUPP\": \"10\"}"
+  },
+  {
+    "id": 644,
+    "task2_output": "{\"SET_SIMVRR\": \"6\", \"SET_VENTMODE\": \"5118\", \"SET_TRIGGERFLOW\": \"1.8770682\", \"SET_OXYGEN\": \"42\", \"SET_PEEP\": \"4\", \"SET_PSUPP\": \"8\"}"
+  },
+  {
+    "id": 645,
+    "task2_output": "{\"SET_SIMVRR\": \"5\", \"SET_VENTMODE\": \"5118\", \"SET_TRIGGERFLOW\": \"1.8838211\", \"SET_OXYGEN\": \"42\", \"SET_PEEP\": \"4\", \"SET_PSUPP\": \"8\"}"
+  },
+  {
+    "id": 646,
+    "task2_output": "{\"SET_SIMVRR\": \"2\", \"SET_VENTMODE\": \"5120\", \"SET_TRIGGERFLOW\": \"1.9310492\", \"SET_OXYGEN\": \"41\", \"SET_PEEP\": \"4\", \"SET_PSUPP\": \"9\"}"
+  },
+  {
+    "id": 647,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"50009^MNDRY_VENT_MODE_SIMVPC^99MNDRY\", \"SET_TRIGGERFLOW\": \"2.0258708\", \"SET_OXYGEN\": \"44\", \"SET_PEEP\": \"9\", \"SET_PSUPP\": \"11\"}"
+  },
+  {
+    "id": 648,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"50009^MNDRY_VENT_MODE_SIMVPC^99MNDRY\", \"SET_TRIGGERFLOW\": \"2.0306242\", \"SET_OXYGEN\": \"44\", \"SET_PEEP\": \"9\", \"SET_PSUPP\": \"10\"}"
+  },
+  {
+    "id": 649,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"50009^MNDRY_VENT_MODE_SIMVPC^99MNDRY\", \"SET_TRIGGERFLOW\": \"2.0254083\", \"SET_OXYGEN\": \"44\", \"SET_PEEP\": \"9\", \"SET_PSUPP\": \"9\"}"
+  },
+  {
+    "id": 650,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"50009^MNDRY_VENT_MODE_SIMVPC^99MNDRY\", \"SET_TRIGGERFLOW\": \"2.0194755\", \"SET_OXYGEN\": \"44\", \"SET_PEEP\": \"9\", \"SET_PSUPP\": \"9\"}"
+  },
+  {
+    "id": 651,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"50009^MNDRY_VENT_MODE_SIMVPC^99MNDRY\", \"SET_TRIGGERFLOW\": \"2.02211\", \"SET_OXYGEN\": \"44\", \"SET_PEEP\": \"9\", \"SET_PSUPP\": \"9\"}"
+  },
+  {
+    "id": 652,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"50009^MNDRY_VENT_MODE_SIMVPC^99MNDRY\", \"SET_TRIGGERFLOW\": \"2.0262601\", \"SET_OXYGEN\": \"43\", \"SET_PEEP\": \"8\", \"SET_PSUPP\": \"9\"}"
+  },
+  {
+    "id": 653,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"50009^MNDRY_VENT_MODE_SIMVPC^99MNDRY\", \"SET_TRIGGERFLOW\": \"2.0039861\", \"SET_OXYGEN\": \"39\", \"SET_PEEP\": \"6\", \"SET_PSUPP\": \"10\"}"
+  },
+  {
+    "id": 654,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"5120\", \"SET_TRIGGERFLOW\": \"0.9874542\", \"SET_OXYGEN\": \"31\", \"SET_PEEP\": \"5\", \"SET_PSUPP\": \"6\"}"
+  },
+  {
+    "id": 655,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"5120\", \"SET_TRIGGERFLOW\": \"0.98425174\", \"SET_OXYGEN\": \"30\", \"SET_PEEP\": \"4\", \"SET_PSUPP\": \"5\"}"
+  },
+  {
+    "id": 656,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"50021^MNDRY_VENT_MODE_CPAP_PLUS_PS^99MNDRY\", \"SET_TRIGGERFLOW\": \"1.9836165\", \"SET_OXYGEN\": \"38\", \"SET_PEEP\": \"5\", \"SET_PSUPP\": \"8\"}"
+  },
+  {
+    "id": 657,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"50021^MNDRY_VENT_MODE_CPAP_PLUS_PS^99MNDRY\", \"SET_TRIGGERFLOW\": \"1.9637692\", \"SET_OXYGEN\": \"36\", \"SET_PEEP\": \"5\", \"SET_PSUPP\": \"7\"}"
+  },
+  {
+    "id": 658,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"50021^MNDRY_VENT_MODE_CPAP_PLUS_PS^99MNDRY\", \"SET_TRIGGERFLOW\": \"1.9570812\", \"SET_OXYGEN\": \"33\", \"SET_PEEP\": \"5\", \"SET_PSUPP\": \"7\"}"
+  },
+  {
+    "id": 659,
+    "task2_output": "{\"SET_SIMVRR\": \"8\", \"SET_VENTMODE\": \"5119\", \"SET_TRIGGERFLOW\": \"1.9939753\", \"SET_OXYGEN\": \"38\", \"SET_PEEP\": \"5\", \"SET_PSUPP\": \"9\"}"
+  },
+  {
+    "id": 660,
+    "task2_output": "{\"SET_SIMVRR\": \"7\", \"SET_VENTMODE\": \"5119\", \"SET_TRIGGERFLOW\": \"1.9775921\", \"SET_OXYGEN\": \"38\", \"SET_PEEP\": \"5\", \"SET_PSUPP\": \"9\"}"
+  },
+  {
+    "id": 661,
+    "task2_output": "{\"SET_SIMVRR\": \"12\", \"SET_VENTMODE\": \"5119\", \"SET_TRIGGERFLOW\": \"1.937198\", \"SET_OXYGEN\": \"41\", \"SET_PEEP\": \"5\", \"SET_PSUPP\": \"10\"}"
+  },
+  {
+    "id": 662,
+    "task2_output": "{\"SET_SIMVRR\": \"12\", \"SET_VENTMODE\": \"5119\", \"SET_TRIGGERFLOW\": \"1.9833508\", \"SET_OXYGEN\": \"38\", \"SET_PEEP\": \"6\", \"SET_PSUPP\": \"8\"}"
+  },
+  {
+    "id": 663,
+    "task2_output": "{\"SET_SIMVRR\": \"14\", \"SET_VENTMODE\": \"5119\", \"SET_TRIGGERFLOW\": \"1.9937297\", \"SET_OXYGEN\": \"42\", \"SET_PEEP\": \"8\", \"SET_PSUPP\": \"9\"}"
+  },
+  {
+    "id": 664,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"50021^MNDRY_VENT_MODE_CPAP_PLUS_PS^99MNDRY\", \"SET_TRIGGERFLOW\": \"1.9864336\", \"SET_OXYGEN\": \"34\", \"SET_PEEP\": \"5\", \"SET_PSUPP\": \"9\"}"
+  },
+  {
+    "id": 665,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"50021^MNDRY_VENT_MODE_CPAP_PLUS_PS^99MNDRY\", \"SET_TRIGGERFLOW\": \"1.9856083\", \"SET_OXYGEN\": \"34\", \"SET_PEEP\": \"6\", \"SET_PSUPP\": \"8\"}"
+  },
+  {
+    "id": 666,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"5120\", \"SET_TRIGGERFLOW\": \"1.1223981\", \"SET_OXYGEN\": \"39\", \"SET_PEEP\": \"7\", \"SET_PSUPP\": \"6\"}"
+  },
+  {
+    "id": 667,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"5120\", \"SET_TRIGGERFLOW\": \"1.9847076\", \"SET_OXYGEN\": \"34\", \"SET_PEEP\": \"5\", \"SET_PSUPP\": \"9\"}"
+  },
+  {
+    "id": 668,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"5120\", \"SET_TRIGGERFLOW\": \"1.9871396\", \"SET_OXYGEN\": \"34\", \"SET_PEEP\": \"5\", \"SET_PSUPP\": \"11\"}"
+  },
+  {
+    "id": 669,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"5120\", \"SET_TRIGGERFLOW\": \"1.980832\", \"SET_OXYGEN\": \"33\", \"SET_PEEP\": \"5\", \"SET_PSUPP\": \"11\"}"
+  },
+  {
+    "id": 670,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"5120\", \"SET_TRIGGERFLOW\": \"1.9687825\", \"SET_OXYGEN\": \"39\", \"SET_PEEP\": \"5\", \"SET_PSUPP\": \"10\"}"
+  },
+  {
+    "id": 671,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"5120\", \"SET_TRIGGERFLOW\": \"1.9626449\", \"SET_OXYGEN\": \"44\", \"SET_PEEP\": \"8\", \"SET_PSUPP\": \"10\"}"
+  },
+  {
+    "id": 672,
+    "task2_output": "{\"SET_SIMVRR\": \"13\", \"SET_VENTMODE\": \"5119\", \"SET_TRIGGERFLOW\": \"1.1047685\", \"SET_OXYGEN\": \"30\", \"SET_PEEP\": \"4\", \"SET_PSUPP\": \"6\"}"
+  },
+  {
+    "id": 673,
+    "task2_output": "{\"SET_SIMVRR\": \"9\", \"SET_VENTMODE\": \"5119\", \"SET_TRIGGERFLOW\": \"1.0579909\", \"SET_OXYGEN\": \"33\", \"SET_PEEP\": \"4\", \"SET_PSUPP\": \"6\"}"
+  },
+  {
+    "id": 674,
+    "task2_output": "{\"SET_SIMVRR\": \"8\", \"SET_VENTMODE\": \"5119\", \"SET_TRIGGERFLOW\": \"1.0390764\", \"SET_OXYGEN\": \"33\", \"SET_PEEP\": \"4\", \"SET_PSUPP\": \"7\"}"
+  },
+  {
+    "id": 675,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"5120\", \"SET_TRIGGERFLOW\": \"1.0438904\", \"SET_OXYGEN\": \"31\", \"SET_PEEP\": \"5\", \"SET_PSUPP\": \"7\"}"
+  },
+  {
+    "id": 676,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"5120\", \"SET_TRIGGERFLOW\": \"0.93615746\", \"SET_OXYGEN\": \"30\", \"SET_PEEP\": \"5\", \"SET_PSUPP\": \"6\"}"
+  },
+  {
+    "id": 677,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"5120\", \"SET_TRIGGERFLOW\": \"0.9664066\", \"SET_OXYGEN\": \"30\", \"SET_PEEP\": \"5\", \"SET_PSUPP\": \"5\"}"
+  },
+  {
+    "id": 678,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"50021^MNDRY_VENT_MODE_CPAP_PLUS_PS^99MNDRY\", \"SET_TRIGGERFLOW\": \"1.9594208\", \"SET_OXYGEN\": \"34\", \"SET_PEEP\": \"5\", \"SET_PSUPP\": \"6\"}"
+  },
+  {
+    "id": 679,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"50021^MNDRY_VENT_MODE_CPAP_PLUS_PS^99MNDRY\", \"SET_TRIGGERFLOW\": \"1.9497157\", \"SET_OXYGEN\": \"33\", \"SET_PEEP\": \"5\", \"SET_PSUPP\": \"6\"}"
+  },
+  {
+    "id": 680,
+    "task2_output": "{\"SET_SIMVRR\": \"12\", \"SET_VENTMODE\": \"5119\", \"SET_TRIGGERFLOW\": \"1.9953772\", \"SET_OXYGEN\": \"41\", \"SET_PEEP\": \"8\", \"SET_PSUPP\": \"9\"}"
+  },
+  {
+    "id": 681,
+    "task2_output": "{\"SET_SIMVRR\": \"14\", \"SET_VENTMODE\": \"5119\", \"SET_TRIGGERFLOW\": \"2.0108428\", \"SET_OXYGEN\": \"40\", \"SET_PEEP\": \"8\", \"SET_PSUPP\": \"11\"}"
+  },
+  {
+    "id": 682,
+    "task2_output": "{\"SET_SIMVRR\": \"6\", \"SET_VENTMODE\": \"5118\", \"SET_TRIGGERFLOW\": \"1.8931981\", \"SET_OXYGEN\": \"42\", \"SET_PEEP\": \"4\", \"SET_PSUPP\": \"8\"}"
+  },
+  {
+    "id": 683,
+    "task2_output": "{\"SET_SIMVRR\": \"6\", \"SET_VENTMODE\": \"5118\", \"SET_TRIGGERFLOW\": \"1.9019661\", \"SET_OXYGEN\": \"42\", \"SET_PEEP\": \"4\", \"SET_PSUPP\": \"9\"}"
+  },
+  {
+    "id": 684,
+    "task2_output": "{\"SET_SIMVRR\": \"1\", \"SET_VENTMODE\": \"5120\", \"SET_TRIGGERFLOW\": \"1.9668539\", \"SET_OXYGEN\": \"41\", \"SET_PEEP\": \"4\", \"SET_PSUPP\": \"9\"}"
+  },
+  {
+    "id": 685,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"5120\", \"SET_TRIGGERFLOW\": \"1.9753338\", \"SET_OXYGEN\": \"40\", \"SET_PEEP\": \"4\", \"SET_PSUPP\": \"9\"}"
+  },
+  {
+    "id": 686,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"5120\", \"SET_TRIGGERFLOW\": \"1.0284015\", \"SET_OXYGEN\": \"31\", \"SET_PEEP\": \"5\", \"SET_PSUPP\": \"7\"}"
+  },
+  {
+    "id": 687,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"5120\", \"SET_TRIGGERFLOW\": \"1.0093175\", \"SET_OXYGEN\": \"31\", \"SET_PEEP\": \"5\", \"SET_PSUPP\": \"8\"}"
+  },
+  {
+    "id": 688,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"5120\", \"SET_TRIGGERFLOW\": \"1.0055184\", \"SET_OXYGEN\": \"31\", \"SET_PEEP\": \"5\", \"SET_PSUPP\": \"9\"}"
+  },
+  {
+    "id": 689,
+    "task2_output": "{\"SET_SIMVRR\": \"1\", \"SET_VENTMODE\": \"50009^MNDRY_VENT_MODE_SIMVPC^99MNDRY\", \"SET_TRIGGERFLOW\": \"1.9726747\", \"SET_OXYGEN\": \"40\", \"SET_PEEP\": \"3\", \"SET_PSUPP\": \"9\"}"
+  },
+  {
+    "id": 690,
+    "task2_output": "{\"SET_SIMVRR\": \"1\", \"SET_VENTMODE\": \"50009^MNDRY_VENT_MODE_SIMVPC^99MNDRY\", \"SET_TRIGGERFLOW\": \"1.9605359\", \"SET_OXYGEN\": \"39\", \"SET_PEEP\": \"3\", \"SET_PSUPP\": \"9\"}"
+  },
+  {
+    "id": 691,
+    "task2_output": "{\"SET_SIMVRR\": \"1\", \"SET_VENTMODE\": \"50009^MNDRY_VENT_MODE_SIMVPC^99MNDRY\", \"SET_TRIGGERFLOW\": \"1.9712753\", \"SET_OXYGEN\": \"39\", \"SET_PEEP\": \"3\", \"SET_PSUPP\": \"8\"}"
+  },
+  {
+    "id": 692,
+    "task2_output": "{\"SET_SIMVRR\": \"1\", \"SET_VENTMODE\": \"50009^MNDRY_VENT_MODE_SIMVPC^99MNDRY\", \"SET_TRIGGERFLOW\": \"1.9686525\", \"SET_OXYGEN\": \"40\", \"SET_PEEP\": \"3\", \"SET_PSUPP\": \"8\"}"
+  },
+  {
+    "id": 693,
+    "task2_output": "{\"SET_SIMVRR\": \"1\", \"SET_VENTMODE\": \"50009^MNDRY_VENT_MODE_SIMVPC^99MNDRY\", \"SET_TRIGGERFLOW\": \"1.9704202\", \"SET_OXYGEN\": \"40\", \"SET_PEEP\": \"3\", \"SET_PSUPP\": \"8\"}"
+  },
+  {
+    "id": 694,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"50021^MNDRY_VENT_MODE_CPAP_PLUS_PS^99MNDRY\", \"SET_TRIGGERFLOW\": \"1.9487553\", \"SET_OXYGEN\": \"41\", \"SET_PEEP\": \"4\", \"SET_PSUPP\": \"8\"}"
+  },
+  {
+    "id": 695,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"50021^MNDRY_VENT_MODE_CPAP_PLUS_PS^99MNDRY\", \"SET_TRIGGERFLOW\": \"1.9550921\", \"SET_OXYGEN\": \"41\", \"SET_PEEP\": \"4\", \"SET_PSUPP\": \"8\"}"
+  },
+  {
+    "id": 696,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"50021^MNDRY_VENT_MODE_CPAP_PLUS_PS^99MNDRY\", \"SET_TRIGGERFLOW\": \"1.95175\", \"SET_OXYGEN\": \"37\", \"SET_PEEP\": \"4\", \"SET_PSUPP\": \"8\"}"
+  },
+  {
+    "id": 697,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"50009^MNDRY_VENT_MODE_SIMVPC^99MNDRY\", \"SET_TRIGGERFLOW\": \"1.99839\", \"SET_OXYGEN\": \"37\", \"SET_PEEP\": \"6\", \"SET_PSUPP\": \"12\"}"
+  },
+  {
+    "id": 698,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"50009^MNDRY_VENT_MODE_SIMVPC^99MNDRY\", \"SET_TRIGGERFLOW\": \"2.001662\", \"SET_OXYGEN\": \"37\", \"SET_PEEP\": \"6\", \"SET_PSUPP\": \"12\"}"
+  },
+  {
+    "id": 699,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"50009^MNDRY_VENT_MODE_SIMVPC^99MNDRY\", \"SET_TRIGGERFLOW\": \"2.0008142\", \"SET_OXYGEN\": \"37\", \"SET_PEEP\": \"6\", \"SET_PSUPP\": \"12\"}"
+  },
+  {
+    "id": 700,
+    "task2_output": "{\"SET_SIMVRR\": \"1\", \"SET_VENTMODE\": \"50009^MNDRY_VENT_MODE_SIMVPC^99MNDRY\", \"SET_TRIGGERFLOW\": \"2.0205352\", \"SET_OXYGEN\": \"42\", \"SET_PEEP\": \"6\", \"SET_PSUPP\": \"14\"}"
+  },
+  {
+    "id": 701,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"50009^MNDRY_VENT_MODE_SIMVPC^99MNDRY\", \"SET_TRIGGERFLOW\": \"2.0380998\", \"SET_OXYGEN\": \"44\", \"SET_PEEP\": \"8\", \"SET_PSUPP\": \"14\"}"
+  },
+  {
+    "id": 702,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"50009^MNDRY_VENT_MODE_SIMVPC^99MNDRY\", \"SET_TRIGGERFLOW\": \"2.0312762\", \"SET_OXYGEN\": \"40\", \"SET_PEEP\": \"7\", \"SET_PSUPP\": \"15\"}"
+  },
+  {
+    "id": 703,
+    "task2_output": "{\"SET_SIMVRR\": \"1\", \"SET_VENTMODE\": \"50009^MNDRY_VENT_MODE_SIMVPC^99MNDRY\", \"SET_TRIGGERFLOW\": \"2.0371363\", \"SET_OXYGEN\": \"49\", \"SET_PEEP\": \"8\", \"SET_PSUPP\": \"15\"}"
+  },
+  {
+    "id": 704,
+    "task2_output": "{\"SET_SIMVRR\": \"14\", \"SET_VENTMODE\": \"5119\", \"SET_TRIGGERFLOW\": \"1.978789\", \"SET_OXYGEN\": \"42\", \"SET_PEEP\": \"10\", \"SET_PSUPP\": \"9\"}"
+  },
+  {
+    "id": 705,
+    "task2_output": "{\"SET_SIMVRR\": \"14\", \"SET_VENTMODE\": \"5119\", \"SET_TRIGGERFLOW\": \"1.9930111\", \"SET_OXYGEN\": \"41\", \"SET_PEEP\": \"9\", \"SET_PSUPP\": \"9\"}"
+  },
+  {
+    "id": 706,
+    "task2_output": "{\"SET_SIMVRR\": \"8\", \"SET_VENTMODE\": \"5119\", \"SET_TRIGGERFLOW\": \"1.9992963\", \"SET_OXYGEN\": \"37\", \"SET_PEEP\": \"6\", \"SET_PSUPP\": \"9\"}"
+  },
+  {
+    "id": 707,
+    "task2_output": "{\"SET_SIMVRR\": \"10\", \"SET_VENTMODE\": \"5119\", \"SET_TRIGGERFLOW\": \"1.9523888\", \"SET_OXYGEN\": \"40\", \"SET_PEEP\": \"6\", \"SET_PSUPP\": \"10\"}"
+  },
+  {
+    "id": 708,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"50009^MNDRY_VENT_MODE_SIMVPC^99MNDRY\", \"SET_TRIGGERFLOW\": \"2.0213363\", \"SET_OXYGEN\": \"48\", \"SET_PEEP\": \"8\", \"SET_PSUPP\": \"14\"}"
+  },
+  {
+    "id": 709,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"50009^MNDRY_VENT_MODE_SIMVPC^99MNDRY\", \"SET_TRIGGERFLOW\": \"2.0194368\", \"SET_OXYGEN\": \"46\", \"SET_PEEP\": \"8\", \"SET_PSUPP\": \"15\"}"
+  },
+  {
+    "id": 710,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"50009^MNDRY_VENT_MODE_SIMVPC^99MNDRY\", \"SET_TRIGGERFLOW\": \"2.020816\", \"SET_OXYGEN\": \"44\", \"SET_PEEP\": \"8\", \"SET_PSUPP\": \"14\"}"
+  },
+  {
+    "id": 711,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"50009^MNDRY_VENT_MODE_SIMVPC^99MNDRY\", \"SET_TRIGGERFLOW\": \"2.016161\", \"SET_OXYGEN\": \"44\", \"SET_PEEP\": \"7\", \"SET_PSUPP\": \"14\"}"
+  },
+  {
+    "id": 712,
+    "task2_output": "{\"SET_SIMVRR\": \"6\", \"SET_VENTMODE\": \"5119\", \"SET_TRIGGERFLOW\": \"1.9632558\", \"SET_OXYGEN\": \"35\", \"SET_PEEP\": \"5\", \"SET_PSUPP\": \"9\"}"
+  },
+  {
+    "id": 713,
+    "task2_output": "{\"SET_SIMVRR\": \"6\", \"SET_VENTMODE\": \"5119\", \"SET_TRIGGERFLOW\": \"1.961941\", \"SET_OXYGEN\": \"35\", \"SET_PEEP\": \"5\", \"SET_PSUPP\": \"9\"}"
+  },
+  {
+    "id": 714,
+    "task2_output": "{\"SET_SIMVRR\": \"0\", \"SET_VENTMODE\": \"5120\", \"SET_TRIGGERFLOW\": \"1.9637408\", \"SET_OXYGEN\": \"34\", \"SET_PEEP\": \"5\", \"SET_PSUPP\": \"9\"}"
+  },
+  {
+    "id": 715,
+    "task2_output": "{\"SET_SIMVRR\": \"8\", \"SET_VENTMODE\": \"5119\", \"SET_TRIGGERFLOW\": \"1.9571959\", \"SET_OXYGEN\": \"41\", \"SET_PEEP\": \"5\", \"SET_PSUPP\": \"9\"}"
+  },
+  {
+    "id": 716,
+    "task2_output": "{\"SET_SIMVRR\": \"7\", \"SET_VENTMODE\": \"5119\", \"SET_TRIGGERFLOW\": \"1.9822565\", \"SET_OXYGEN\": \"41\", \"SET_PEEP\": \"5\", \"SET_PSUPP\": \"9\"}"
+  },
+  {
+    "id": 717,
+    "task2_output": "{\"SET_SIMVRR\": \"1\", \"SET_VENTMODE\": \"5120\", \"SET_TRIGGERFLOW\": \"1.9947852\", \"SET_OXYGEN\": \"41\", \"SET_PEEP\": \"5\", \"SET_PSUPP\": \"9\"}"
+  },
+  {
+    "id": 718,
+    "task2_output": "{\"SET_SIMVRR\": \"1\", \"SET_VENTMODE\": \"5120\", \"SET_TRIGGERFLOW\": \"1.9896665\", \"SET_OXYGEN\": \"40\", \"SET_PEEP\": \"5\", \"SET_PSUPP\": \"8\"}"
+  }
+]
